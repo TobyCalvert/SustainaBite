@@ -1,0 +1,24 @@
+# Environments
+venv/
+env/
+.env
+.venv/
+
+# PyCharm specific
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data files (if you have massive CSVs or databases you don't want public)
+*.sqlite3
+*.csv
+
+# Machine Learning Data & Models & images
+*.xlsx
+*.pkl
+*.model
+*.png
+
+archive/

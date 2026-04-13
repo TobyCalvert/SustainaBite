@@ -1,0 +1,1295 @@
+[
+    {
+        "title": "baked pasta with white mushroom sauce",
+        "total_co2": 0.1649,
+        "kcal": 151.8,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "milk -> milk [PANTRY: 0 CO2]",
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "spring onions -> Onions (spring - raw)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "mushroom -> Mushroom (canned)",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "butter -> butter [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "refined flour",
+            "ham",
+            "fettuccine pasta",
+            "cheddar cheese"
+        ]
+    },
+    {
+        "title": "yummy mushroom barley soup",
+        "total_co2": 0.1819,
+        "kcal": 896.2,
+        "match_ratio": 0.733,
+        "matched_count": 11,
+        "total_count": 15,
+        "matched_items": [
+            "butter -> butter [PANTRY: 0 CO2]",
+            "oil -> oil [PANTRY: 0 CO2]",
+            "onions -> Onions (chopped - frozen)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "sliced mushrooms -> Mushroom (canned)",
+            "parsley -> Parsley (raw)",
+            "carrots -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "soy sauce -> Soy sauce",
+            "black pepper -> black pepper [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "pearl barley",
+            "chicken broth",
+            "cayenne pepper",
+            "scallion"
+        ]
+    },
+    {
+        "title": "the best pork chop dinner   ever",
+        "total_co2": 0.2749,
+        "kcal": 411.8,
+        "match_ratio": 0.714,
+        "matched_count": 10,
+        "total_count": 14,
+        "matched_items": [
+            "butter -> butter [PANTRY: 0 CO2]",
+            "olive oil -> Olive oil",
+            "mushroom -> Mushroom (canned)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "dried basil -> Basil (dried)",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "potatoes -> Potato (canned)",
+            "onion -> Onions (chopped - frozen)",
+            "parsley -> Parsley (raw)"
+        ],
+        "unmatched_items": [
+            "pork loin chops with bone",
+            "condensed cream of chicken soup",
+            "dijon mustard",
+            "chicken broth"
+        ]
+    },
+    {
+        "title": "country vegetable simmer",
+        "total_co2": 0.2794,
+        "kcal": 165.2,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "fresh green beans -> Beans (green - raw)",
+            "onions -> Onions (chopped - frozen)",
+            "butter -> butter [PANTRY: 0 CO2]",
+            "fresh mushrooms -> Mushroom (canned)",
+            "tomatoes -> Tomato (peeled - canned)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "fresh garlic -> garlic [PANTRY: 0 CO2]",
+            "fresh parsley -> Parsley (raw)"
+        ],
+        "unmatched_items": [
+            "red potatoes",
+            "basil leaves",
+            "thyme leaves",
+            "tomato paste"
+        ]
+    },
+    {
+        "title": "baked salmon with vegetables and herbs",
+        "total_co2": 0.2915,
+        "kcal": 680.6,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "carrot -> Carrot (frozen)",
+            "green beans -> Beans (green - raw)",
+            "olive oil -> Olive oil",
+            "fresh basil -> Basil (fresh)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "butter -> butter [PANTRY: 0 CO2]",
+            "soy sauce -> Soy sauce",
+            "leeks -> Leek (raw)",
+            "fresh dill -> Dill (raw)"
+        ],
+        "unmatched_items": [
+            "red potatoes",
+            "green onions",
+            "pepper",
+            "salmon fillets"
+        ]
+    },
+    {
+        "title": "italian pasta and beans  pasta faggioli",
+        "total_co2": 0.3053,
+        "kcal": 202.9,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "carrot -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "diced tomatoes -> Tomato (peeled - canned)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "fresh parsley -> Parsley (raw)"
+        ],
+        "unmatched_items": [
+            "ditalini",
+            "cannellini beans",
+            "water",
+            "parmesan cheese"
+        ]
+    },
+    {
+        "title": "olive garden pasta roma soup",
+        "total_co2": 0.3053,
+        "kcal": 597.2,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "cooked bacon -> bacon [PANTRY: 0 CO2]",
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "celery -> Celery (raw)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "carrot -> Carrot (frozen)",
+            "canned tomatoes -> Tomato (peeled - canned)",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "fresh parsley -> Parsley (raw)"
+        ],
+        "unmatched_items": [
+            "garbanzo beans",
+            "chicken broth",
+            "rosemary",
+            "bow tie pasta"
+        ]
+    },
+    {
+        "title": "weight watchers spiced chicken cacciatore",
+        "total_co2": 0.3071,
+        "kcal": 420.1,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "mushroom -> Mushroom (canned)",
+            "dried basil -> Basil (dried)",
+            "curry powder -> Curry powder",
+            "table salt -> Salt (table)",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "diced tomatoes -> Tomato (peeled - canned)",
+            "fresh parsley -> Parsley (raw)"
+        ],
+        "unmatched_items": [
+            "garlic cloves",
+            "green pepper",
+            "boneless skinless chicken breast",
+            "whole wheat spaghetti"
+        ]
+    },
+    {
+        "title": "chicken with lemon and basil  kotopoulo lemonato",
+        "total_co2": 0.3213,
+        "kcal": 207.7,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "butter -> butter [PANTRY: 0 CO2]",
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "carrots -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "fresh basil -> Basil (fresh)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "fresh parsley -> Parsley (raw)",
+            "egg noodles -> Noodles (eggs)"
+        ],
+        "unmatched_items": [
+            "chicken quarters",
+            "lemon juice",
+            "fresh ground pepper",
+            "chicken stock"
+        ]
+    },
+    {
+        "title": "baked frittata for one",
+        "total_co2": 0.3262,
+        "kcal": 438.3,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "tomatoes -> Tomato (peeled - canned)",
+            "mushrooms -> Mushroom (canned)",
+            "butter -> butter [PANTRY: 0 CO2]",
+            "potato -> Potato (canned)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "fresh parsley -> Parsley (raw)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "dried basil -> Basil (dried)"
+        ],
+        "unmatched_items": [
+            "eggs",
+            "zucchini",
+            "green onions",
+            "cheddar cheese"
+        ]
+    },
+    {
+        "title": "crock pot potato leek soup",
+        "total_co2": 0.3405,
+        "kcal": 382.0,
+        "match_ratio": 0.714,
+        "matched_count": 10,
+        "total_count": 14,
+        "matched_items": [
+            "potatoes -> Potato (canned)",
+            "parsley -> Parsley (raw)",
+            "leeks -> Leek (raw)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "onions -> Onions (chopped - frozen)",
+            "butter -> butter [PANTRY: 0 CO2]",
+            "carrot -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "bacon fat -> bacon [PANTRY: 0 CO2]",
+            "chives -> Chive (raw)"
+        ],
+        "unmatched_items": [
+            "water",
+            "pepper",
+            "evaporated milk",
+            "chicken bouillon cubes"
+        ]
+    },
+    {
+        "title": "golden mushroom soup",
+        "total_co2": 0.3434,
+        "kcal": 236.7,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "butter -> butter [PANTRY: 0 CO2]",
+            "onion -> Onions (chopped - frozen)",
+            "white wine -> Wine (white)",
+            "mushroom -> Mushroom (canned)",
+            "dill -> Dill (raw)",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "soy sauce -> Soy sauce",
+            "milk -> milk [PANTRY: 0 CO2]",
+            "salt -> salt [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "paprika",
+            "vegetable stock",
+            "flour",
+            "lemon juice"
+        ]
+    },
+    {
+        "title": "chicken oreganata",
+        "total_co2": 0.3578,
+        "kcal": 705.7,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "olive oil -> Olive oil",
+            "potatoes -> Potato (canned)",
+            "breadcrumbs -> breadcrumb [PANTRY: 0 CO2]",
+            "parsley -> Parsley (raw)",
+            "onion -> Onions (chopped - frozen)",
+            "tomatoes -> Tomato (peeled - canned)",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "salt -> salt [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "oregano",
+            "lemon zest",
+            "chicken thighs",
+            "lemon juice"
+        ]
+    },
+    {
+        "title": "autumn vegetable soup",
+        "total_co2": 0.3801,
+        "kcal": 213.0,
+        "match_ratio": 0.714,
+        "matched_count": 10,
+        "total_count": 14,
+        "matched_items": [
+            "butter -> butter [PANTRY: 0 CO2]",
+            "onions -> Onions (chopped - frozen)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "carrots -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "potatoes -> Potato (canned)",
+            "tomatoes -> Tomato (peeled - canned)",
+            "parsley -> Parsley (raw)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "milk -> milk [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "zucchini",
+            "chicken stock",
+            "dried thyme",
+            "pepper"
+        ]
+    },
+    {
+        "title": "italian style kidney beans",
+        "total_co2": 0.3969,
+        "kcal": 243.4,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "bacon -> bacon [PANTRY: 0 CO2]",
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "carrot -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "diced tomatoes -> Tomato (peeled - canned)",
+            "fresh parsley -> Parsley (raw)",
+            "kidney beans -> Kidney beans",
+            "salt -> salt [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "fresh rosemary",
+            "bay leaf",
+            "pepper",
+            "red pepper flakes"
+        ]
+    },
+    {
+        "title": "sausage and mushroom strata",
+        "total_co2": 0.4012,
+        "kcal": 701.5,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "fresh mushrooms -> Mushroom (canned)",
+            "butter -> butter [PANTRY: 0 CO2]",
+            "pork sausage -> Pork (sausage - raw)",
+            "onion -> Onions (chopped - frozen)",
+            "celery -> Celery (raw)",
+            "mayonnaise -> Mayonnaise (low fat)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "milk -> milk [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "bread",
+            "dried tarragon",
+            "eggs",
+            "cheddar cheese"
+        ]
+    },
+    {
+        "title": "warm tuna and bean salad",
+        "total_co2": 0.4019,
+        "kcal": 409.5,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "olive oil -> Olive oil",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "red onion -> Red onion",
+            "tomatoes -> Tomato (peeled - canned)",
+            "cucumber -> Cucumber (raw)",
+            "fresh parsley -> Parsley (raw)",
+            "fresh basil -> Basil (fresh)",
+            "vinegar -> Vinegar",
+            "salt -> salt [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "tuna steak",
+            "red kidney beans",
+            "pepper",
+            "salad leaves"
+        ]
+    },
+    {
+        "title": "cream of sun dried tomato soup",
+        "total_co2": 0.4102,
+        "kcal": 204.3,
+        "match_ratio": 0.667,
+        "matched_count": 10,
+        "total_count": 15,
+        "matched_items": [
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "carrots -> Carrot (frozen)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "tomatoes -> Tomato (peeled - canned)",
+            "potato -> Potato (canned)",
+            "fresh basil -> Basil (fresh)",
+            "milk -> milk [PANTRY: 0 CO2]",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "chives -> Chive (raw)"
+        ],
+        "unmatched_items": [
+            "celery ribs",
+            "chicken stock",
+            "sun-dried tomato",
+            "sugar",
+            "fresh ground pepper"
+        ]
+    },
+    {
+        "title": "vegetable stir fry",
+        "total_co2": 0.422,
+        "kcal": 179.7,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "carrot -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "potatoes -> Potato (canned)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "broccoli -> Broccoli (frozen)",
+            "onions -> Onions (chopped - frozen)",
+            "butter -> butter [PANTRY: 0 CO2]",
+            "soy sauce -> Soy sauce",
+            "vinegar -> Vinegar"
+        ],
+        "unmatched_items": [
+            "water",
+            "sugar",
+            "garlic sauce",
+            "vegetable oil"
+        ]
+    },
+    {
+        "title": "creamy spinach pasta casserole",
+        "total_co2": 0.4252,
+        "kcal": 469.2,
+        "match_ratio": 0.667,
+        "matched_count": 10,
+        "total_count": 15,
+        "matched_items": [
+            "pasta -> Pasta (raw)",
+            "frozen spinach -> Spinach (chopped - frozen)",
+            "fresh dill -> Dill (raw)",
+            "spring onions -> Onions (spring - raw)",
+            "mushrooms -> Mushroom (canned)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "olive oil -> Olive oil",
+            "butter -> butter [PANTRY: 0 CO2]",
+            "milk -> milk [PANTRY: 0 CO2]",
+            "black pepper -> black pepper [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "garlic cloves",
+            "nutmeg",
+            "feta",
+            "flour",
+            "cheese"
+        ]
+    },
+    {
+        "title": "poularde a l ivoire  ivory chicken",
+        "total_co2": 0.4292,
+        "kcal": 1362.5,
+        "match_ratio": 0.667,
+        "matched_count": 10,
+        "total_count": 15,
+        "matched_items": [
+            "chicken -> chicken [PANTRY: 0 CO2]",
+            "lemon -> Lemon (raw)",
+            "bacon -> bacon [PANTRY: 0 CO2]",
+            "butter -> butter [PANTRY: 0 CO2]",
+            "carrots -> Carrot (frozen)",
+            "onion -> Onions (chopped - frozen)",
+            "celery -> Celery (raw)",
+            "white wine -> Wine (white)",
+            "mushroom -> Mushroom (canned)",
+            "salt -> salt [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "parsley sprigs",
+            "homemade chicken stock",
+            "clove",
+            "flour",
+            "heavy cream"
+        ]
+    },
+    {
+        "title": "fresh vegetable salad",
+        "total_co2": 0.435,
+        "kcal": 148.7,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "celery -> Celery (raw)",
+            "cauliflower -> Cauliflower (frozen)",
+            "carrots -> Carrot (frozen)",
+            "cucumbers -> Cucumber (raw)",
+            "onion -> Onions (chopped - frozen)",
+            "olive oil -> Olive oil",
+            "fresh parsley -> Parsley (raw)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "garlic -> garlic [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "cherry tomatoes",
+            "white wine vinegar",
+            "ground mustard",
+            "pepper"
+        ]
+    },
+    {
+        "title": "greek chickpea stew",
+        "total_co2": 0.4351,
+        "kcal": 241.2,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "onion -> Onions (chopped - frozen)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "olive oil -> Olive oil",
+            "diced tomatoes -> Tomato (peeled - canned)",
+            "chicken -> chicken [PANTRY: 0 CO2]",
+            "fresh parsley -> Parsley (raw)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "fresh spinach -> Spinach (chopped - frozen)",
+            "chickpeas -> Chickpea (canned)"
+        ],
+        "unmatched_items": [
+            "tomato paste",
+            "dried oregano",
+            "pepper",
+            "feta cheese"
+        ]
+    },
+    {
+        "title": "blow your socks off beef of wild game marinade",
+        "total_co2": 0.4366,
+        "kcal": 167.9,
+        "match_ratio": 0.667,
+        "matched_count": 10,
+        "total_count": 15,
+        "matched_items": [
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "carrot -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "red wine -> Wine (red)",
+            "fresh basil -> Basil (fresh)",
+            "fresh parsley -> Parsley (raw)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "soy sauce -> Soy sauce"
+        ],
+        "unmatched_items": [
+            "water",
+            "bay leaves",
+            "fresh thyme",
+            "peppercorns",
+            "worcestershire sauce"
+        ]
+    },
+    {
+        "title": "gjelle me zarzavata  albanian casserole",
+        "total_co2": 0.4386,
+        "kcal": 523.2,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "olive oil -> Olive oil",
+            "potatoes -> Potato (canned)",
+            "chopped tomatoes -> Tomato (peeled - canned)",
+            "carrots -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "onion -> Onions (chopped - frozen)",
+            "parsley -> Parsley (raw)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "black pepper -> black pepper [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "top round beef",
+            "green bell pepper",
+            "garlic cloves",
+            "chicken broth"
+        ]
+    },
+    {
+        "title": "imam bayildi",
+        "total_co2": 0.4486,
+        "kcal": 299.4,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "aubergines -> Aubergine (raw)",
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "parsley -> Parsley (raw)",
+            "tomatoes -> Tomato (peeled - canned)",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "lemon -> Lemon (raw)"
+        ],
+        "unmatched_items": [
+            "green pepper",
+            "red pepper",
+            "ground cinnamon",
+            "sugar"
+        ]
+    },
+    {
+        "title": "oven poached halibut provencal",
+        "total_co2": 0.4689,
+        "kcal": 328.2,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "white wine -> Wine (white)",
+            "tomatoes -> Tomato (peeled - canned)",
+            "onions -> Onions (chopped - frozen)",
+            "fresh parsley -> Parsley (raw)",
+            "fresh basil -> Basil (fresh)",
+            "olive oil -> Olive oil",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "breadcrumbs -> breadcrumb [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "halibut steaks",
+            "anchovy paste",
+            "garlic cloves",
+            "parmesan cheese"
+        ]
+    },
+    {
+        "title": "black bean spaghetti",
+        "total_co2": 0.4693,
+        "kcal": 524.1,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "onion -> Onions (chopped - frozen)",
+            "fresh mushrooms -> Mushroom (canned)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "sweet red pepper -> Pepper (sweet - red - raw)",
+            "olive oil -> Olive oil",
+            "black beans -> Black beans",
+            "whole tomatoes -> Tomato (peeled - canned)",
+            "dried basil -> Basil (dried)",
+            "salt -> salt [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "sliced ripe olives",
+            "pepper",
+            "spaghetti",
+            "parmesan cheese"
+        ]
+    },
+    {
+        "title": "chicken cheese chowder",
+        "total_co2": 0.4823,
+        "kcal": 465.1,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "potatoes -> Potato (canned)",
+            "carrot -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "onion -> Onions (chopped - frozen)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "white wine -> Wine (white)",
+            "butter -> butter [PANTRY: 0 CO2]",
+            "milk -> milk [PANTRY: 0 CO2]",
+            "cooked chicken -> chicken [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "chicken broth",
+            "poultry seasoning",
+            "flour",
+            "sharp cheddar cheese"
+        ]
+    },
+    {
+        "title": "spicy chicken asiago soup",
+        "total_co2": 0.4849,
+        "kcal": 232.2,
+        "match_ratio": 0.769,
+        "matched_count": 10,
+        "total_count": 13,
+        "matched_items": [
+            "chicken sausage -> Chicken (sausage)",
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "potatoes -> Potato (canned)",
+            "dried basil -> Basil (dried)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "parsley -> Parsley (raw)",
+            "whole milk -> milk [PANTRY: 0 CO2]",
+            "kale -> Kale (raw)"
+        ],
+        "unmatched_items": [
+            "chicken broth",
+            "dried oregano",
+            "crushed red pepper flakes"
+        ]
+    },
+    {
+        "title": "an american quilt chopped salad",
+        "total_co2": 0.4927,
+        "kcal": 138.5,
+        "match_ratio": 0.688,
+        "matched_count": 11,
+        "total_count": 16,
+        "matched_items": [
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "red onions -> Red onion",
+            "soy sauce -> Soy sauce",
+            "olive oil -> Olive oil",
+            "honey -> Honey",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "cucumber -> Cucumber (raw)",
+            "celery -> Celery (raw)",
+            "red onion -> Red onion",
+            "carrot -> Carrot (frozen)",
+            "green beans -> Beans (green - raw)"
+        ],
+        "unmatched_items": [
+            "mustard",
+            "balsamic vinegar",
+            "arrowroot",
+            "corn kernels",
+            "radicchio"
+        ]
+    },
+    {
+        "title": "beach house mussels",
+        "total_co2": 0.5249,
+        "kcal": 857.6,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "canned tomatoes -> Tomato (peeled - canned)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "white wine -> Wine (white)",
+            "parsley -> Parsley (raw)",
+            "mussels -> Mussel (raw)",
+            "spring onion -> Onions (spring - raw)"
+        ],
+        "unmatched_items": [
+            "balsamic vinegar",
+            "sugar",
+            "fish sauce",
+            "tabasco sauce"
+        ]
+    },
+    {
+        "title": "sarasota s salmon salad sandwich",
+        "total_co2": 0.5311,
+        "kcal": 375.1,
+        "match_ratio": 0.667,
+        "matched_count": 10,
+        "total_count": 15,
+        "matched_items": [
+            "spinach -> Spinach (chopped - frozen)",
+            "tomatoes -> Tomato (peeled - canned)",
+            "olive oil -> Olive oil",
+            "cucumber -> Cucumber (raw)",
+            "red onion -> Red onion",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "mayonnaise -> Mayonnaise (low fat)",
+            "capers -> Caper",
+            "lemons -> Lemon (raw)",
+            "fresh dill -> Dill (raw)"
+        ],
+        "unmatched_items": [
+            "pumpernickel bread",
+            "salmon",
+            "black olives",
+            "pepper",
+            "lemon juice"
+        ]
+    },
+    {
+        "title": "long cooked hen in tomato sauce",
+        "total_co2": 0.5453,
+        "kcal": 1042.3,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "olive oil -> Olive oil",
+            "onions -> Onions (chopped - frozen)",
+            "carrot -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "red wine -> Wine (red)",
+            "whole tomatoes -> Tomato (peeled - canned)",
+            "chicken -> chicken [PANTRY: 0 CO2]",
+            "fresh basil -> Basil (fresh)"
+        ],
+        "unmatched_items": [
+            "bay leaves",
+            "sea salt",
+            "fresh ground black pepper",
+            "fresh italian parsley"
+        ]
+    },
+    {
+        "title": "savory chuck or pot roast with vegetables",
+        "total_co2": 0.5468,
+        "kcal": 870.4,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "salt -> salt [PANTRY: 0 CO2]",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "brown sugar -> Sugar (brown)",
+            "olive oil -> Olive oil",
+            "butter -> butter [PANTRY: 0 CO2]",
+            "onion -> Onions (chopped - frozen)",
+            "red wine -> Wine (red)",
+            "potatoes -> Potato (canned)",
+            "green beans -> Beans (green - raw)"
+        ],
+        "unmatched_items": [
+            "boneless chuck roast",
+            "flour",
+            "baby carrots",
+            "italian seasoning"
+        ]
+    },
+    {
+        "title": "pantry friendly tomato sauce",
+        "total_co2": 0.5565,
+        "kcal": 148.6,
+        "match_ratio": 0.667,
+        "matched_count": 10,
+        "total_count": 15,
+        "matched_items": [
+            "tomatoes -> Tomato (peeled - canned)",
+            "dried basil -> Basil (dried)",
+            "onion -> Onions (chopped - frozen)",
+            "carrot -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "olive oil -> Olive oil",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "capers -> Caper",
+            "white wine -> Wine (white)",
+            "black pepper -> black pepper [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "sherry wine vinegar",
+            "sugar",
+            "red pepper flakes",
+            "dried oregano",
+            "kosher salt"
+        ]
+    },
+    {
+        "title": "white bean soup with salad salsa",
+        "total_co2": 0.559,
+        "kcal": 124.4,
+        "match_ratio": 0.667,
+        "matched_count": 10,
+        "total_count": 15,
+        "matched_items": [
+            "olive oil -> Olive oil",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "onion -> Onions (chopped - frozen)",
+            "potato -> Potato (canned)",
+            "pasta -> Pasta (raw)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "tomatoes -> Tomato (peeled - canned)",
+            "fresh chives -> Chive (raw)",
+            "fresh basil -> Basil (fresh)",
+            "fresh parsley -> Parsley (raw)"
+        ],
+        "unmatched_items": [
+            "white kidney beans",
+            "hot red pepper flakes",
+            "vegetable stock",
+            "pepper",
+            "arugula"
+        ]
+    },
+    {
+        "title": "pollo alla cacciatora",
+        "total_co2": 0.5642,
+        "kcal": 1201.6,
+        "match_ratio": 0.667,
+        "matched_count": 10,
+        "total_count": 15,
+        "matched_items": [
+            "whole chickens -> chicken [PANTRY: 0 CO2]",
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "mushroom -> Mushroom (canned)",
+            "carrot -> Carrot (frozen)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "tomatoes -> Tomato (peeled - canned)",
+            "red wine -> Wine (red)",
+            "dried basil -> Basil (dried)",
+            "salt -> salt [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "flour",
+            "green pepper",
+            "tomato paste",
+            "dried oregano",
+            "pepper"
+        ]
+    },
+    {
+        "title": "shell minestrone",
+        "total_co2": 0.5952,
+        "kcal": 81.7,
+        "match_ratio": 0.667,
+        "matched_count": 10,
+        "total_count": 15,
+        "matched_items": [
+            "onion -> Onions (chopped - frozen)",
+            "carrot -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "potato -> Potato (canned)",
+            "parsley -> Parsley (raw)",
+            "tomato juice -> Tomato juice (canned)",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "kidney beans -> Kidney beans",
+            "kale -> Kale (raw)",
+            "fresh basil -> Basil (fresh)"
+        ],
+        "unmatched_items": [
+            "garlic cloves",
+            "water",
+            "mixed italian herbs",
+            "zucchini",
+            "pasta shells"
+        ]
+    },
+    {
+        "title": "joyce s gazpacho soup",
+        "total_co2": 0.6001,
+        "kcal": 88.1,
+        "match_ratio": 0.688,
+        "matched_count": 11,
+        "total_count": 16,
+        "matched_items": [
+            "salt -> salt [PANTRY: 0 CO2]",
+            "mushroom -> Mushroom (canned)",
+            "oil -> oil [PANTRY: 0 CO2]",
+            "onion -> Onions (chopped - frozen)",
+            "tomatoes -> Tomato (peeled - canned)",
+            "celery -> Celery (raw)",
+            "cucumber -> Cucumber (raw)",
+            "chives -> Chive (raw)",
+            "parsley -> Parsley (raw)",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "tomato juice -> Tomato juice (canned)"
+        ],
+        "unmatched_items": [
+            "garlic clove",
+            "bell peppers",
+            "tabasco sauce",
+            "worcestershire sauce",
+            "tarragon vinegar"
+        ]
+    },
+    {
+        "title": "italian sausage stew",
+        "total_co2": 0.6021,
+        "kcal": 356.4,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "red wine -> Wine (red)",
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "basil -> Basil (fresh)",
+            "diced tomatoes -> Tomato (peeled - canned)",
+            "potatoes -> Potato (canned)",
+            "parsley -> Parsley (raw)",
+            "salt -> salt [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "sweet italian sausage links",
+            "oregano",
+            "red pepper flakes",
+            "stewed tomatoes"
+        ]
+    },
+    {
+        "title": "mexican hash  picadillo",
+        "total_co2": 0.6193,
+        "kcal": 527.0,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "tomatoes -> Tomato (peeled - canned)",
+            "potatoes -> Potato (canned)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "onions -> Onions (chopped - frozen)",
+            "olive oil -> Olive oil",
+            "vinegar -> Vinegar",
+            "capers -> Caper",
+            "red wine -> Wine (red)",
+            "salt -> salt [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "ground beef",
+            "poblano chiles",
+            "dark brown sugar",
+            "pepper"
+        ]
+    },
+    {
+        "title": "max   erma s tuscan chicken recipe",
+        "total_co2": 0.6562,
+        "kcal": 1059.8,
+        "match_ratio": 0.667,
+        "matched_count": 10,
+        "total_count": 15,
+        "matched_items": [
+            "olive oil -> Olive oil",
+            "mushrooms -> Mushroom (canned)",
+            "artichokes -> Artichoke (raw)",
+            "onions -> Onions (chopped - frozen)",
+            "fresh garlic -> garlic [PANTRY: 0 CO2]",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "white wine -> Wine (white)",
+            "butter -> butter [PANTRY: 0 CO2]",
+            "potatoes -> Potato (canned)"
+        ],
+        "unmatched_items": [
+            "boneless skinless chicken breasts",
+            "italian seasoning",
+            "roma tomatoes",
+            "italian parsley",
+            "capellini"
+        ]
+    },
+    {
+        "title": "my layered salad",
+        "total_co2": 0.6697,
+        "kcal": 4844.8,
+        "match_ratio": 0.769,
+        "matched_count": 10,
+        "total_count": 13,
+        "matched_items": [
+            "bacon -> bacon [PANTRY: 0 CO2]",
+            "red onion -> Red onion",
+            "frozen green peas -> Peas (green - canned)",
+            "cauliflower -> Cauliflower (frozen)",
+            "broccoli -> Broccoli (frozen)",
+            "red cabbage -> Cabbage (red - raw)",
+            "carrot -> Carrot (frozen)",
+            "mayonnaise -> Mayonnaise (low fat)",
+            "vinegar -> Vinegar",
+            "milk -> milk [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "lettuce",
+            "cheddar cheese",
+            "white sugar"
+        ]
+    },
+    {
+        "title": "fresh vegetable basil soup",
+        "total_co2": 0.6997,
+        "kcal": 201.6,
+        "match_ratio": 0.692,
+        "matched_count": 9,
+        "total_count": 13,
+        "matched_items": [
+            "butter -> butter [PANTRY: 0 CO2]",
+            "onion -> Onions (chopped - frozen)",
+            "celery -> Celery (raw)",
+            "carrot -> Carrot (frozen)",
+            "potato -> Potato (canned)",
+            "tomatoes -> Tomato (peeled - canned)",
+            "fresh basil -> Basil (fresh)",
+            "cauliflower -> Cauliflower (frozen)",
+            "green peas -> Peas (green - canned)"
+        ],
+        "unmatched_items": [
+            "vegetable stock",
+            "zucchini",
+            "salt and pepper",
+            "parmesan cheese"
+        ]
+    },
+    {
+        "title": "jessica s really good minestrone soup",
+        "total_co2": 0.7202,
+        "kcal": 229.2,
+        "match_ratio": 0.684,
+        "matched_count": 13,
+        "total_count": 19,
+        "matched_items": [
+            "olive oil -> Olive oil",
+            "celery -> Celery (raw)",
+            "garlic -> garlic [PANTRY: 0 CO2]",
+            "diced tomatoes -> Tomato (peeled - canned)",
+            "kidney beans -> Kidney beans",
+            "carrot -> Carrot (frozen)",
+            "green beans -> Beans (green - raw)",
+            "fresh parsley -> Parsley (raw)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "basil -> Basil (fresh)",
+            "spinach -> Spinach (chopped - frozen)",
+            "pasta -> Pasta (raw)"
+        ],
+        "unmatched_items": [
+            "zucchini",
+            "vegetable broth",
+            "great northern beans",
+            "hot water",
+            "oregano",
+            "thyme"
+        ]
+    },
+    {
+        "title": "sausage and chickpea casserole",
+        "total_co2": 0.8221,
+        "kcal": 799.9,
+        "match_ratio": 0.714,
+        "matched_count": 10,
+        "total_count": 14,
+        "matched_items": [
+            "oil -> oil [PANTRY: 0 CO2]",
+            "pork sausage -> Pork (sausage - raw)",
+            "bacon -> bacon [PANTRY: 0 CO2]",
+            "onions -> Onions (chopped - frozen)",
+            "canned tomatoes -> Tomato (peeled - canned)",
+            "leek -> Leek (raw)",
+            "salt -> salt [PANTRY: 0 CO2]",
+            "parsley -> Parsley (raw)",
+            "cauliflower -> Cauliflower (frozen)",
+            "broccoli -> Broccoli (frozen)"
+        ],
+        "unmatched_items": [
+            "canned chick-peas",
+            "pepper",
+            "paprika",
+            "fresh thyme"
+        ]
+    },
+    {
+        "title": "chicken and orange salad",
+        "total_co2": 0.9289,
+        "kcal": 322.7,
+        "match_ratio": 0.667,
+        "matched_count": 10,
+        "total_count": 15,
+        "matched_items": [
+            "salt -> salt [PANTRY: 0 CO2]",
+            "chicken -> chicken [PANTRY: 0 CO2]",
+            "green peas -> Peas (green - canned)",
+            "mayonnaise -> Mayonnaise (low fat)",
+            "carrot -> Carrot (frozen)",
+            "celery -> Celery (raw)",
+            "orange juice -> Orange juice (canned)",
+            "black pepper -> black pepper [PANTRY: 0 CO2]",
+            "oranges -> Orange (raw)",
+            "avocados -> Avocado (raw)"
+        ],
+        "unmatched_items": [
+            "green onions",
+            "lime juice",
+            "fresh cilantro",
+            "cinnamon",
+            "lettuce leaves"
+        ]
+    },
+    {
+        "title": "tandoori style chickpeas",
+        "total_co2": 0.9621,
+        "kcal": 296.6,
+        "match_ratio": 0.769,
+        "matched_count": 10,
+        "total_count": 13,
+        "matched_items": [
+            "olive oil -> Olive oil",
+            "onion -> Onions (chopped - frozen)",
+            "raw potatoes -> Potato (canned)",
+            "curry powder -> Curry powder",
+            "diced tomatoes -> Tomato (peeled - canned)",
+            "chickpeas -> Chickpea (canned)",
+            "tomato juice -> Tomato juice (canned)",
+            "frozen spinach -> Spinach (chopped - frozen)",
+            "cauliflower -> Cauliflower (frozen)",
+            "salt -> salt [PANTRY: 0 CO2]"
+        ],
+        "unmatched_items": [
+            "garlic cloves",
+            "fresh ginger",
+            "cayenne"
+        ]
+    },
+    {
+        "title": "watermelon basket fruit salad",
+        "total_co2": 1.1267,
+        "kcal": 1355.4,
+        "match_ratio": 0.688,
+        "matched_count": 11,
+        "total_count": 16,
+        "matched_items": [
+            "watermelon -> Watermelon (raw)",
+            "honeydew melon -> Melon (honeydew - raw)",
+            "peach -> Peach (raw)",
+            "nectarine -> Nectarine (raw)",
+            "strawberry -> Strawberry (raw)",
+            "blueberries -> Blueberry (raw)",
+            "raspberries -> Raspberry (frozen)",
+            "blackberry -> Blackberry (raw)",
+            "plum -> Plum (raw)",
+            "orange -> Orange (raw)",
+            "grapes -> Grape (raw)"
+        ],
+        "unmatched_items": [
+            "cantaloupe",
+            "seedless grapes",
+            "lemon slices",
+            "melon balls",
+            "toothpick"
+        ]
+    }
+]

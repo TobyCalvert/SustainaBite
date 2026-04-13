@@ -1,0 +1,3713 @@
+{
+    "food_grain_kamut": {
+        "kcal_per_kg": 3370,
+        "category": "Grain",
+        "serving_kg": 0.08,
+        "id": "ec223c3a-e42f-4b79-92ac-147ffe6968d9",
+        "co2_per_kg": 0.0
+    },
+    "chicken_grilled__fast_food": {
+        "id": "d4e55503-d4f1-42ec-a3e6-ebaaa8b7227c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "french_fries_deepfried__fast_food": {
+        "id": "f9c4ffa7-f874-4efd-957d-3b61c26208db",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vodka": {
+        "id": "d50fe0f1-dfd1-4fd2-b3fd-c0cc59ff7f0f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vinegar": {
+        "id": "95c1a4ca-936a-4f2c-bf80-f4594a468967",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork": {
+        "id": "e91180da-74ac-4a14-990b-ad73104a2369",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pizzasauce": {
+        "id": "fb090da1-43f2-48bc-b5c2-0eb3e9ebc790",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pesto": {
+        "id": "c515fefc-5b10-4e49-9af9-8ab7c5406f06",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pepperoni": {
+        "id": "fb4a3e0b-958f-4f9c-ba2b-948e13a1ab73",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pate": {
+        "id": "fca3fbc4-ede1-41d2-aa84-5666b0d9183d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pastasauce": {
+        "id": "dc0f1842-9138-4793-8e95-3df1c286962a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "nougat": {
+        "id": "da9d626e-7511-4143-a87f-3bcb4cdade46",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "meatballs": {
+        "id": "f40755bb-5f67-4b7d-874b-a87c1fdcd58b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "mayonnaise": {
+        "id": "eb8b58db-b3f2-4270-bd7f-869a4e2dfb8c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "marzipan": {
+        "id": "ff59747d-76b2-471a-a677-162aee6d65ae",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "magarine": {
+        "id": "f9c5e1c3-2774-4b88-9216-a298354d4e3d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "kebab": {
+        "id": "f3421f4a-4e2a-4c5d-8104-075403244ebf",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "jalapenos": {
+        "id": "ee4a3049-b17c-44e0-be39-ef3d034c3f3e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "honey": {
+        "kcal_per_kg": 3040,
+        "category": "Sweet",
+        "serving_kg": 0.02,
+        "id": "bf07ec7f-9d08-4bda-9338-01b9fa4eec8c",
+        "co2_per_kg": 0.0
+    },
+    "dumplings": {
+        "kcal_per_kg": 1600,
+        "category": "Grain",
+        "serving_kg": 0.15,
+        "id": "f9634d8e-0405-4924-866f-ce2c5e5b973a",
+        "co2_per_kg": 0.0
+    },
+    "cornichons": {
+        "id": "ea214045-438c-4ec8-9564-1e421aee2ac5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "chicken": {
+        "kcal_per_kg": 1650,
+        "category": "Protein",
+        "serving_kg": 0.15,
+        "id": "a4863d31-9546-428a-a258-d47f816b7a6e",
+        "co2_per_kg": 0.0
+    },
+    "caper": {
+        "kcal_per_kg": 230,
+        "category": "Seasoning",
+        "serving_kg": 0.01,
+        "id": "b642f821-f413-4e35-a708-9bc2e80e116d",
+        "co2_per_kg": 0.0
+    },
+    "breadcrumbs": {
+        "id": "e36a4715-c7f4-461b-9ecc-5e1196429afd",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beef": {
+        "kcal_per_kg": 2500,
+        "category": "Protein",
+        "serving_kg": 0.15,
+        "id": "fbb6f5fb-a49e-4bfb-a7e3-f6ace2d6b281",
+        "co2_per_kg": 0.0
+    },
+    "wine_white": {
+        "id": "f30dce4d-7a63-46f3-af46-600742a9e8a5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "wine_rose": {
+        "id": "ffcd8d16-bc68-4138-b351-e953f7ebedda",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "wine_red": {
+        "id": "bcfa598d-8728-47bd-bc34-2ef6b5524c8a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "watermelon_raw": {
+        "id": "e2191487-7a2a-4c41-b0af-0fc1ed66ef70",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "walnuts_dried": {
+        "id": "7b08b358-6a74-472b-91a1-f418e00ae0db",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "wafer_sticks": {
+        "id": "fb8e365c-a52d-4264-8769-145a2b13b24b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegetable_steaks": {
+        "id": "f634dcc0-8897-4331-bfb4-29366fb9ba48",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_mayo": {
+        "id": "d38de95f-350e-4dd9-8951-686fb0843483",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_chorizo": {
+        "id": "ebf8ea2e-43b0-474a-a4dc-5463563065b6",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_block": {
+        "id": "fe131e4d-b8ec-4386-8c83-fe656b6ebf45",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_bacon": {
+        "id": "fe13e221-2d8c-4e0b-b0d3-cb1de4adb962",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "turnip_raw": {
+        "id": "ffc17f06-028f-4a65-9ce7-5add1f452d8f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tuna_salad": {
+        "id": "eb11ab78-194f-4454-87ca-ae08fe3fde97",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tuna_raw": {
+        "id": "cce38dca-95b6-4cf5-9f42-9619f62e1d75",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "trout_raw": {
+        "id": "e138680f-a5b7-459d-b0d0-fcdf1144406f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tomato_dried": {
+        "id": "f32293d2-5555-403d-909b-a044369c29d2",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "toffees_mixed": {
+        "id": "d8d1586a-d729-468a-abab-2540a66ccfed",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tea_leaves": {
+        "id": "9fc50dac-0d54-4354-be55-14f702ab7f0a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tangerine_raw": {
+        "id": "ca840055-ed67-4bc2-85f2-87a81403ee24",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "taco_shells": {
+        "id": "f274f26e-4de7-4573-931e-e23e3a65805c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "syrup_kitchen": {
+        "id": "e64e78f7-26c7-43d4-a518-e3b0bbabf86d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sunflower_oil": {
+        "id": "ee2e8e95-0bd0-4e5c-a643-0fc0d0d9f511",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sundried_tomatoes": {
+        "id": "c8c5039d-61de-40bf-bbfe-0d720b5e8e9e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sugar_brown": {
+        "id": "ca914eb1-7612-407a-8291-3c5373adde1c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "strawberry_raw": {
+        "id": "de7ebe9a-8261-4804-af33-58a6e77d3f8c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "strawberry_jam": {
+        "id": "fcba8058-1b21-4432-8d67-c770546a1a7f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "squash_raw": {
+        "id": "db044547-ba09-4a1f-beaf-2dbed7ce3a20",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "spinach_raw": {
+        "id": "f581aa27-1a0f-4334-89f3-e303a26a239c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "soy_sauce": {
+        "id": "ffd656ce-daac-4658-b428-12839e1b2410",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sliced_mushrooms": {
+        "id": "f4ffaf51-c2b3-4d69-9649-4cfea430bac1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "shrimp_canned": {
+        "id": "f26892af-a41e-40bf-b428-19df066b2083",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sherry_dry": {
+        "id": "ece8ed84-db67-4c57-ab45-212f2df2dc10",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sausage_salami": {
+        "id": "9133d018-7efc-47ac-b2fe-21773b1b0a6f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sauce_barbeque": {
+        "id": "c2812dab-90df-446a-8a2e-f1f428b3932d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "salt_table": {
+        "id": "ee6a4d97-dd1f-4c81-8847-82f4685ebe8f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "salsa_hot": {
+        "id": "dab6abf9-e30b-47c2-8a39-ffd1f72fb3b4",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rice_pancakes": {
+        "id": "dfcca15e-4998-49ae-a766-d8725fbcc57b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rice_noodles": {
+        "id": "d8b5d4ae-eb0a-4297-a5f1-ed58daf139e4",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rice_flour": {
+        "id": "fe0702d8-4038-4913-a54e-9f5dda57d400",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rhubarb_raw": {
+        "id": "a106791f-2910-4a2e-a33d-255355a005fb",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "red_onion": {
+        "id": "ec5280e9-07d0-4baa-bf12-ca112830c9f9",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "raspberry_raw": {
+        "id": "ef5c70b8-e21b-4ffb-b575-b86efa976c6b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "raspberry_marmalade": {
+        "id": "e997d8ab-24f8-498d-80c4-2765783a577a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "raspberry_frozen": {
+        "id": "e8c8bf39-cdf5-4a40-9605-20682240f296",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "raisin_seedless": {
+        "id": "f17625df-3f76-49af-b7bf-30069af023df",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "radish_raw": {
+        "id": "e43f965e-4021-459b-8685-c3e3d84104d4",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pumpkin_raw": {
+        "id": "f9600f4f-7c1f-4160-9c27-9806960a4643",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pulled_pork": {
+        "id": "f5b5b673-ff09-44c9-af77-51615d942df1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pulled_beef": {
+        "id": "ed9643c6-8847-4c1a-8139-0a9ebb310bda",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "potato_salad": {
+        "id": "ff42a3ee-02dd-4078-99f0-866c437553cd",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "potato_raw": {
+        "id": "d8bcb76d-78bb-4234-a3ba-e7b4c363a117",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "potato_flour": {
+        "id": "dc4c93d1-2932-4e4e-8095-11e2394c8808",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "potato_crisps": {
+        "id": "fcc91aff-313b-49f5-86b1-54aff10c100f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "potato_canned": {
+        "id": "d6d6a7b0-a0c8-4303-ae54-a8d8ed4a896a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "portobello_mushroom": {
+        "id": "e536043d-97df-4ceb-bd4e-bebcca8659c9",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pollock_raw": {
+        "id": "93d23415-b0ab-4d9f-a326-8419650da0ca",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "plum_raw": {
+        "id": "f40cb786-6463-4451-8084-35647cce6cc2",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "plain_cake": {
+        "id": "e6f4c449-b704-4665-975c-e60309230f5d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "plaice_raw": {
+        "id": "f0c998b7-c883-441e-865a-5816265f5565",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pizza_dough": {
+        "id": "8895ad87-6896-46b2-baf5-c2aeb119bd3e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pineapple_raw": {
+        "id": "f556106a-f0fd-4abc-9691-88801754b145",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pineapple_canned": {
+        "id": "ff3e1b06-b855-4d42-8623-24f104710123",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pike_raw": {
+        "id": "ddca3a44-6218-4740-90fe-4324d5645db4",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "perch_raw": {
+        "id": "ea416137-7607-4aac-b90f-7503d4f28de8",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pepper_black": {
+        "id": "eec76fff-6032-4387-b5e4-8f409a640f3b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pear_raw": {
+        "id": "e8281b9f-6e1b-414b-a378-6a4612754689",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pear_canned": {
+        "id": "f93be64e-c9a9-4d25-9817-7f98af7dcbc2",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "peanut_butter": {
+        "id": "cbdf4bd4-c3d5-464d-9296-474a32425f84",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "peach_raw": {
+        "id": "eb78ed7e-8441-4093-9334-d6a9d58dce82",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pea_drink": {
+        "id": "c341a662-9d69-466d-966c-623f3aeb9cec",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pasta_raw": {
+        "id": "d721c6d5-eb97-4b9d-b413-90ce4a36a322",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "parsley_raw": {
+        "id": "ced2670e-ce5b-4406-907d-e5d19c60207a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pancake_puffs": {
+        "id": "d3d5dbec-c37f-42a5-81d9-03e4d44ca773",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "oyster_raw": {
+        "id": "d72a7945-d07f-4a9b-9d12-aaba1c57515f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "oyster_mushroom": {
+        "id": "d67e9e6f-cc11-4953-acbb-a53fbadbdd10",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "orange_raw": {
+        "id": "ffd6878e-94ee-49ab-b61d-5ad449428fe7",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "onion_raw": {
+        "id": "fe0d6f7e-69cc-4cf4-9075-b65ecd5c4fd5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "olive_tapenade": {
+        "id": "dff09880-0caf-4bbe-956a-820b4bcaa288",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "olive_oil": {
+        "id": "d298004a-0358-4a3f-bd75-412a9c2409c4",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "octopus_raw": {
+        "id": "f4232605-1d14-4c68-9dbf-78ccce0668d3",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "noodles_eggs": {
+        "id": "da632c42-4e3e-4ea4-a0c3-80dbef80e2b9",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "nectarine_raw": {
+        "id": "e7c99e5f-310f-4a36-9176-15cc6c5ecf22",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "mussel_raw": {
+        "id": "fb745115-dc0d-4f61-b7fa-6abb0521f656",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "mushroom_raw": {
+        "id": "f6fbdfdc-d3ea-4596-bdd2-f498c8ed9da5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "mushroom_canned": {
+        "id": "fe9f0a01-0f32-44d4-83b3-c5459e16876a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "mushroom_burger": {
+        "id": "db1dc6ac-b2b8-4fd4-be09-3c052761bb7c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "mozarella_sticks": {
+        "id": "c32036e2-b7f0-47ae-86ea-3957051880e5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "minced_lamb": {
+        "id": "f9ff6006-4fa6-4857-92c3-5d0ef3dcc223",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "minced_chicken": {
+        "id": "f90960b4-b0b4-411b-9e04-1c1ad3c96d9d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "microwave_popcorn": {
+        "id": "fd83dd05-a1e4-4270-a0a0-baa58d95cc54",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "meatballs_frozen": {
+        "id": "e0817ae6-6503-4c2b-b5b5-1524d4b0a1ff",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "meatballs_canned": {
+        "id": "ed83e7ce-a7e3-475b-8cb1-b930145957cf",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "marinated_artichokes": {
+        "id": "cd914a62-795c-40a9-be52-2ed00f58f423",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "mango_raw": {
+        "id": "d84affc0-df98-4acb-af2b-20061c02aa31",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "mango_chutney": {
+        "id": "b81323a8-1ff1-4209-b737-97ab0bbe1735",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "mackerel_raw": {
+        "id": "fc21f58c-326c-49cd-9070-609cfb2669ef",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "lobster_raw": {
+        "id": "d032f96c-1d16-40d3-8b47-d8ef9099c381",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "lobster_canned": {
+        "id": "c129d948-0aa3-430e-bd2f-974a10258f6e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "liquorice_salt": {
+        "id": "e73b5e3a-5d9f-4784-9fb3-72fad0204e99",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "lime_raw": {
+        "id": "f603f851-b53c-4737-849e-0f893f8a4a3d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "lemon_raw": {
+        "id": "e4c59dda-11ae-4f5f-aae8-5e14dcf9d0c4",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "leek_raw": {
+        "id": "d48d7461-758e-4c5c-9614-b63caf646d6b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "kidney_beans": {
+        "id": "dc1bf481-4428-4bbd-aa35-4cd7974a1743",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "kale_raw": {
+        "id": "e40ef1e2-7b64-43ed-9f8a-6d4190d99fd9",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "icetea_peach": {
+        "id": "f0350bd5-7bae-4a1e-a4ee-de0e738242a5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "hummus_prepared": {
+        "kcal_per_kg": 1660,
+        "category": "Veg",
+        "serving_kg": 0.05,
+        "id": "f360d409-aaa1-4d16-a121-8b521ae4ccd5",
+        "co2_per_kg": 0.0
+    },
+    "herring_raw": {
+        "kcal_per_kg": 1580,
+        "category": "Protein",
+        "serving_kg": 0.15,
+        "id": "ef8082c9-3fa9-49da-a965-fba4ccdf544b",
+        "co2_per_kg": 0.0
+    },
+    "hazelnut_dried": {
+        "id": "ed195cd3-530d-4f57-817b-d0183eafec31",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "hare_raw": {
+        "kcal_per_kg": 1100,
+        "category": "Protein",
+        "serving_kg": 0.15,
+        "id": "efe2b93a-5a43-4f71-9000-b33858889dc1",
+        "co2_per_kg": 0.0
+    },
+    "grilled_sausage": {
+        "id": "e956a2cc-9758-44e9-87c7-0cc65d73014b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "grapefruit_raw": {
+        "kcal_per_kg": 420,
+        "category": "Fruit",
+        "serving_kg": 0.2,
+        "id": "d4f55df4-ac63-4bbc-a454-609fa1601389",
+        "co2_per_kg": 0.0
+    },
+    "grape_raw": {
+        "kcal_per_kg": 670,
+        "category": "Fruit",
+        "serving_kg": 0.15,
+        "id": "d7cc06fa-ceba-41c1-b036-7d3ed302ccfa",
+        "co2_per_kg": 0.0
+    },
+    "granola_bar": {
+        "kcal_per_kg": 4000,
+        "category": "Sweet",
+        "serving_kg": 0.04,
+        "id": "abb95f4f-6164-4bc8-b0ee-bca9fa84de56",
+        "co2_per_kg": 0.0
+    },
+    "gooseberry_raw": {
+        "kcal_per_kg": 440,
+        "category": "Fruit",
+        "serving_kg": 0.08,
+        "id": "fe161706-9b3b-49ee-bf11-b0d68beee896",
+        "co2_per_kg": 0.0
+    },
+    "goat_milk": {
+        "kcal_per_kg": 690,
+        "category": "Dairy",
+        "serving_kg": 0.25,
+        "id": "ae987918-1119-4323-a22a-60b96c63a317",
+        "co2_per_kg": 0.0
+    },
+    "goat_cheese": {
+        "kcal_per_kg": 3640,
+        "category": "Dairy",
+        "serving_kg": 0.03,
+        "id": "e1136ec6-83e1-45db-8537-07b8a4770e28",
+        "co2_per_kg": 0.0
+    },
+    "gherkin_pickled": {
+        "kcal_per_kg": 140,
+        "category": "Veg",
+        "serving_kg": 0.05,
+        "id": "fcdb9cfd-0fe9-4e03-88ac-1330b6af4353",
+        "co2_per_kg": 0.0
+    },
+    "garlic_raw": {
+        "kcal_per_kg": 1490,
+        "category": "Seasoning",
+        "serving_kg": 0.005,
+        "id": "d109f04a-022a-49a5-a9dc-5edd0fb828f9",
+        "co2_per_kg": 0.0
+    },
+    "garfish_raw": {
+        "kcal_per_kg": 1000,
+        "category": "Protein",
+        "serving_kg": 0.15,
+        "id": "f82aac08-6371-467c-b4a9-ce8480005a44",
+        "co2_per_kg": 0.0
+    },
+    "fruit_gums": {
+        "kcal_per_kg": 3400,
+        "category": "Sweet",
+        "serving_kg": 0.05,
+        "id": "de8c1000-026e-474c-a00c-515447d6f1c7",
+        "co2_per_kg": 0.0
+    },
+    "falafel_minced": {
+        "kcal_per_kg": 2500,
+        "category": "Protein",
+        "serving_kg": 0.1,
+        "id": "f4f1e871-f373-4e00-9a67-4a10a3688d06",
+        "co2_per_kg": 0.0
+    },
+    "falafel_frozen": {
+        "kcal_per_kg": 2500,
+        "category": "Protein",
+        "serving_kg": 0.1,
+        "id": "c977b772-d4c2-488f-a444-218262d8c810",
+        "co2_per_kg": 0.0
+    },
+    "energy_drink": {
+        "kcal_per_kg": 450,
+        "category": "Drink",
+        "serving_kg": 0.25,
+        "id": "e2dcf967-8947-4970-9dfc-f0866d6dc753",
+        "co2_per_kg": 0.0
+    },
+    "elderberry_raw": {
+        "kcal_per_kg": 730,
+        "category": "Fruit",
+        "serving_kg": 0.05,
+        "id": "f53d8c1a-8882-4cfe-82ec-f44fa4fb39a2",
+        "co2_per_kg": 0.0
+    },
+    "egg_salad": {
+        "kcal_per_kg": 2000,
+        "category": "Meal",
+        "serving_kg": 0.15,
+        "id": "e92dd378-6677-4b02-bfdd-9f0927fd0f5e",
+        "co2_per_kg": 0.0
+    },
+    "dill_raw": {
+        "kcal_per_kg": 430,
+        "category": "Seasoning",
+        "serving_kg": 0.01,
+        "id": "c7cb3145-f2b8-43da-8558-c6e69b7886e9",
+        "co2_per_kg": 0.0
+    },
+    "curry_powder": {
+        "kcal_per_kg": 3250,
+        "category": "Seasoning",
+        "serving_kg": 0.005,
+        "id": "f9dc9fa2-c0d3-4dec-a2cd-ab89b2d86f40",
+        "co2_per_kg": 0.0
+    },
+    "cucumber_raw": {
+        "kcal_per_kg": 150,
+        "category": "Veg",
+        "serving_kg": 0.1,
+        "id": "f29c2f8e-f60b-42b8-84d3-8a1bd848840d",
+        "co2_per_kg": 0.0
+    },
+    "crayfish_raw": {
+        "kcal_per_kg": 770,
+        "category": "Protein",
+        "serving_kg": 0.15,
+        "id": "d80f61ee-11cf-4d13-bafc-cfde540af50d",
+        "co2_per_kg": 0.0
+    },
+    "cranberry_raw": {
+        "kcal_per_kg": 460,
+        "category": "Fruit",
+        "serving_kg": 0.05,
+        "id": "d415c8f6-7004-4d09-be47-d14a4c071e26",
+        "co2_per_kg": 0.0
+    },
+    "crab_boiled": {
+        "kcal_per_kg": 900,
+        "category": "Protein",
+        "serving_kg": 0.15,
+        "id": "f394eef1-b413-4b2f-8f65-b8f659afc202",
+        "co2_per_kg": 0.0
+    },
+    "corn_flour": {
+        "kcal_per_kg": 3650,
+        "category": "Grain",
+        "serving_kg": 0.1,
+        "id": "e754fafc-ba9f-413d-9151-22fb99c5912f",
+        "co2_per_kg": 0.0
+    },
+    "corn_flakes": {
+        "kcal_per_kg": 3700,
+        "category": "Grain",
+        "serving_kg": 0.04,
+        "id": "e85320d6-ad53-46ff-813e-5ee5fb83cd15",
+        "co2_per_kg": 0.0
+    },
+    "corn_cob": {
+        "kcal_per_kg": 960,
+        "category": "Veg",
+        "serving_kg": 0.15,
+        "id": "f98ed148-a32c-46ff-a909-1493e8e7d540",
+        "co2_per_kg": 0.0
+    },
+    "cold_chocolate": {
+        "kcal_per_kg": 750,
+        "category": "Drink",
+        "serving_kg": 0.25,
+        "id": "dbedf967-2d59-40ed-b173-d7a42682f272",
+        "co2_per_kg": 0.0
+    },
+    "coconut_milk": {
+        "kcal_per_kg": 2300,
+        "category": "Dairy",
+        "serving_kg": 0.2,
+        "id": "f8094f3c-f65f-445f-9cdd-dd6f9a0da9e0",
+        "co2_per_kg": 0.0
+    },
+    "cocoa_powder": {
+        "kcal_per_kg": 2280,
+        "category": "Drink",
+        "serving_kg": 0.01,
+        "id": "cf99ac5d-dbf8-4361-a67b-3f620f423f77",
+        "co2_per_kg": 0.0
+    },
+    "cocktail_sausage": {
+        "id": "e8cdc38f-c280-4879-8e36-8eaadb6d8ecb",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cinnamon_roll": {
+        "kcal_per_kg": 3500,
+        "category": "Sweet",
+        "serving_kg": 0.1,
+        "id": "c494bb95-ef59-41b3-aef8-e4faf916b8f5",
+        "co2_per_kg": 0.0
+    },
+    "chorizo_sliced": {
+        "kcal_per_kg": 4550,
+        "category": "Protein",
+        "serving_kg": 0.05,
+        "id": "fc8c02c7-3f1f-4b79-b3b8-66d28e011dd8",
+        "co2_per_kg": 0.0
+    },
+    "chocolate_milk": {
+        "id": "d5dcfb4b-365d-40b4-9f41-388f3d118edd",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "chocolate_bitter": {
+        "id": "d3205c75-68f5-405f-aa43-2c941e5d86e0",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "chive_raw": {
+        "kcal_per_kg": 300,
+        "category": "Seasoning",
+        "serving_kg": 0.01,
+        "id": "ed1f3fbe-e160-4b70-9f9e-48a566e84541",
+        "co2_per_kg": 0.0
+    },
+    "chili_sauce": {
+        "kcal_per_kg": 1000,
+        "category": "Seasoning",
+        "serving_kg": 0.02,
+        "id": "8d269c84-9c4e-413e-8fed-ad40ee6e7802",
+        "co2_per_kg": 0.0
+    },
+    "chickpea_canned": {
+        "kcal_per_kg": 1190,
+        "category": "Protein",
+        "serving_kg": 0.15,
+        "id": "b6bdcf76-595f-4eb5-8a0b-1ff4309ff3c7",
+        "co2_per_kg": 0.0
+    },
+    "chicken_whole": {
+        "kcal_per_kg": 1900,
+        "category": "Protein",
+        "serving_kg": 0.2,
+        "id": "f2d4dcd3-f9e5-416e-afbe-b72e81a9aed2",
+        "co2_per_kg": 0.0
+    },
+    "chicken_sausage": {
+        "kcal_per_kg": 2200,
+        "category": "Protein",
+        "serving_kg": 0.1,
+        "id": "c4591666-a48c-4f9b-8de2-69fa4ba658d1",
+        "co2_per_kg": 0.0
+    },
+    "chestnut_raw": {
+        "kcal_per_kg": 1310,
+        "category": "Nut",
+        "serving_kg": 0.05,
+        "id": "f6fa4cf1-1299-4eb2-9ba3-6db35109a89e",
+        "co2_per_kg": 0.0
+    },
+    "cherry_raw": {
+        "kcal_per_kg": 500,
+        "category": "Fruit",
+        "serving_kg": 0.1,
+        "id": "8a1264f8-1d7a-4666-a8e7-c14141aac6a7",
+        "co2_per_kg": 0.0
+    },
+    "charr_raw": {
+        "kcal_per_kg": 1600,
+        "category": "Protein",
+        "serving_kg": 0.15,
+        "id": "e87cee7a-9c22-4818-9bd9-b569049219b5",
+        "co2_per_kg": 0.0
+    },
+    "celery_raw": {
+        "kcal_per_kg": 160,
+        "category": "Veg",
+        "serving_kg": 0.08,
+        "id": "de02d9d7-80f3-4238-980a-f75d7fa84cd7",
+        "co2_per_kg": 0.0
+    },
+    "cauliflower_frozen": {
+        "kcal_per_kg": 250,
+        "category": "Veg",
+        "serving_kg": 0.15,
+        "id": "e64ecb24-8eba-4422-8618-b35d363fe64a",
+        "co2_per_kg": 0.0
+    },
+    "cassava_raw": {
+        "kcal_per_kg": 1600,
+        "category": "Veg",
+        "serving_kg": 0.15,
+        "id": "9a3973ec-bbcf-472f-bd8f-4eca691d912b",
+        "co2_per_kg": 0.0
+    },
+    "carrot_raw": {
+        "kcal_per_kg": 410,
+        "category": "Veg",
+        "serving_kg": 0.1,
+        "id": "c80c6d59-14be-4446-be3f-91f69f318c15",
+        "co2_per_kg": 0.0
+    },
+    "carrot_frozen": {
+        "kcal_per_kg": 350,
+        "category": "Veg",
+        "serving_kg": 0.1,
+        "id": "e080c0d1-f68c-4392-b390-46316304630c",
+        "co2_per_kg": 0.0
+    },
+    "burger_bun": {
+        "kcal_per_kg": 2700,
+        "category": "Grain",
+        "serving_kg": 0.08,
+        "id": "d288919a-2e6c-4bd2-bf82-1d2623bf5a0d",
+        "co2_per_kg": 0.0
+    },
+    "broccoli_raw": {
+        "kcal_per_kg": 340,
+        "category": "Veg",
+        "serving_kg": 0.1,
+        "id": "fc213194-d7d2-4c06-932c-8d1c429fa109",
+        "co2_per_kg": 0.0
+    },
+    "broccoli_frozen": {
+        "kcal_per_kg": 340,
+        "category": "Veg",
+        "serving_kg": 0.1,
+        "id": "f12277a6-1f5c-4a1a-b268-0f783d60b6dd",
+        "co2_per_kg": 0.0
+    },
+    "brandy_cognac": {
+        "kcal_per_kg": 2300,
+        "category": "Drink",
+        "serving_kg": 0.04,
+        "id": "9156389c-2408-49f5-8661-e983bb062fb5",
+        "co2_per_kg": 0.0
+    },
+    "blueberry_raw": {
+        "id": "ff8d4531-7b5d-4a2f-b925-ecd4ce28b8a4",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "blue_cheese": {
+        "kcal_per_kg": 3530,
+        "category": "Dairy",
+        "serving_kg": 0.03,
+        "id": "bc3bca61-035d-440e-bd4b-ebd35ffbf747",
+        "co2_per_kg": 0.0
+    },
+    "blackberry_raw": {
+        "kcal_per_kg": 430,
+        "category": "Fruit",
+        "serving_kg": 0.1,
+        "id": "e62aa6fd-9618-40c7-8f1c-83d0c75ce8ed",
+        "co2_per_kg": 0.0
+    },
+    "black_beans": {
+        "kcal_per_kg": 1320,
+        "category": "Protein",
+        "serving_kg": 0.1,
+        "id": "bcb73ae5-737b-43e8-b096-96f5b3ba9704",
+        "co2_per_kg": 0.0
+    },
+    "biscuit_sweet": {
+        "id": "c1657490-020e-4431-9cf7-76b4c7a997b2",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "basil_fresh": {
+        "kcal_per_kg": 230,
+        "category": "Seasoning",
+        "serving_kg": 0.005,
+        "id": "ad6af1e7-d72f-404d-b283-c54c428f2d9d",
+        "co2_per_kg": 0.0
+    },
+    "basil_dried": {
+        "kcal_per_kg": 2330,
+        "category": "Seasoning",
+        "serving_kg": 0.002,
+        "id": "e989bb44-8d88-4807-a037-a1c85217b0d2",
+        "co2_per_kg": 0.0
+    },
+    "banana_raw": {
+        "kcal_per_kg": 890,
+        "category": "Fruit",
+        "serving_kg": 0.12,
+        "id": "f14a80e2-e844-42b6-a7ba-e9a541bb0975",
+        "co2_per_kg": 0.0
+    },
+    "baby_corn": {
+        "kcal_per_kg": 260,
+        "category": "Veg",
+        "serving_kg": 0.08,
+        "id": "ffaa901a-1cb0-4b9b-8f80-b093575424ba",
+        "co2_per_kg": 0.0
+    },
+    "avocado_raw": {
+        "kcal_per_kg": 1600,
+        "category": "Fat",
+        "serving_kg": 0.15,
+        "id": "d976d0bd-1741-41d3-83b0-be09eb44d49b",
+        "co2_per_kg": 0.0
+    },
+    "aubergine_raw": {
+        "kcal_per_kg": 250,
+        "category": "Veg",
+        "serving_kg": 0.2,
+        "id": "c4017777-008e-47f8-82ff-def5112ae25c",
+        "co2_per_kg": 0.0
+    },
+    "asparagus_slices": {
+        "kcal_per_kg": 200,
+        "category": "Veg",
+        "serving_kg": 0.1,
+        "id": "97885cee-e06c-4b5d-af35-737dfb5b23fa",
+        "co2_per_kg": 0.0
+    },
+    "artichoke_raw": {
+        "kcal_per_kg": 470,
+        "category": "Veg",
+        "serving_kg": 0.15,
+        "id": "c746e5cf-79ec-49e9-b3de-82c4806278e0",
+        "co2_per_kg": 0.0
+    },
+    "apricot_raw": {
+        "kcal_per_kg": 480,
+        "category": "Fruit",
+        "serving_kg": 0.1,
+        "id": "c18cdecc-5e25-48ab-b148-fb5c2b8c2ec7",
+        "co2_per_kg": 0.0
+    },
+    "apricot_dried": {
+        "kcal_per_kg": 2410,
+        "category": "Fruit",
+        "serving_kg": 0.04,
+        "id": "d41edf60-efb9-4615-b9aa-5f2d452608c2",
+        "co2_per_kg": 0.0
+    },
+    "apple_juice": {
+        "kcal_per_kg": 460,
+        "category": "Fruit",
+        "serving_kg": 0.25,
+        "id": "a5736b84-b85f-45d2-a52b-3792a99eafad",
+        "co2_per_kg": 0.0
+    },
+    "ajvar_relish": {
+        "kcal_per_kg": 800,
+        "category": "Seasoning",
+        "serving_kg": 0.03,
+        "id": "c62eaa4d-51f2-429c-9578-96039a6efa14",
+        "co2_per_kg": 0.0
+    },
+    "yeast_bakers__compressed": {
+        "id": "e8495557-4c05-4f47-9bc9-0b7f9b0d2711",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "wheat_flour__wholemeal": {
+        "id": "f60eea68-ba27-4f1a-aa1e-e9062ca6e5a1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "water_bottled__carbonated": {
+        "id": "f50d2d3d-a261-410c-9768-81648b9e60ca",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_pulled_beans": {
+        "id": "d99a08ef-49af-4a74-9c53-96f4af34dad5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_fillet_pieces": {
+        "id": "9f22cb00-b247-4aab-b306-b92fef3bdf57",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_cold_cuts": {
+        "id": "ceda2c30-2e97-4e75-af17-007d4bcf082f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_bean_paste": {
+        "id": "fea20457-49e7-43ec-a049-af3591c4b51f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tortilla_chips_cheese": {
+        "id": "9ec099f9-bcd0-4fa5-984d-a299ed6df42c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tortilla_bread_wheat": {
+        "id": "fa3d53a5-f41b-412b-a4a7-f75ece0b223b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tomato_ripe__raw": {
+        "id": "d640bf2e-b043-43c0-ad60-663c30793545",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tomato_peeled__canned": {
+        "id": "e819072c-50b0-461b-832f-a6ba51c479c4",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tomato_paste_concentrated": {
+        "id": "9bbc9849-ff99-496f-b1fe-5795ee9c2247",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tomato_ketchup_bottled": {
+        "id": "dbe5996c-3e1c-442f-a62c-8b3689a867ad",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tomato_juice_canned": {
+        "id": "ce638a7e-e7fc-4275-aeea-1e0c6cf69faa",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tahin_sesame_paste": {
+        "id": "dfddb2c7-4191-4abc-9e9c-b5b5303285cb",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sweetcorn_kernels__canned": {
+        "id": "ebdd6199-123c-4faf-ac09-1ee43a329394",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sushi_ready_meals": {
+        "id": "fa5c85ef-569a-47de-b62f-a00e7eba738d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sugar_sucrose__white": {
+        "id": "f22116fc-bbd6-447d-b8d7-a5f860be8af0",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "stuffed_fresh_pasta": {
+        "id": "bd0ce481-1021-4990-8de3-cfe636b3a33c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "strawberries_frozen__unsweetened": {
+        "id": "f91a2822-aeef-4e5a-b53b-8a4bab5ead29",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "spinach_chopped__frozen": {
+        "id": "d39bd12c-15f7-4514-9395-73f1fc13d6ac",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "smoothie_strawberry_blueberry": {
+        "id": "f5a099be-f8a5-4e1a-97ad-1cfa9922302e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sesame_seed_decorticated": {
+        "id": "f573c01a-c817-4bf4-b3c5-810f97f558a1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sausage_beef_salami": {
+        "id": "fe89902e-daf8-4a6a-8893-e77ba578fca1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "samosa_vegetarian_frost": {
+        "id": "f15b913d-93fd-4d09-9387-5fa5c0649dff",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rose_hip_raw": {
+        "id": "e648232d-db55-4dcd-883a-8ecbc5075c4c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "roast_beef_sliced": {
+        "id": "93a103c2-34c6-417a-876e-d2301f1607d9",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rice_parboiled__raw": {
+        "id": "bbce75e2-5f98-4bb6-9487-60feadf9a07f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rice_groats_raw": {
+        "id": "a8035568-0517-4e48-b8c8-c140d67bdf46",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "red_lentil_dried": {
+        "id": "ad50c801-f9b7-4741-8d84-a02cc0c8d819",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "quinoa_black__raw": {
+        "id": "bd5af905-4ec4-4a10-aa7b-342c0565c93e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pumpkin_seeds_dried": {
+        "id": "e3902df2-8e43-47c0-ab78-64afa1d6792b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "prune_dried_plum": {
+        "id": "de032a0c-4ee1-4dcc-a3b9-5b86bdabfd36",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "potato_crisps_coarse": {
+        "id": "f95c9c0a-e517-4202-8f34-79c4905d4d52",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_sausage__raw": {
+        "id": "f90d3b3c-a8e1-43e7-bff8-ada8e3cfe4fe",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_liver_paste": {
+        "id": "e5a37a23-af1f-4f83-835c-a7826eafb674",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pollock_fillet__frozen": {
+        "id": "f60ccf6b-1731-43ed-aca6-2bfc2fa9b8bc",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "peas_green__raw": {
+        "id": "f06e87a8-e874-4891-9bba-facde96262d4",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "peas_green__frozen": {
+        "id": "d5e0b877-8b28-43ba-b178-c291599ce74e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "peas_green__canned": {
+        "id": "c031244a-cd71-46c5-8775-36e0f28b2a29",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "parsley_root_raw": {
+        "id": "e8177a64-63fe-49b8-b431-c23412f519b7",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pancakes_ready_meals": {
+        "id": "f10ec0d8-8ab3-42f3-ae00-d80a675d3e83",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "orange_juice_canned": {
+        "id": "fe56db2b-8f19-46f8-90f3-04d0b531e7c5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "onions_spring__raw": {
+        "id": "e3c3b371-a74d-43ec-8535-69b20e365c2e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "onions_chopped__frozen": {
+        "id": "fd798b92-0115-4a67-93d3-52ef90e7e8f6",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "nutella_nut_cream": {
+        "id": "ad999d28-854a-4492-9b41-3bddcde7c396",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "muesli_bar_chocolate": {
+        "id": "f34e6c3d-b96c-43fa-95a1-e0c5412a8ffb",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "melon_honeydew__raw": {
+        "id": "b8e43c77-aa53-4f24-b0bf-80624a5f3a08",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "mayonnaise_low_fat": {
+        "id": "da8c60a0-4730-425d-92ba-2575ff0bc9d1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "marinated_grilled_peppers": {
+        "id": "f2af095f-027d-41fd-b3c4-f3a5ce417f71",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "lettuce_looseleaf__raw": {
+        "id": "e7c11de0-b929-4c8d-90d7-ec4dadb5902e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "lentil_sprouted__raw": {
+        "id": "d61eb326-2b53-45f6-b8e6-61d9cffa0f96",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "lamb_meat__raw": {
+        "id": "e93d5895-50cf-45c9-8743-ee18693f3130",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "kiwi_fruit_raw": {
+        "id": "f2e97337-85f5-4e56-ba41-bf0cfd6bcb3b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "ice_popsicle__lemonade": {
+        "id": "e943f8e4-ddc6-4d13-af65-9211af92e8eb",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "halibut_greenland__smoked": {
+        "id": "fa640d74-5fe2-4d40-a013-1577e570c156",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "green_lentil_dried": {
+        "kcal_per_kg": 3530,
+        "category": "Protein",
+        "serving_kg": 0.07,
+        "id": "aedd1e46-9fa9-4491-be9c-412495517594",
+        "co2_per_kg": 0.0
+    },
+    "green_curry_paste": {
+        "kcal_per_kg": 1200,
+        "category": "Seasoning",
+        "serving_kg": 0.02,
+        "id": "f7d11479-cc23-4398-92e6-bf8c65ba4a7a",
+        "co2_per_kg": 0.0
+    },
+    "green_beans_frozen": {
+        "kcal_per_kg": 310,
+        "category": "Veg",
+        "serving_kg": 0.1,
+        "id": "ab8d395d-b688-4006-b674-f4e265f07dd5",
+        "co2_per_kg": 0.0
+    },
+    "ginger_root_raw": {
+        "kcal_per_kg": 800,
+        "category": "Seasoning",
+        "serving_kg": 0.01,
+        "id": "fc5a723b-41d6-41ec-8ced-f25048b989da",
+        "co2_per_kg": 0.0
+    },
+    "gherkin_cucumber_raw": {
+        "kcal_per_kg": 120,
+        "category": "Veg",
+        "serving_kg": 0.05,
+        "id": "f6768b4f-84d4-4806-9827-a09733b5153c",
+        "co2_per_kg": 0.0
+    },
+    "garlic_in_oil": {
+        "kcal_per_kg": 1500,
+        "category": "Seasoning",
+        "serving_kg": 0.01,
+        "id": "ee3d62a8-8dbc-4ca9-8d57-1c7ea8140950",
+        "co2_per_kg": 0.0
+    },
+    "garlic_baguette_frozen": {
+        "id": "fa8e9a6b-25ee-42e4-9cf3-565fbe7c0a24",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "french_fries_frozen": {
+        "kcal_per_kg": 1500,
+        "category": "Veg",
+        "serving_kg": 0.15,
+        "id": "faabe5d8-effd-4099-9c37-534cc0cf3948",
+        "co2_per_kg": 0.0
+    },
+    "fish_cake_fried": {
+        "kcal_per_kg": 1800,
+        "category": "Protein",
+        "serving_kg": 0.1,
+        "id": "f5fa0e64-b999-45c6-b4c6-c3bcca9a98c9",
+        "co2_per_kg": 0.0
+    },
+    "fennel_root__raw": {
+        "id": "ddabfce7-34de-42d1-baa1-5d36b0505723",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "daal_ready_meals": {
+        "kcal_per_kg": 1100,
+        "category": "Protein",
+        "serving_kg": 0.3,
+        "id": "d6a1e65f-9cf5-4fc2-b253-d016b9539015",
+        "co2_per_kg": 0.0
+    },
+    "currant_red__raw": {
+        "id": "f5dc69a5-d9f1-471c-b958-d34c85c2e026",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "currant_black__raw": {
+        "id": "c0d37476-d088-4887-b70b-22f667d7ed0c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cup_noodles_chicken": {
+        "kcal_per_kg": 4500,
+        "category": "Meal",
+        "serving_kg": 0.07,
+        "id": "d02b6c76-f5a7-4434-8604-297375981771",
+        "co2_per_kg": 0.0
+    },
+    "cucumber_large__pickled": {
+        "id": "c569f64d-7cab-4c71-bd83-cda52967bae7",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cress_garden__raw": {
+        "id": "fdcbead0-180f-411e-858d-e987fd7e0693",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cold_buttermilk_soup": {
+        "kcal_per_kg": 600,
+        "category": "Dairy",
+        "serving_kg": 0.25,
+        "id": "d56e428f-7d2d-4fe9-bc8d-f8b38a949bec",
+        "co2_per_kg": 0.0
+    },
+    "coffee_instant__powder": {
+        "id": "f0d1ca63-9c15-4644-adb1-5ef90c46a65d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cod_roe__raw": {
+        "id": "ce510f5f-2512-4241-86d6-a49d875b276c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cod_roe__canned": {
+        "id": "f95fd812-cd3b-407a-b94e-3e68e31f9c63",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cod_liver__smoked": {
+        "id": "de6eb40b-51c3-4032-98f5-d43aaa90a416",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cod_liver__raw": {
+        "id": "ec9b6290-bbb0-428f-a838-10fd26748c50",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cod_liver__canned": {
+        "id": "fbe39dbe-831e-4e8c-a3f8-377d99ebed00",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cod_fillet__raw": {
+        "id": "d22b637e-cd46-4d43-9755-24253fd2d484",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "chilli_cheese_tops": {
+        "kcal_per_kg": 3200,
+        "category": "Sweet",
+        "serving_kg": 0.08,
+        "id": "d88d3ffd-5eef-485a-8cc5-215397285b7f",
+        "co2_per_kg": 0.0
+    },
+    "cabbage_white__raw": {
+        "id": "fc01cf08-f4d1-4c78-a432-886c172306c7",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cabbage_spring__raw": {
+        "id": "ee0156e3-1f96-4d84-a1e3-0c1cf3d0ce08",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cabbage_savoy__raw": {
+        "id": "ccb3f8fa-b04a-4e0e-aff0-41d1fc42e36c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cabbage_red__raw": {
+        "id": "b01e40e9-a60d-4d0a-98ed-cc3dbc96888e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "butter_salt_added": {
+        "kcal_per_kg": 7170,
+        "category": "Fat",
+        "serving_kg": 0.01,
+        "id": "ebb7cf2b-fc69-484b-bbb7-6b58da4798ff",
+        "co2_per_kg": 0.0
+    },
+    "bulgur_parboiled__raw": {
+        "id": "f3f5d24b-0c81-481f-882a-25e6896f2597",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "brussels_sprout_raw": {
+        "kcal_per_kg": 430,
+        "category": "Veg",
+        "serving_kg": 0.1,
+        "id": "c1d5926f-3cb9-4303-924f-16d6cbd1a90a",
+        "co2_per_kg": 0.0
+    },
+    "breakfast_cereal_muesli": {
+        "kcal_per_kg": 3500,
+        "category": "Grain",
+        "serving_kg": 0.06,
+        "id": "df765e1f-7037-4ae3-9192-9a8f815f86ea",
+        "co2_per_kg": 0.0
+    },
+    "breakfast_cereal_havrefras": {
+        "kcal_per_kg": 3700,
+        "category": "Grain",
+        "serving_kg": 0.04,
+        "id": "eb9986dd-4c1c-4987-b00f-3ffe7eb7c4fb",
+        "co2_per_kg": 0.0
+    },
+    "breakfast_cereal_guldkorn": {
+        "kcal_per_kg": 3800,
+        "category": "Grain",
+        "serving_kg": 0.04,
+        "id": "e2c0dc5b-a9fd-4ca5-a8fe-503bf6dc80d2",
+        "co2_per_kg": 0.0
+    },
+    "bouillon_chicken__prepared": {
+        "id": "ebf461ab-67a5-4709-be0a-ba3b334877ee",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "bouillon_beef__prepared": {
+        "id": "fd462731-9d08-499d-bf06-15145ce9ef1f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "bottled_still_water": {
+        "kcal_per_kg": 0,
+        "category": "Drink",
+        "serving_kg": 0.5,
+        "id": "cfc06ef8-ee2c-4347-8b4d-9ef19eaa8fc3",
+        "co2_per_kg": 0.0
+    },
+    "blueberry_frozen__unsweetened": {
+        "id": "b4bb63bc-08d1-4704-a6b2-72dbec195a1b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beet_red__raw": {
+        "id": "f0a1bd2f-bcd9-41bb-b81f-b0d6ad018f3d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beet_red__canned": {
+        "id": "e415d6f1-5c38-42df-86aa-0ac727798f53",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beer_low_alcohol": {
+        "kcal_per_kg": 200,
+        "category": "Drink",
+        "serving_kg": 0.33,
+        "id": "f2a6e131-a5a1-4225-a7aa-b9339c58e718",
+        "co2_per_kg": 0.0
+    },
+    "beef_rump__raw": {
+        "id": "d7d846a3-ee83-48c0-9bcb-c5e43a581e39",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beef_low_fat": {
+        "kcal_per_kg": 1500,
+        "category": "Protein",
+        "serving_kg": 0.15,
+        "id": "de39636a-df2a-4e8a-b705-26a4f2b89a21",
+        "co2_per_kg": 0.0
+    },
+    "beans_green__raw": {
+        "id": "ff9d3423-c7a3-45a4-b39c-416caa59806a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "bean_sprouts_raw": {
+        "kcal_per_kg": 300,
+        "category": "Veg",
+        "serving_kg": 0.05,
+        "id": "f327c945-56c9-4555-afff-52f02428601f",
+        "co2_per_kg": 0.0
+    },
+    "barley_groats_raw": {
+        "kcal_per_kg": 3540,
+        "category": "Grain",
+        "serving_kg": 0.07,
+        "id": "f9dd30d3-5d59-4576-86c4-4ff5db1db5f8",
+        "co2_per_kg": 0.0
+    },
+    "bacon_frying__raw": {
+        "id": "ab63d0b6-7317-4980-bf42-ad593176af51",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "asparagus_green__raw": {
+        "id": "ecbde7ba-9450-4092-b409-25de854d4401",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "arugula_salad_rinsed": {
+        "kcal_per_kg": 250,
+        "category": "Veg",
+        "serving_kg": 0.05,
+        "id": "d37b6837-7867-46fa-8618-f7980b819f04",
+        "co2_per_kg": 0.0
+    },
+    "american_inspired_cookie": {
+        "kcal_per_kg": 4800,
+        "category": "Sweet",
+        "serving_kg": 0.04,
+        "id": "f0f7b9dc-5972-44c3-8096-cce4ec79567a",
+        "co2_per_kg": 0.0
+    },
+    "almond_milk_unfortified": {
+        "kcal_per_kg": 150,
+        "category": "Dairy",
+        "serving_kg": 0.25,
+        "id": "fe8ecbec-1834-46b6-b292-80aa66f893ef",
+        "co2_per_kg": 0.0
+    },
+    "yogurt_plain_whole_milk": {
+        "id": "97e5ef04-6cd8-4002-a6b9-a3e55176fe08",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "wine_white__sparkling__champagne": {
+        "id": "bd1151dc-45c2-454d-8135-817f8397606e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "wheat_kernels__whole__cracked": {
+        "id": "f076b50c-edf4-4531-b193-37a61ad4d74a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_schnitzels_soy_based": {
+        "id": "ffe1077e-e3d8-4b06-ba8d-b42441580514",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_sausage_soy_based": {
+        "id": "c419c852-c169-4427-9f95-fdd4d75d6691",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_nuggets_soy_based": {
+        "id": "f18745cd-6b51-4a21-a5a4-ba044baa1035",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_minced_pea_based": {
+        "id": "f7c7dd44-2bae-4a5b-a561-bcb049e4d3c4",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_ice_cream_oats": {
+        "id": "d5b0a4d9-426c-49c2-bf00-07f60862e8b5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_burgers_soy_based": {
+        "id": "fc495ccc-7d36-4920-932f-bf14f8b23803",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_balls_soy_based": {
+        "id": "fc40ebe1-a05a-4727-8b39-ebc3daac4083",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "veal_medium_fat__raw": {
+        "id": "e69ac6cf-3cd7-483d-82ce-acb6f21e7213",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "turkey_flesh_only__raw": {
+        "id": "ffc64f03-dc2d-4a81-839a-553ac37b29a8",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tuna_in_water__canned": {
+        "id": "dea0699f-1675-4b43-8ef2-b8aa10393e75",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tofu_soy_bean_curd": {
+        "id": "cf55d1dc-241f-43cf-8f6b-0e3e08dc40a6",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sunflower_seeds_decorticated__dried": {
+        "id": "ff9526cf-b2c9-44ff-8a3a-48adb5b984e6",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "soft_drink_sugar_added": {
+        "id": "fff067be-99ae-4b6b-9cf7-373179c3083b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "shrimp_boiled__shell_removed": {
+        "id": "f4b97d70-81b7-4d12-8d5b-80b81527c298",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "shrimp_boiled__in_brine": {
+        "id": "f8faa68f-4906-44bf-969e-3829410851cd",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "salmon_atlantic__wild__raw": {
+        "id": "fbc36a01-1b6c-4fdf-ac38-b3b8c430ddc1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "salmon_atlantic__aquaculture__raw": {
+        "id": "f5dff9b6-cbf2-4616-b710-7f26d8f320ab",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rye_kernels_whole__cracked": {
+        "id": "db23cf2f-35ea-4d4a-aab8-0434695e1753",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rabbit_flesh_only__raw": {
+        "id": "fe30fc17-f594-4039-889c-55fa2191632c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "potato_gratin__cream_potatoes": {
+        "id": "ef2eeeca-ad90-4862-b588-b3926ff44e42",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_tenderloin__trimmed__raw": {
+        "id": "f5b7b974-3fc1-40bf-86e3-1d025c39d264",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_sausage_thuringian_sausage": {
+        "id": "d7f8515b-3431-47b7-83d6-4b4d23982e5f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_loin__lean__raw": {
+        "id": "ee554da7-ec65-4c7e-a7a5-4cbf1d1f4bf8",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_ham__boiled__sliced": {
+        "id": "fa825ded-a47f-43a7-b3d0-6ccc81f230c1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_flank__spiced__cooked": {
+        "id": "b74d0bf8-ca37-4456-adb2-dc77081b74ba",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_collar__defatted__raw": {
+        "id": "fb66e65d-04e7-4934-9241-aeb732714d8d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "plain_cake_chocolate_cake": {
+        "id": "bb666bcc-6da4-47f2-b1f2-4a4a7b4e8865",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "plaice_fillet__breaded__dybfrost": {
+        "id": "e999108c-8913-4400-b6eb-c88a4600ca83",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pepper_sweet__red__raw": {
+        "id": "fe0ef05a-8b8c-444b-bf8d-5869dab03ac4",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pepper_hot_chili__raw": {
+        "id": "b8e0fbee-6579-497c-ae9e-865d5c0cc397",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pepper_hot_chili__canned": {
+        "id": "e1ca02c5-36e3-45e0-9a3e-92ebe8561101",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "peanuts_oilroasted_and_salted": {
+        "id": "de290c68-3a71-48d0-954e-32ce64a30dd5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "onions_chopped_and_deepfried": {
+        "id": "e37cc986-8b3e-4cad-bfec-8fa8a805c0db",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "olives_green__pickled__canned": {
+        "id": "c002dbf1-37c5-43c1-ac1b-6e0d631a96be",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "oats_rolled__not_enriched": {
+        "id": "deeeb371-c85c-497b-814c-2cecf4e615ea",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "oatmilk_with_added_calcium": {
+        "id": "f0f226e5-52ac-4fe2-8242-0f39159f6ad3",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "mustard_yellow__ready_made": {
+        "id": "cca28996-cce5-4717-b53d-69fd45d5d8df",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "mussels_in_water__canned": {
+        "id": "e1f6cd74-1ecf-47f7-adf6-3cb1c6e9519c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "liqueur_coffee_with_cream": {
+        "id": "fd3ce4f3-9079-4d4e-9b5d-f53105888167",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "lasagne_vegetarian__ready_meals": {
+        "id": "6309178d-4839-4f32-999a-97b69dd1eaa1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "lasagne_vegan__ready_meals": {
+        "id": "d9034096-fa16-4306-9ae1-7ccda891213e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "lasagne_beef__ready_meals": {
+        "id": "dbf715e1-54ef-4167-a6ca-e27441e04425",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "lamb_leg__unspecified__raw": {
+        "id": "a5e7edb5-98bf-4928-992c-ba43a59243a5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "half_pears_in_juice": {
+        "kcal_per_kg": 570,
+        "category": "Fruit",
+        "serving_kg": 0.15,
+        "id": "fd0dfba3-8f79-424d-b6b5-0b97b5878bbd",
+        "co2_per_kg": 0.0
+    },
+    "half_peaches_in_juice": {
+        "kcal_per_kg": 540,
+        "category": "Fruit",
+        "serving_kg": 0.15,
+        "id": "a9381bb3-0580-47ae-9133-1755dff906cc",
+        "co2_per_kg": 0.0
+    },
+    "fresh_pasta_fettucine_spinach": {
+        "kcal_per_kg": 2800,
+        "category": "Grain",
+        "serving_kg": 0.12,
+        "id": "b24913e2-2597-4415-a7e4-43a03d0d08be",
+        "co2_per_kg": 0.0
+    },
+    "fish_fingers_breaded__frozen": {
+        "id": "ff7f295a-e66f-4260-a302-f092e0accff3",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "fish_fillet_breaded__deepfried": {
+        "id": "dfe878a6-2214-4c4f-ae3f-d8049a85dff8",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "duck_flesh_only__raw": {
+        "id": "e2661723-49d6-4df7-bf56-0717b35e8e00",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "croque_monsieur_ready_meals": {
+        "kcal_per_kg": 2800,
+        "category": "Meal",
+        "serving_kg": 0.2,
+        "id": "fcc46e8e-15b6-495d-ae43-50630418b508",
+        "co2_per_kg": 0.0
+    },
+    "crispbread_knackebrot__rye__coarse": {
+        "id": "fa472c04-2d11-4bd8-989e-089ee38ab557",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cream_pastry_layer_cake": {
+        "kcal_per_kg": 3000,
+        "category": "Sweet",
+        "serving_kg": 0.1,
+        "id": "fedb8683-490f-4de0-b285-c1b9d09bc275",
+        "co2_per_kg": 0.0
+    },
+    "crab_claws_meat__raw": {
+        "id": "f9397726-0070-4157-a4bb-14ba152015f8",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "coffee_bean_roasted__ground": {
+        "id": "f45c11b1-7782-4e13-9998-6acc4f11ae80",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cod_fillet__breaded__raw": {
+        "id": "eea3ad7f-fc96-4d34-a629-f2dfc732af1d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cider_45": {
+        "id": "eaead58e-de32-4373-afd8-7f160526084d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "chicken_breast__boiled__sliced": {
+        "id": "d9aa3e5f-19bc-465a-aa55-0208a2af475b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "celeriac_celery_root__raw": {
+        "id": "fafa4dcd-e412-4ff1-b20f-8f76d54f8202",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cauliflower_all_varieties__raw": {
+        "id": "d277defe-6347-418a-bd94-9e8c11e924c9",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cashew_nut_dry_roasted": {
+        "kcal_per_kg": 5530,
+        "category": "Nut",
+        "serving_kg": 0.03,
+        "id": "f82273f5-ba30-4373-8dad-f66cba3d01a8",
+        "co2_per_kg": 0.0
+    },
+    "bread_white__for_sausages": {
+        "id": "ef318307-0e11-4804-ad05-631a9a38c0b0",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "bouillon_beef__concentrated__cube": {
+        "id": "fc326bdb-00c9-426e-a0bf-b0360870991d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "biscuit_wholemeal__digestive_type": {
+        "id": "b730aef1-88dd-407b-9415-8c3117aab595",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beef_fillet__defatted__raw": {
+        "id": "e18a26e2-6760-4611-93fa-717a80d393b0",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beans_soy__dried__raw": {
+        "id": "ecbbabf2-6be1-4487-a392-c18ae73ae906",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "bean_sprouts_mung__raw": {
+        "id": "f6bd973f-6101-4ee7-b4cc-f797792c05fc",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "bamboo_shoots_canned__nonsalted": {
+        "id": "f642a458-0146-4358-8d1f-135a923c42a1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "apple_raw__all_varieties": {
+        "id": "92349a0a-10b3-4a7e-a21a-56995eb1dd1e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "alcoholic_soda_4": {
+        "id": "f4d4f225-9ecf-4cef-a265-134916c75280",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "vegan_cheese_grated_or_sliced": {
+        "id": "e571d4ab-97d0-4877-9f2e-7428b97656bc",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "turkey_breast__boiled__smoked__sliced": {
+        "id": "ec8c3ef3-6c19-48bb-bd49-c11e13427077",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "tuna_in_tomato_sauce__canned": {
+        "id": "bbdfc4e8-c965-465c-92f6-0c78afaa2ccd",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "spring_roll_vegetables__ready_meals": {
+        "id": "f854696e-1608-4135-ad3c-74b32921e69b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "spring_roll_frozen__ready_meals": {
+        "id": "e1ce3480-477a-4606-8147-6df0d6e58d70",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "spring_roll_deepfried__ready_meals": {
+        "id": "c940d267-675d-4ce9-947d-654a5a36ef20",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "spring_roll_chicken__ready_meals": {
+        "id": "c75184b5-0122-4975-9907-50318f38945a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "spring_roll_beef__ready_meals": {
+        "id": "e4b609d8-ff45-46c4-812a-cab47210df37",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "soy_milk_with_added_calcium": {
+        "id": "f0a20fe1-890b-4b7f-b7a1-660edaf09a11",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "soup_tomato__ready_to_eat": {
+        "id": "f514637f-2517-46fd-8157-1c4f62223e00",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "skyr_02_fat": {
+        "id": "df786c89-0612-47da-94a1-9266f0dc50e2",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "salmon_atlantic__aquaculture__hot_smoked": {
+        "id": "f764544e-e268-4afd-823c-eccdc8cabc62",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "salmon_atlantic__aquaculture__cold_smoked": {
+        "id": "acb5ebd9-40fd-4127-8e09-bcc68e5214d1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "salad_dressing_oil_and_vinegar": {
+        "id": "b4b5db42-cc55-4161-b01a-4a05ce8b575b",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rye_flour_dark__whole_meal": {
+        "id": "eae7cd14-9f1c-4b53-8647-5b29f69ee146",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rice_milk_with_added_calcium": {
+        "id": "9c8cca4e-b462-45d8-824e-58047f1193c3",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "potato_hotchpotch_beef__ready_meals": {
+        "id": "ffc51fac-930f-4e09-8720-ecc61c47029a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_collar_with_rind__raw": {
+        "id": "fae7d32d-db76-42b6-bf54-22e6ed2e0c0f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pizza_romana_frozen__ready_meals": {
+        "id": "fab1518a-4e77-43cb-b83d-b0ab949d01af",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pizza_napolitana_frozen__ready_meals": {
+        "id": "d27a2569-fc7d-410c-9e19-e598b5318200",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pheasant_flesh_and_skin__raw": {
+        "id": "fc6ac573-718e-449f-b2ac-33c65215c273",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "peas_chick__garbanzo__dry__raw": {
+        "id": "be5b12bd-6983-453d-a97a-c3b7777577e5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "nut_paste_with_cacao_spreads": {
+        "id": "f9cade71-2eb9-4b23-ae2c-b222d177d4f5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "milk_skimmed__with_chocolate__uht": {
+        "id": "afe19fc0-d911-41f0-8dbe-79c9c73acfd8",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "ice_cream_dairy__wholemilk_based": {
+        "id": "f020ba2b-b1cf-419d-9f5b-50dfe4b0658d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "ice_cream_dairy__cream_based": {
+        "id": "c4c8d309-0a70-49ae-8400-2557da8b66dc",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "fruit_juice_mixed__sweetened__concentrated": {
+        "id": "d30df4fa-99db-4710-865c-6d6d80d536a7",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cream_whipping__38_fat": {
+        "id": "bb1d22a9-a1f1-41b0-8061-fe7dffd20d21",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cream_cultured__18_fat": {
+        "id": "fc49fbc9-b04e-49b6-8b23-61adb9212b5f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cocoa_instant__without_milk__powder": {
+        "id": "e535716c-47ce-4b47-81ee-8fc35feddf8f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "chili_con_carne_ready_meals": {
+        "kcal_per_kg": 1300,
+        "category": "Meal",
+        "serving_kg": 0.4,
+        "id": "f9a41ebf-004f-4b2d-9e1a-cc19c93e235d",
+        "co2_per_kg": 0.0
+    },
+    "chicken_nugget_deepfried__ready_meals": {
+        "id": "d2cc8433-c6cc-463d-9aef-150099c7e763",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "caviar_made_from_capelin_roe": {
+        "kcal_per_kg": 1000,
+        "category": "Protein",
+        "serving_kg": 0.02,
+        "id": "cbd89639-fb78-4f95-bcea-a61603dcf4ae",
+        "co2_per_kg": 0.0
+    },
+    "caviar_danish__roe__lumpsucker": {
+        "id": "dd171b67-c981-4c25-a22c-a0a04189c86f",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cabbage_chinese__pakchoi__raw": {
+        "id": "ba85b26b-31b8-45b2-8ca8-75cb5b96ff3e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "butter_cookie_wheat__industrially_produced": {
+        "id": "f1d03881-1366-4ecf-bc2a-6328633b1da0",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "bread_white__roll__coarse_grain": {
+        "id": "e791b721-8776-4254-80cf-f90431609603",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "blended_spread_75_fat": {
+        "id": "f964c4f7-e7e5-4322-98f7-2aa93ca8393a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beef_topside__cap_off__raw": {
+        "id": "b8090e20-e37a-497e-9120-bb454c370662",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beef_tbone_steak__raw": {
+        "id": "f50f666f-d937-4c02-9ad6-19e58117a0d9",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "apple_juice_canned_or_bottled": {
+        "kcal_per_kg": 460,
+        "category": "Fruit",
+        "serving_kg": 0.25,
+        "id": "d47106ee-65d7-44b5-b470-62bde1d9b21e",
+        "co2_per_kg": 0.0
+    },
+    "wheat_bread_for_toasting__industrially_produced": {
+        "id": "f7361b87-fc6d-49cc-b7eb-4b7290d63c2d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "sugar_pea_snow_pea__mangetout_raw": {
+        "id": "c911b4a7-195c-4a8d-904e-3b8513867340",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rye_bread_crumbs_with_brown_sugar": {
+        "id": "bd135218-e8f3-43b2-b488-031c7a32833e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "prawn_giant_tiger__aquaculture__boiled__frozen": {
+        "id": "d90fccfd-959c-436c-959e-dc9527169012",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "plant_paste_pea_protein_and_mushroom": {
+        "id": "cb40528d-6867-4d53-98ce-8cd14fb5c5ee",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pizza_with_tuna_frozen__ready_meals": {
+        "id": "ef33b480-10c0-4be9-8684-47358aebd3fa",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pizza_with_broccoli_frozen__ready_meals": {
+        "id": "b88a2734-b008-4cac-9f1f-a745d06c6e0e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "olives_black__without_stones__in_brine": {
+        "id": "ec96afe1-dc26-4a03-b02f-fb9937161054",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "oil_rape_seed__no_eruca_acid": {
+        "id": "d2ef1e56-6228-4543-8fc1-7b911af8d4e5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "milk_whole__35_fat": {
+        "id": "f45f481f-8faf-4fb3-9f33-178c44f9f811",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "milk_skimmed__05_fat": {
+        "id": "ed7cbf93-5894-4359-80ad-34af5c5047b1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "lettuce_iceberg__including_crisphead_types__raw": {
+        "id": "f5b63f82-ddec-4059-800c-6c7adf92343e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "leek_pie_with_bacon_ready_meals": {
+        "id": "f0c1215b-f608-4afd-9f95-fa51f5f39561",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cookie_truffle_product__unbaked__industrially_produced": {
+        "id": "dd2a9f66-803f-4f97-9292-8d8e3f3f5b79",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "chicken_leg__flesh_and_skin__raw": {
+        "id": "e9c73257-e1ef-49ba-b767-58652d1d45ab",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "chicken_hen__flesh_and_skin__raw": {
+        "id": "f76a06e2-795e-47e0-aef2-5df7524dd5fc",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "chicken_drumstick__flesh_and_skin__raw": {
+        "id": "ae42026c-4f23-4826-ab23-8cc5ff873e7d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "chicken_breast__flesh_and_skin__raw": {
+        "id": "fedac2ec-8d34-4f14-9bb2-2a57315b458e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cabbage_red__canned__no_sugar_added": {
+        "id": "f1003a2a-31be-4735-a02a-ab33fa703f54",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beans_baked_in_tomato_sauce__canned": {
+        "id": "f809c700-c9a9-4d02-bc4c-763c232015b1",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rye_bread_dark__whole_grains__industrially_produced": {
+        "id": "ca1c81cc-fcd2-4724-b3a2-0375131dc500",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "potatoes_mashed__instant_powder_with_dry_milk": {
+        "id": "d25295c1-d050-4561-ad2a-07744d3a3f3a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_in_curry_sauce_frozen__ready_meals": {
+        "id": "e3671b16-0c03-4b02-9c70-1eb4be652098",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_ham__topside__semimembranosus_muscle__lean__raw": {
+        "id": "e884f08c-e15e-47dd-adee-14852b445102",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "popcorn_oil_and_salt_added__traditional": {
+        "id": "d6c41910-57af-4cfc-8b0d-a7d28b0fc18a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pizza_with_tomato_and_cheese_ready_meals": {
+        "id": "cfdb3f05-b668-4fbe-99eb-453a95ea3b27",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "minced_meat_spaghetti_sauce_type__ready_meals": {
+        "id": "c51317bd-f15c-4965-86c4-49b3d7a39c83",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "milk_partly_skimmed__15_fat": {
+        "id": "fb73788e-8178-4d28-b21e-a7f11083230c",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "eggs_chicken__freerange_hens__indoor__raw": {
+        "id": "c6bd312f-82df-4e48-8f62-aeecb93c084d",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "chewing_gum_no_sugar_added__all_types": {
+        "id": "c103fc41-7921-42ef-a30f-b5a428904c14",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "turkey_mince__510_fat__raw": {
+        "id": "d93b3380-d507-4b7c-95ca-26d9922ac9ad",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_mince__510_fat__raw": {
+        "id": "d42dd8cc-cc65-4d58-9472-95a125694479",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pork_mince__1520_fat__raw": {
+        "id": "f52d93fd-cfae-4cc3-8f17-1d3f78a1d091",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pizza_with_seafood_tomato_and_cheese__ready_meals": {
+        "id": "f6a9400d-2d5e-45ae-8f48-018c77d58aa4",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pizza_with_salami_tomato_and_cheese__ready_meals": {
+        "id": "ce892f1c-6125-4b04-bebf-fb2d0bcddf22",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pizza_with_meat_tomato_and_cheese__ready_meals": {
+        "id": "a06cd57c-0ef5-4e05-82f0-6fa25d2a5ef8",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cheese_cream__60_fat_in_dry_matter": {
+        "id": "b97d274b-1b33-40d3-b7d8-16b798b086f7",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cheese_cottage__20_fat_in_dry_matter": {
+        "id": "fe8f197b-91a3-40bb-9aff-a8d5b6840212",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cheese_brie__45_fat_in_dry_matter": {
+        "id": "cdf83476-2154-4179-a8ea-15d884528a24",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beer_strong__alcohol_76_by_volume": {
+        "id": "f8c106a2-6fe2-4129-b4f9-18d5945347a5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beer_lager__alcohol_44_by_volume": {
+        "id": "ff81b65d-ce46-49ea-8c10-b2d6d5fc13b5",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beef_minced__510_fat__raw": {
+        "id": "ab621d08-625b-481d-8a6d-8b6f1311313e",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beef_minced__1520_fat__raw": {
+        "id": "fcf2fe7c-ad78-4986-b6b5-afdef70859ef",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "beef_minced__1015_fat__raw": {
+        "id": "cb552a01-6b11-4d4b-9f24-b85f2a92efee",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pizza_with_vegetables_fruit__tomato_and_cheese__ready_meals": {
+        "id": "eb5fc9d6-c7cf-48de-b4df-a14c5d5e491a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "margarine_70_fat__table_use__soft__vegetable_fat": {
+        "id": "ef932133-ab72-4857-b74b-243b7f2f3f57",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cheese_semihard__mozzarella__30_fat_in_dry_matter": {
+        "id": "914d74df-9797-494a-8f15-fef94423ef2a",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cheese_semihard__feta__40_fat_in_dry_matter": {
+        "id": "d651c7bf-cd7b-44ac-93f3-6f03532071b9",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cheese_hard__parmesan__32_fat_in_dry_matter": {
+        "id": "db39cd3d-f859-4f7e-a659-ac648a57d515",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cheese_firm__danbo__45_fat_in_dry_matter": {
+        "id": "f5f2557f-f063-46b1-a484-97e00cd35a62",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "cheese_danish_blue__50_fat_in_dry_matter": {
+        "id": "d5d96f96-4055-43ae-a485-508b13f78225",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "veal_and_pork_mince__1520_fat__raw": {
+        "id": "ef5db8f3-1421-4b3a-be3e-6ddca72c59f3",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "pizza_with_meat_and_seafood_tomato_and_cheese__ready_meals": {
+        "id": "e439b920-2922-4316-8cee-331899d732a3",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "meatballs_in_curry_with_rice_and_curry_sauce_ready_meals": {
+        "id": "e7c86e1d-c23e-4045-96ce-9ba4b8504b11",
+        "co2_per_kg": 0.0,
+        "kcal": null,
+        "protein": null,
+        "fat": null,
+        "carbs": null
+    },
+    "rice": {
+        "id": "mock_rice",
+        "co2_per_kg": 2.5,
+        "kcal_per_kg": 1300,
+        "category": "Grain",
+        "serving_kg": 0.07
+    }
+}

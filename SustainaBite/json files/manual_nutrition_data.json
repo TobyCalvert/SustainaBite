@@ -1,0 +1,479 @@
+{
+    "breadcrumbs": {
+        "id": "c25c3a5c-895a-4d38-b30a-d69a8f2e5392",
+        "clean_name": "Breadcrumbs",
+        "co2_per_kg": 2.360258042,
+        "kcal_per_kg": 3950,
+        "protein_per_kg": 130,
+        "fat_per_kg": 50,
+        "carbs_per_kg": 720
+    },
+    "vegan_block": {
+        "id": "7f8ad932-92a1-476a-b378-c59ab473905b",
+        "clean_name": "Vegan block",
+        "co2_per_kg": 2.623301476,
+        "kcal_per_kg": 7200,
+        "protein_per_kg": 5,
+        "fat_per_kg": 800,
+        "carbs_per_kg": 10
+    },
+    "tea_leaves": {
+        "id": "9be27abf-984b-4f1e-b3dd-990ab12d9597",
+        "clean_name": "Tea (leaves)",
+        "co2_per_kg": 11.71487603,
+        "kcal_per_kg": 10,
+        "protein_per_kg": 0,
+        "fat_per_kg": 0,
+        "carbs_per_kg": 2
+    },
+    "sunflower_oil": {
+        "id": "894b0286-f757-4d4d-99bb-186e46a3a85c",
+        "clean_name": "Sunflower oil",
+        "co2_per_kg": 2.866778477,
+        "kcal_per_kg": 8840,
+        "protein_per_kg": 0,
+        "fat_per_kg": 1000,
+        "carbs_per_kg": 0
+    },
+    "sliced_mushrooms": {
+        "id": "d7c2e3f2-4f80-4821-82b7-63581d91d1b1",
+        "clean_name": "Sliced mushrooms",
+        "co2_per_kg": 0.2875337903,
+        "kcal_per_kg": 220,
+        "protein_per_kg": 31,
+        "fat_per_kg": 3,
+        "carbs_per_kg": 33
+    },
+    "sherry_dry": {
+        "id": "930831e6-5e70-4227-b940-ddae18c790ff",
+        "clean_name": "Sherry (dry)",
+        "co2_per_kg": 2.739352261,
+        "kcal_per_kg": 1150,
+        "protein_per_kg": 0,
+        "fat_per_kg": 0,
+        "carbs_per_kg": 30
+    },
+    "raspberry_raw": {
+        "id": "4761bc7f-544c-4375-8e82-fe607de0f308",
+        "clean_name": "Raspberry (raw)",
+        "co2_per_kg": 0.7450754997,
+        "kcal_per_kg": 520,
+        "protein_per_kg": 12,
+        "fat_per_kg": 7,
+        "carbs_per_kg": 120
+    },
+    "raspberry_frozen": {
+        "id": "e8c8bf39-cdf5-4a40-9605-20682240f296",
+        "clean_name": "Raspberry (frozen)",
+        "co2_per_kg": 1.436975952,
+        "kcal_per_kg": 520,
+        "protein_per_kg": 12,
+        "fat_per_kg": 7,
+        "carbs_per_kg": 120
+    },
+    "portobello_mushroom": {
+        "id": "6fa439b1-d9d5-4473-a260-995b269f50de",
+        "clean_name": "Portobello mushroom",
+        "co2_per_kg": 0.2454260405,
+        "kcal_per_kg": 220,
+        "protein_per_kg": 25,
+        "fat_per_kg": 3,
+        "carbs_per_kg": 40
+    },
+    "plaice_raw": {
+        "id": "11f241b2-691e-47e0-a2c8-4b3e1509b5bc",
+        "clean_name": "Plaice (raw)",
+        "co2_per_kg": 2.615916616,
+        "kcal_per_kg": 900,
+        "protein_per_kg": 190,
+        "fat_per_kg": 15,
+        "carbs_per_kg": 0
+    },
+    "pineapple_raw": {
+        "id": "eb866973-09c6-4357-b814-1c0bc8a9a339",
+        "clean_name": "Pineapple (raw)",
+        "co2_per_kg": 0.5631062761,
+        "kcal_per_kg": 500,
+        "protein_per_kg": 5,
+        "fat_per_kg": 1,
+        "carbs_per_kg": 130
+    },
+    "pineapple_canned": {
+        "id": "ff3e1b06-b855-4d42-8623-24f104710123",
+        "clean_name": "Pineapple (canned)",
+        "co2_per_kg": 0.9818651832,
+        "kcal_per_kg": 600,
+        "protein_per_kg": 5,
+        "fat_per_kg": 1,
+        "carbs_per_kg": 160
+    },
+    "peanut_butter": {
+        "id": "1769e48e-710c-44ca-871c-dede51620624",
+        "clean_name": "Peanut butter",
+        "co2_per_kg": 3.82577411,
+        "kcal_per_kg": 5880,
+        "protein_per_kg": 250,
+        "fat_per_kg": 500,
+        "carbs_per_kg": 200
+    },
+    "pea_drink": {
+        "id": "b1604203-24f5-49ce-ab08-fd62949ce0af",
+        "clean_name": "Pea drink",
+        "co2_per_kg": 0.6211783671,
+        "kcal_per_kg": 350,
+        "protein_per_kg": 25,
+        "fat_per_kg": 20,
+        "carbs_per_kg": 30
+    },
+    "oyster_raw": {
+        "id": "7076128c-6263-49a1-9922-0155f8f97116",
+        "clean_name": "Oyster (raw)",
+        "co2_per_kg": 0.8150994189,
+        "kcal_per_kg": 600,
+        "protein_per_kg": 70,
+        "fat_per_kg": 20,
+        "carbs_per_kg": 40
+    },
+    "oyster_mushroom": {
+        "id": "56621321-4b94-493f-8fac-0d0cb760711b",
+        "clean_name": "Oyster mushroom",
+        "co2_per_kg": 0.3274887238,
+        "kcal_per_kg": 330,
+        "protein_per_kg": 33,
+        "fat_per_kg": 4,
+        "carbs_per_kg": 60
+    },
+    "mushroom_raw": {
+        "id": "ae3da019-5a49-4864-894d-c82ee0789f42",
+        "clean_name": "Mushroom (raw)",
+        "co2_per_kg": 0.3274887238,
+        "kcal_per_kg": 220,
+        "protein_per_kg": 31,
+        "fat_per_kg": 3,
+        "carbs_per_kg": 33
+    },
+    "mushroom_canned": {
+        "id": "fe9f0a01-0f32-44d4-83b3-c5459e16876a",
+        "clean_name": "Mushroom (canned)",
+        "co2_per_kg": 0.4808163612,
+        "kcal_per_kg": 250,
+        "protein_per_kg": 20,
+        "fat_per_kg": 5,
+        "carbs_per_kg": 40
+    },
+    "icetea_peach": {
+        "id": "724f47f4-04b5-4c51-8a46-00a77af77b13",
+        "clean_name": "Icetea (peach)",
+        "co2_per_kg": 0.9183209892,
+        "kcal_per_kg": 300,
+        "protein_per_kg": 0,
+        "fat_per_kg": 0,
+        "carbs_per_kg": 70
+    },
+    "garfish_raw": {
+        "id": "080e8d25-a665-42cd-8488-ffd06d212a2c",
+        "clean_name": "Garfish (raw)",
+        "co2_per_kg": 2.457290834,
+        "kcal_per_kg": 1000,
+        "protein_per_kg": 200,
+        "fat_per_kg": 20,
+        "carbs_per_kg": 0
+    },
+    "chestnut_raw": {
+        "id": "350f071e-68e0-49a8-9713-ca27246dea8d",
+        "clean_name": "Chestnut (raw)",
+        "co2_per_kg": 2.28679395,
+        "kcal_per_kg": 1960,
+        "protein_per_kg": 20,
+        "fat_per_kg": 15,
+        "carbs_per_kg": 440
+    },
+    "charr_raw": {
+        "id": "0335f00e-bfa7-45e1-b04c-eb2a448af3f3",
+        "clean_name": "Charr (raw)",
+        "co2_per_kg": 6.763990811,
+        "kcal_per_kg": 1600,
+        "protein_per_kg": 200,
+        "fat_per_kg": 90,
+        "carbs_per_kg": 0
+    },
+    "celery_raw": {
+        "id": "5373b25f-28d0-42dc-aea1-dd9d766c5f42",
+        "clean_name": "Celery (raw)",
+        "co2_per_kg": 0.4009229615,
+        "kcal_per_kg": 140,
+        "protein_per_kg": 7,
+        "fat_per_kg": 2,
+        "carbs_per_kg": 30
+    },
+    "cauliflower_frozen": {
+        "id": "a3b158cc-8560-4f74-a0b8-e37edf4c1cf9",
+        "clean_name": "Cauliflower (frozen)",
+        "co2_per_kg": 0.9602445669,
+        "kcal_per_kg": 250,
+        "protein_per_kg": 20,
+        "fat_per_kg": 3,
+        "carbs_per_kg": 50
+    },
+    "blueberry_raw": {
+        "id": "ff8d4531-7b5d-4a2f-b925-ecd4ce28b8a4",
+        "clean_name": "Blueberry (raw)",
+        "co2_per_kg": 1.196624584,
+        "kcal_per_kg": 570,
+        "protein_per_kg": 7,
+        "fat_per_kg": 3,
+        "carbs_per_kg": 140
+    },
+    "baby_corn": {
+        "id": "dddf4aad-ce46-42d8-b36e-b51fad910c28",
+        "clean_name": "Baby corn",
+        "co2_per_kg": 0.5974820559,
+        "kcal_per_kg": 260,
+        "protein_per_kg": 20,
+        "fat_per_kg": 5,
+        "carbs_per_kg": 50
+    },
+    "tomato_paste_concentrated": {
+        "id": "9bbc9849-ff99-496f-b1fe-5795ee9c2247",
+        "clean_name": "Tomato paste (concentrated)",
+        "co2_per_kg": 2.562640848,
+        "kcal_per_kg": 820,
+        "protein_per_kg": 40,
+        "fat_per_kg": 5,
+        "carbs_per_kg": 190
+    },
+    "pumpkin_seeds_dried": {
+        "id": "8946f187-2a05-48b4-98fd-a27c109d58e7",
+        "clean_name": "Pumpkin seeds (dried)",
+        "co2_per_kg": 4.640930344,
+        "kcal_per_kg": 5590,
+        "protein_per_kg": 300,
+        "fat_per_kg": 490,
+        "carbs_per_kg": 100
+    },
+    "peas_green__raw": {
+        "id": "6c26f8aa-efa0-40bc-a2b7-f55c2dcf97b6",
+        "clean_name": "Peas (green - raw)",
+        "co2_per_kg": 1.01804281,
+        "kcal_per_kg": 810,
+        "protein_per_kg": 50,
+        "fat_per_kg": 4,
+        "carbs_per_kg": 140
+    },
+    "peas_green__frozen": {
+        "id": "a2fecf12-0929-4789-9a5b-2663a4ee8164",
+        "clean_name": "Peas (green - frozen)",
+        "co2_per_kg": 1.388705372,
+        "kcal_per_kg": 770,
+        "protein_per_kg": 50,
+        "fat_per_kg": 4,
+        "carbs_per_kg": 130
+    },
+    "peas_green__canned": {
+        "id": "0c3efb7c-4885-4930-8678-4e9224315c02",
+        "clean_name": "Peas (green - canned)",
+        "co2_per_kg": 1.778387197,
+        "kcal_per_kg": 700,
+        "protein_per_kg": 45,
+        "fat_per_kg": 4,
+        "carbs_per_kg": 120
+    },
+    "lettuce_looseleaf__raw": {
+        "id": "16976956-5a8b-4ee5-ab8f-f523cb3fda59",
+        "clean_name": "Lettuce (looseleaf - raw)",
+        "co2_per_kg": 0.5041444844,
+        "kcal_per_kg": 150,
+        "protein_per_kg": 14,
+        "fat_per_kg": 2,
+        "carbs_per_kg": 29
+    },
+    "lentil_sprouted__raw": {
+        "id": "add18471-b33a-4218-878e-df1e6621e1ca",
+        "clean_name": "Lentil (sprouted - raw)",
+        "co2_per_kg": 3.287287391,
+        "kcal_per_kg": 1060,
+        "protein_per_kg": 90,
+        "fat_per_kg": 5,
+        "carbs_per_kg": 220
+    },
+    "green_lentil_dried": {
+        "id": "aedd1e46-9fa9-4491-be9c-412495517594",
+        "clean_name": "Green lentil (dried)",
+        "co2_per_kg": 3.433245719,
+        "kcal_per_kg": 3530,
+        "protein_per_kg": 250,
+        "fat_per_kg": 10,
+        "carbs_per_kg": 600
+    },
+    "garlic_in_oil": {
+        "id": "7babad38-5ed5-45a7-8eae-f3a1c0698387",
+        "clean_name": "Garlic in oil",
+        "co2_per_kg": 2.31424649,
+        "kcal_per_kg": 1500,
+        "protein_per_kg": 30,
+        "fat_per_kg": 100,
+        "carbs_per_kg": 150
+    },
+    "fennel_root__raw": {
+        "id": "d276fd71-deed-444f-be89-7a779748d147",
+        "clean_name": "Fennel (root - raw)",
+        "co2_per_kg": 0.1437820897,
+        "kcal_per_kg": 310,
+        "protein_per_kg": 12,
+        "fat_per_kg": 2,
+        "carbs_per_kg": 70
+    },
+    "brussels_sprout_raw": {
+        "id": "c1d5926f-3cb9-4303-924f-16d6cbd1a90a",
+        "clean_name": "Brussels sprout (raw)",
+        "co2_per_kg": 0.3866811407,
+        "kcal_per_kg": 430,
+        "protein_per_kg": 34,
+        "fat_per_kg": 3,
+        "carbs_per_kg": 90
+    },
+    "bottled_still_water": {
+        "id": "0b7c2a29-d540-4d80-a951-477719f559e9",
+        "clean_name": "Bottled still water",
+        "co2_per_kg": 0.3915784048,
+        "kcal_per_kg": 0,
+        "protein_per_kg": 0,
+        "fat_per_kg": 0,
+        "carbs_per_kg": 0
+    },
+    "blueberry_frozen__unsweetened": {
+        "id": "256069b7-b6e8-4bc6-8213-39950bb17289",
+        "clean_name": "Blueberry (frozen - unsweetened)",
+        "co2_per_kg": 1.079754899,
+        "kcal_per_kg": 510,
+        "protein_per_kg": 4,
+        "fat_per_kg": 6,
+        "carbs_per_kg": 120
+    },
+    "beet_red__raw": {
+        "id": "f0a1bd2f-bcd9-41bb-b81f-b0d6ad018f3d",
+        "clean_name": "Beet (red - raw)",
+        "co2_per_kg": 0.3187364412,
+        "kcal_per_kg": 430,
+        "protein_per_kg": 16,
+        "fat_per_kg": 2,
+        "carbs_per_kg": 96
+    },
+    "beet_red__canned": {
+        "id": "3432b56c-f6bf-44a8-a455-1a4b72920953",
+        "clean_name": "Beet (red - canned)",
+        "co2_per_kg": 0.6594970069,
+        "kcal_per_kg": 300,
+        "protein_per_kg": 10,
+        "fat_per_kg": 1,
+        "carbs_per_kg": 70
+    },
+    "yogurt_plain_whole_milk": {
+        "id": "328dcb2a-4f8f-4a98-aff0-2c7d15e5f928",
+        "clean_name": "Yogurt plain (whole milk)",
+        "co2_per_kg": 0.5114296129,
+        "kcal_per_kg": 610,
+        "protein_per_kg": 35,
+        "fat_per_kg": 33,
+        "carbs_per_kg": 47
+    },
+    "plaice_fillet__breaded__dybfrost": {
+        "id": "63a38539-3d06-4fb6-935c-19f39d2e74e4",
+        "clean_name": "Plaice (fillet - breaded - dybfrost)",
+        "co2_per_kg": 2.550824128,
+        "kcal_per_kg": 2000,
+        "protein_per_kg": 120,
+        "fat_per_kg": 80,
+        "carbs_per_kg": 180
+    },
+    "peanuts_oilroasted_and_salted": {
+        "id": "98ef5073-1231-4704-bb34-0eaa3e92343b",
+        "clean_name": "Peanuts (oilroasted and salted)",
+        "co2_per_kg": 3.435793752,
+        "kcal_per_kg": 5990,
+        "protein_per_kg": 280,
+        "fat_per_kg": 520,
+        "carbs_per_kg": 150
+    },
+    "croque_monsieur_ready_meals": {
+        "id": "b8851242-e46c-476b-b85d-dce88703a362",
+        "clean_name": "Croque monsieur (ready meals)",
+        "co2_per_kg": 1.375428019,
+        "kcal_per_kg": 2500,
+        "protein_per_kg": 120,
+        "fat_per_kg": 120,
+        "carbs_per_kg": 250
+    },
+    "cauliflower_all_varieties__raw": {
+        "id": "18827f2f-6336-47cb-8b10-725f477bb5fa",
+        "clean_name": "Cauliflower (all varieties - raw)",
+        "co2_per_kg": 0.674318698,
+        "kcal_per_kg": 250,
+        "protein_per_kg": 19,
+        "fat_per_kg": 3,
+        "carbs_per_kg": 50
+    },
+    "cashew_nut_dry_roasted": {
+        "id": "8f511fd0-cb04-4817-ad91-e002c875ff57",
+        "clean_name": "Cashew nut (dry roasted)",
+        "co2_per_kg": 12.68429947,
+        "kcal_per_kg": 5740,
+        "protein_per_kg": 150,
+        "fat_per_kg": 460,
+        "carbs_per_kg": 330
+    },
+    "rye_flour_dark__whole_meal": {
+        "id": "a4127e7a-8219-4de9-8e17-ee0dd8d25987",
+        "clean_name": "Rye flour (dark - whole meal)",
+        "co2_per_kg": 2.907213284,
+        "kcal_per_kg": 3250,
+        "protein_per_kg": 140,
+        "fat_per_kg": 20,
+        "carbs_per_kg": 600
+    },
+    "peas_chick__garbanzo__dry__raw": {
+        "id": "59b5da1b-e1f5-420d-856f-1bdeb3f676d6",
+        "clean_name": "Peas (chick / garbanzo - dry - raw)",
+        "co2_per_kg": 3.644626888,
+        "kcal_per_kg": 3780,
+        "protein_per_kg": 200,
+        "fat_per_kg": 60,
+        "carbs_per_kg": 630
+    },
+    "sugar_pea_snow_pea__mangetout_raw": {
+        "id": "9798ad7b-8e28-41b3-a7a2-c65584eac27e",
+        "clean_name": "Sugar pea (snow pea - mangetout raw)",
+        "co2_per_kg": 1.043686228,
+        "kcal_per_kg": 420,
+        "protein_per_kg": 28,
+        "fat_per_kg": 2,
+        "carbs_per_kg": 75
+    },
+    "oil_rape_seed__no_eruca_acid": {
+        "id": "822e352d-e44a-420b-bacb-8a2e77f59482",
+        "clean_name": "Oil (rape seed - no eruca acid)",
+        "co2_per_kg": 3.404442656,
+        "kcal_per_kg": 8840,
+        "protein_per_kg": 0,
+        "fat_per_kg": 1000,
+        "carbs_per_kg": 0
+    },
+    "lettuce_iceberg__including_crisphead_types__raw": {
+        "id": "17a02273-5329-4982-b966-d45d0980aa45",
+        "clean_name": "Lettuce (iceberg - including crisphead types - raw)",
+        "co2_per_kg": 0.5041444844,
+        "kcal_per_kg": 140,
+        "protein_per_kg": 9,
+        "fat_per_kg": 1,
+        "carbs_per_kg": 30
+    },
+    "cheese_semihard__feta__40_fat_in_dry_matter": {
+        "id": "caa3723d-7411-4d57-b28f-7c19d36c3d9f",
+        "clean_name": "Cheese (semihard - feta - 40% fat in dry matter",
+        "co2_per_kg": 0.06850077829,
+        "kcal_per_kg": 2640,
+        "protein_per_kg": 140,
+        "fat_per_kg": 210,
+        "carbs_per_kg": 40
+    }
+}

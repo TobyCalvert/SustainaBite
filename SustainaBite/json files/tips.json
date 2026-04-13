@@ -1,0 +1,102 @@
+[
+  {
+    "keywords": ["broccoli", "cauliflower"],
+    "message": "🌱 **Zero-Waste Tip:** Don't throw away the stems! They are completely edible and great for stir-fries or making vegetable broth.",
+    "icon": "🥦"
+  },
+  {
+    "keywords": ["potato", "sweet potato", "yam"],
+    "message": "🌱 **Zero-Waste Tip:** Potato skins contain up to 50% of the nutrients. Give them a good scrub and leave them on!",
+    "icon": "🥔"
+  },
+  {
+    "keywords": ["onion", "scallion", "leek", "spring onion"],
+    "message": "🌱 **Zero-Waste Tip:** Save the root ends! Place them root-down in a small glass of water to regrow them for free.",
+    "icon": "🧅"
+  },
+  {
+    "keywords": ["carrot", "beet", "turnip", "radish"],
+    "message": "🌱 **Zero-Waste Tip:** If they came with leafy tops, don't bin them! The tops are edible and make a fantastic zero-waste pesto.",
+    "icon": "🥕"
+  },
+  {
+    "keywords": ["apple", "pear"],
+    "message": "🌱 **Zero-Waste Tip:** Try not to peel them! Over half of an apple's fiber and antioxidants are stored in the skin.",
+    "icon": "🍎"
+  },
+  {
+    "keywords": ["banana"],
+    "message": "🌱 **Zero-Waste Tip:** Bananas getting too spotty? Peel, slice, and freeze them for instant smoothie bases or future banana bread.",
+    "icon": "🍌"
+  },
+  {
+    "keywords": ["lemon", "lime", "orange", "grapefruit", "citrus"],
+    "message": "🌱 **Zero-Waste Tip:** Zest your citrus before juicing and freeze the zest! You can also boil the leftover peels to make a DIY kitchen cleaner.",
+    "icon": "🍋"
+  },
+  {
+    "keywords": ["strawberry", "blueberry", "raspberry", "blackberry", "berry"],
+    "message": "🌱 **Zero-Waste Tip:** Wash berries in a 1-part vinegar to 3-parts water bath, dry thoroughly, and store with a paper towel to double their fridge life!",
+    "icon": "🍓"
+  },
+  {
+    "keywords": ["cheese", "parmesan", "pecorino"],
+    "message": "🌱 **Zero-Waste Tip:** Never throw away a hard cheese rind! Drop it into soups or pasta sauces while they simmer for a massive flavor boost.",
+    "icon": "🧀"
+  },
+  {
+    "keywords": ["bread", "baguette", "loaf", "sourdough"],
+    "message": "🌱 **Zero-Waste Tip:** Bread getting stale? Blitz it in a blender for instant breadcrumbs, or cube it, toss in oil, and bake for homemade croutons.",
+    "icon": "🍞"
+  },
+  {
+    "keywords": ["celery"],
+    "message": "🌱 **Zero-Waste Tip:** Cut off the bottom two inches of the celery bunch and place it in a shallow bowl of water. It will regrow a whole new stalk!",
+    "icon": "🥬"
+  },
+  {
+    "keywords": ["basil", "cilantro", "parsley", "mint", "thyme", "rosemary", "herb"],
+    "message": "🌱 **Zero-Waste Tip:** Fresh herbs wilting? Chop them up, put them in an ice cube tray, cover with olive oil, and freeze for instant flavor bombs.",
+    "icon": "🌿"
+  },
+  {
+    "keywords": ["chicken", "turkey", "beef", "pork", "bone"],
+    "message": "🌱 **Zero-Waste Tip:** Save your meat bones in a freezer bag. Once full, boil them with leftover vegetable scraps to make free, highly nutritious bone broth!",
+    "icon": "🍗"
+  },
+  {
+    "keywords": ["avocado"],
+    "message": "🌱 **Zero-Waste Tip:** Only using half? Store the other half in the fridge with the pit still in it, and squeeze a little lemon juice over the flesh to prevent browning.",
+    "icon": "🥑"
+  },
+  {
+    "keywords": ["squash", "pumpkin", "butternut"],
+    "message": "🌱 **Zero-Waste Tip:** Don't bin the seeds! Rinse them, toss with olive oil and salt, and roast them in the oven for a crunchy, zero-waste snack.",
+    "icon": "🎃"
+  },
+  {
+    "keywords": ["mushroom"],
+    "message": "🌱 **Zero-Waste Tip:** Don't wash mushrooms under the tap (they act like sponges and go slimy). Just brush the dirt off with a damp paper towel to keep them fresh longer.",
+    "icon": "🍄"
+  },
+  {
+    "keywords": ["tomato"],
+    "message": "🌱 **Zero-Waste Tip:** Never keep tomatoes in the fridge! The cold temperature permanently degrades their flavor and texture. Keep them on the counter.",
+    "icon": "🍅"
+  },
+  {
+    "keywords": ["lettuce", "spinach", "kale", "rocket", "arugula", "greens"],
+    "message": "🌱 **Zero-Waste Tip:** Are your leafy greens looking limp? Soak them in a bowl of ice water for 15 minutes to crisp them right back up!",
+    "icon": "🥗"
+  },
+  {
+    "keywords": ["milk", "cream", "half and half"],
+    "message": "🌱 **Zero-Waste Tip:** Dairy expiring soon? Pour it into ice cube trays and freeze. You can pop a cube straight into your morning coffee or hot chocolate!",
+    "icon": "🥛"
+  },
+  {
+    "keywords": ["garlic"],
+    "message": "🌱 **Zero-Waste Tip:** Sprouted garlic is still safe to eat, but the green shoot can taste bitter. Just slice the clove in half and pop the green bit out with your knife!",
+    "icon": "🧄"
+  }
+]
