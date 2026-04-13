@@ -176,6 +176,3 @@ mse = mean_squared_error(y_test, predictions)
 print("------------------------------------------------")
 print(f"Mean Absolute Error (MAE): {mae:.4f}")
 print("------------------------------------------------")
-
-# What this means:
-# If MAE is 0.5, your model is, on average, off by half a star.

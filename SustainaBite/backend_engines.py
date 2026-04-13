@@ -96,7 +96,7 @@ def estimate_serving_kg(item_name):
     # 3. Global Fallback (150 grams)
     return 0.15
 
-# --- 3. THE OPTIMIZATION ENGINE ---
+# --- 5. THE OPTIMIZATION ENGINE ---
 def generate_meal_plan(pantry_data, min_match_threshold=0.70, user_tags=None, excluded_tags=None, min_ingredients=6.0, days=7,
                        min_rating=0.0, auto_swap=False):
     print("--- 1. Initializing Weekly Optimization Engine ---")
@@ -111,7 +111,7 @@ def generate_meal_plan(pantry_data, min_match_threshold=0.70, user_tags=None, ex
         std_name = standardize_ingredient(item.get("name", ""))
         is_inf = item.get("is_infinite", False)
 
-        # --- If infinite, ignore the date check entirely ---
+        # --- If staple, ignore the date check entirely ---
         if is_inf:
             current_pantry[std_name] = {
                 "exp_date": None,
@@ -137,7 +137,7 @@ def generate_meal_plan(pantry_data, min_match_threshold=0.70, user_tags=None, ex
     if min_rating > 0:
         df_all = df_all[df_all['rating'] >= min_rating]
 
-    # --- 2. Filter out Excluded Tags ---
+    # 2. Filter out Excluded Tags
     if excluded_tags:
         # The '~' symbol means "NOT". So we keep recipes that DO NOT contain excluded tags.
         df_all = df_all[~df_all['tags'].apply(lambda c: contains_excluded_tags(c, excluded_tags))]
@@ -168,7 +168,7 @@ def generate_meal_plan(pantry_data, min_match_threshold=0.70, user_tags=None, ex
             best_recipe = None
             best_effective_score = float('inf')
 
-            # --- SPEED FIX 3: Iterate through dicts using enumerate() ---
+            # --- Iterate through dicts using enumerate() ---
             for index, row in enumerate(df_pool):
                 recipe_name = row.get('name', f"Recipe_{index}")
                 if recipe_name in used_recipes:
@@ -194,23 +194,21 @@ def generate_meal_plan(pantry_data, min_match_threshold=0.70, user_tags=None, ex
                 for orig_ing in clean_raw_ingredients:
                     std_ing = standardize_ingredient(str(orig_ing))
 
-                    # --- NEW: Auto-Swap Interceptor ---
+                    # --- Auto-Swap Interceptor ---
                     swapped_pantry_item = None
                     if auto_swap and w2v_model and (std_ing not in current_pantry) and (std_ing in w2v_model.wv):
                         # Ask the AI for the 15 closest ingredients
                         similars = w2v_model.wv.most_similar(std_ing, topn=15)
-                        # Check if we own any of them!
                         for sim, _ in similars:
                             if sim in current_pantry:
                                 swapped_pantry_item = sim
-                                break  # Stop searching, we found a match!
+                                break
 
                     # Point the engine to the swapped item (or keep it as the original if no swap happened)
                     actual_pantry_item = swapped_pantry_item if swapped_pantry_item else std_ing
 
-                    # --- UPDATED: Score based on the actual_pantry_item ---
+                    # --- Score based on the actual_pantry_item ---
                     if actual_pantry_item in current_pantry:
-                        # Is it an infinite staple?
                         if current_pantry[actual_pantry_item]["is_infinite"]:
                             effective_score -= 1.0
                             base_tag = "♾️ STAPLE"
@@ -227,14 +225,13 @@ def generate_meal_plan(pantry_data, min_match_threshold=0.70, user_tags=None, ex
                                 effective_score -= 1.0
                                 base_tag = "🟢 PANTRY"
 
-                        # Create a special tag if it was swapped!
+                        # Create a special tag if it was swapped
                         if swapped_pantry_item:
                             tag = f"🔄 SWAP: {swapped_pantry_item.title()} ({base_tag})"
                         else:
                             tag = base_tag
 
                         matched_count += 1
-                        # CRITICAL: Append the actual_pantry_item so it gets depleted correctly!
                         pantry_items_used.append(actual_pantry_item)
                         matched_details.append(f"{orig_ing} -> [{tag}: 0 CO2]")
 
@@ -329,7 +326,7 @@ def generate_single_recipe_options(pantry_data, target_tag, min_match_threshold=
         std_name = standardize_ingredient(item.get("name", ""))
         is_inf = item.get("is_infinite", False)
 
-        # --- FIXED: If infinite, ignore the date check entirely ---
+        # --- If infinite, ignore the date check entirely ---
         if is_inf:
             current_pantry[std_name] = {
                 "exp_date": None,
@@ -369,12 +366,12 @@ def generate_single_recipe_options(pantry_data, target_tag, min_match_threshold=
 
     combined_tags = [target_tag] + user_tags
 
-    # --- SPEED FIX 2: Convert to Dictionaries ---
+    # --- Convert to Dictionaries ---
     df_pool = df_all[df_all['tags'].apply(lambda c: check_tags(c, combined_tags))].to_dict('records')
 
     scored_recipes = []
 
-    # --- SPEED FIX 3: Enumerate ---
+    # --- Enumerate ---
     for index, row in enumerate(df_pool):
         raw_ingredients = row.get('ingredients', [])
         if isinstance(raw_ingredients, str):
@@ -395,23 +392,21 @@ def generate_single_recipe_options(pantry_data, target_tag, min_match_threshold=
         for orig_ing in clean_raw_ingredients:
             std_ing = standardize_ingredient(str(orig_ing))
 
-            # --- NEW: Auto-Swap Interceptor ---
+            # --- Auto-Swap Interceptor ---
             swapped_pantry_item = None
             if auto_swap and w2v_model and (std_ing not in current_pantry) and (std_ing in w2v_model.wv):
                 # Ask the AI for the 15 closest ingredients
                 similars = w2v_model.wv.most_similar(std_ing, topn=15)
-                # Check if we own any of them!
                 for sim, _ in similars:
                     if sim in current_pantry:
                         swapped_pantry_item = sim
-                        break  # Stop searching, we found a match!
+                        break
 
             # Point the engine to the swapped item (or keep it as the original if no swap happened)
             actual_pantry_item = swapped_pantry_item if swapped_pantry_item else std_ing
 
-            # --- UPDATED: Score based on the actual_pantry_item ---
+            # --- Score based on the actual_pantry_item ---
             if actual_pantry_item in current_pantry:
-                # Is it an infinite staple?
                 if current_pantry[actual_pantry_item]["is_infinite"]:
                     effective_score -= 1.0
                     base_tag = "♾️ STAPLE"
@@ -428,14 +423,13 @@ def generate_single_recipe_options(pantry_data, target_tag, min_match_threshold=
                         effective_score -= 1.0
                         base_tag = "🟢 PANTRY"
 
-                # Create a special tag if it was swapped!
+                # Create a special tag if it was swapped
                 if swapped_pantry_item:
                     tag = f"🔄 SWAP: {swapped_pantry_item.title()} ({base_tag})"
                 else:
                     tag = base_tag
 
                 matched_count += 1
-                # CRITICAL: Append the actual_pantry_item so it gets depleted correctly!
                 pantry_items_used.append(actual_pantry_item)
                 matched_details.append(f"{orig_ing} -> [{tag}: 0 CO2]")
 

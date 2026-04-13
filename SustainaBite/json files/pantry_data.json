@@ -28,20 +28,6 @@
         "is_infinite": true
     },
     {
-        "name": "onion",
-        "display_name": "Onion \ud83c\udf31",
-        "date": "2026-04-09",
-        "quantity": 2,
-        "is_infinite": false
-    },
-    {
-        "name": "pasta",
-        "display_name": "Pasta \ud83c\udf31",
-        "date": "2026-04-09",
-        "quantity": 2,
-        "is_infinite": false
-    },
-    {
         "name": "butter",
         "display_name": "Butter",
         "date": "2026-04-16",
@@ -63,38 +49,10 @@
         "is_infinite": false
     },
     {
-        "name": "egg",
-        "display_name": "Egg",
-        "date": "2026-04-17",
-        "quantity": 6,
-        "is_infinite": false
-    },
-    {
         "name": "chicken",
         "display_name": "Chicken \ud83c\udf31",
-        "date": "2026-04-10",
-        "quantity": 3,
-        "is_infinite": false
-    },
-    {
-        "name": "bacon",
-        "display_name": "Bacon \ud83c\udf31",
-        "date": "2026-04-06",
+        "date": "2026-04-27",
         "quantity": 4,
         "is_infinite": false
-    },
-    {
-        "name": "broccoli",
-        "display_name": "Broccoli \ud83c\udf31",
-        "date": "N/A",
-        "quantity": 1,
-        "is_infinite": true
-    },
-    {
-        "name": "broccoli",
-        "display_name": "Broccoli \ud83c\udf31",
-        "date": "N/A",
-        "quantity": 1,
-        "is_infinite": true
     }
 ]
