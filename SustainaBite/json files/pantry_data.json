@@ -28,13 +28,6 @@
         "is_infinite": true
     },
     {
-        "name": "butter",
-        "display_name": "Butter",
-        "date": "2026-04-16",
-        "quantity": 5,
-        "is_infinite": false
-    },
-    {
         "name": "flour",
         "display_name": "Flour",
         "date": "2026-07-30",
@@ -52,6 +45,13 @@
         "name": "chicken",
         "display_name": "Chicken \ud83c\udf31",
         "date": "2026-04-27",
+        "quantity": 4,
+        "is_infinite": false
+    },
+    {
+        "name": "broccoli",
+        "display_name": "Broccoli \ud83c\udf31",
+        "date": "2026-05-05",
         "quantity": 4,
         "is_infinite": false
     }

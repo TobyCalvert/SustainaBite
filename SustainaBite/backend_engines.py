@@ -158,6 +158,7 @@ def generate_meal_plan(pantry_data, min_match_threshold=0.70, user_tags=None, ex
 
     used_recipes = set()
     weekly_plan = []
+    w2v_swap_cache = {}
 
     print("--- 2. Generating Plan (Optimizing for Food Waste & Depletion) ---")
 
@@ -197,9 +198,13 @@ def generate_meal_plan(pantry_data, min_match_threshold=0.70, user_tags=None, ex
                     # --- Auto-Swap Interceptor ---
                     swapped_pantry_item = None
                     if auto_swap and w2v_model and (std_ing not in current_pantry) and (std_ing in w2v_model.wv):
-                        # Ask the AI for the 15 closest ingredients
-                        similars = w2v_model.wv.most_similar(std_ing, topn=15)
-                        for sim, _ in similars:
+
+                        # Check if ALREADY asked about this ingredient
+                        if std_ing not in w2v_swap_cache:
+                            # If not, save the answer to the dictionary
+                            w2v_swap_cache[std_ing] = w2v_model.wv.most_similar(std_ing, topn=15)
+
+                        for sim, _ in w2v_swap_cache[std_ing]:
                             if sim in current_pantry:
                                 swapped_pantry_item = sim
                                 break
@@ -371,6 +376,8 @@ def generate_single_recipe_options(pantry_data, target_tag, min_match_threshold=
 
     scored_recipes = []
 
+    w2v_swap_cache = {}
+
     # --- Enumerate ---
     for index, row in enumerate(df_pool):
         raw_ingredients = row.get('ingredients', [])
@@ -395,9 +402,13 @@ def generate_single_recipe_options(pantry_data, target_tag, min_match_threshold=
             # --- Auto-Swap Interceptor ---
             swapped_pantry_item = None
             if auto_swap and w2v_model and (std_ing not in current_pantry) and (std_ing in w2v_model.wv):
-                # Ask the AI for the 15 closest ingredients
-                similars = w2v_model.wv.most_similar(std_ing, topn=15)
-                for sim, _ in similars:
+
+                # Check if ALREADY asked about this ingredient
+                if std_ing not in w2v_swap_cache:
+                    # If not, save the answer to the dictionary
+                    w2v_swap_cache[std_ing] = w2v_model.wv.most_similar(std_ing, topn=15)
+
+                for sim, _ in w2v_swap_cache[std_ing]:
                     if sim in current_pantry:
                         swapped_pantry_item = sim
                         break

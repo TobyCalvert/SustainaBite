@@ -41,7 +41,7 @@ def load_available_tags():
 
 # ---Cached Wrapper for Single Recipes ---
 @st.cache_data(show_spinner=False)
-def cached_single_recipe(pantry_data, target_meal, threshold, tags, min_ing, rating):
+def cached_single_recipe(pantry_data, target_meal, threshold=0.70, tags=None, excluded_tags=None, min_ing=6, rating=0.0, auto_swap_enabled=False):
     return backend_engines.generate_single_recipe_options(
         pantry_data=pantry_data,
         target_tag=target_meal,
@@ -328,7 +328,7 @@ if st.button("🗑️ Remove Selected"):
 
 
 # --- SECTION 3: Recipe Customisation ---
-st.subheader("🎯 Customize Your Meal")
+st.subheader("🎯 Customise Your Meal")
 
 available_tags = load_available_tags()
 
@@ -507,9 +507,9 @@ tab_7day, tab_1day, tab_single, tab_impact = st.tabs(["📅 7-Day Plan", "☀️
 
 # --- MODE 1: 7-DAY PLAN ---
 with tab_7day:
-    st.write("Generate a full week of meals optimized to reduce food waste.")
+    st.write("Generate a full week of meals optimised to reduce food waste.")
     if st.button("Generate 7-Day Plan", use_container_width=True, type="primary"):
-        with st.spinner("Optimizing 7-day menu..."):
+        with st.spinner("Optimising 7-day menu..."):
             plan_7d = backend_engines.generate_meal_plan(pantry_items, decimal_threshold, selected_tags, excluded_tags, user_min_ingredients,
                                                     days=7, min_rating=user_min_rating, auto_swap=auto_swap_enabled)
 
@@ -537,8 +537,8 @@ with tab_7day:
 with tab_1day:
     st.write("Generate a Breakfast, Lunch, and Dinner for today.")
     if st.button("Generate 1-Day Plan", use_container_width=True, type="primary"):
-        with st.spinner("Optimizing today's menu..."):
-            plan_1d = backend_engines.generate_meal_plan(pantry_items, decimal_threshold, selected_tags, excluded_tags, excluded_tags, user_min_ingredients,
+        with st.spinner("Optimising today's menu..."):
+            plan_1d = backend_engines.generate_meal_plan(pantry_items, decimal_threshold, selected_tags, excluded_tags, user_min_ingredients,
                                                     days=1, min_rating=user_min_rating, auto_swap=auto_swap_enabled)
 
         if plan_1d:
@@ -574,8 +574,10 @@ with tab_single:
                 target_meal=target_meal,
                 threshold=decimal_threshold,
                 tags=selected_tags,
+                excluded_tags=excluded_tags,
                 min_ing=user_min_ingredients,
-                rating=user_min_rating
+                rating=user_min_rating,
+                auto_swap_enabled=auto_swap_enabled
             )
 
         if single_options_pool:

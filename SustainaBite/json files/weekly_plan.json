@@ -1,726 +1,964 @@
 [
     {
         "Breakfast": {
-            "title": "english pancake batter",
-            "rating": 4.666666666666667,
-            "is_predicted": false,
-            "total_co2": 0,
-            "nutrition": {
-                "calories": 166.3,
-                "total_fat": 11.0,
-                "sugar": 0.0,
-                "sodium": 2.0,
-                "protein": 10.0,
-                "saturated_fat": 21.0,
-                "carbs": 6.0
-            },
-            "instructions": [
-                "melt a knob of butter in a pan , then leave to cool down",
-                "meanwhile , place the flour in a bowl",
-                "break the eggs into the bowl and pour in the milk",
-                "mix until it turns into a smooth batter",
-                "stir in the now cooled melted butter and leave to stand for about half an hour",
-                "this lets the starch expand and makes the finished pancake lighter",
-                "when you're ready to cook the pancakes , melt a little more of the butter along with a bit of oil in a frying pan",
-                "a non-stick pan is the best",
-                "when it is quite hot pour 1 / 4 cup batter into the pan",
-                "swirl it until it covers the pan and you have a thin , even layer that should set almost immediately",
-                "after about a minute it should be ready to flip",
-                "cook for 30 seconds on the other side and then",
-                "repeat until you have used up all the batter"
-            ],
-            "match_ratio": 0.714,
-            "matched_items": [
-                "butter -> [\ud83d\udea8 EXPIRING SOON: 0 CO2]",
-                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
-                "milk -> [\ud83d\udfe2 PANTRY: 0 CO2]",
-                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]"
-            ],
-            "unmatched_items": [
-                "eggs",
-                "oil"
-            ],
-            "_consumed_pantry_items": [
-                "butter",
-                "flour",
-                "milk",
-                "water",
-                "salt"
-            ]
-        },
-        "Lunch": {
-            "title": "peanut butter and celery soup",
-            "rating": 3.6666666666666665,
-            "is_predicted": false,
-            "total_co2": 0.0321,
-            "nutrition": {
-                "calories": 371.9,
-                "total_fat": 45.0,
-                "sugar": 15.0,
-                "sodium": 25.0,
-                "protein": 26.0,
-                "saturated_fat": 57.0,
-                "carbs": 5.0
-            },
-            "instructions": [
-                "in a saucepan , place chopped celery and water and cover",
-                "bring to a boil and boil for about 20 minutes or until celery is tender but not mushy",
-                "in a separate large saucepan , make a thin white sauce with the butter , flour , milk and salt and pepper",
-                "when creamy , add undrained celery and peanut butter",
-                "stir together well",
-                "when soup is well blended and creamy , taste",
-                "add more salt and pepper if desired"
-            ],
-            "match_ratio": 0.75,
-            "matched_items": [
-                "celery -> Celery (raw)",
-                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "butter -> [\ud83d\udea8 EXPIRING SOON: 0 CO2]",
-                "milk -> [\ud83d\udfe2 PANTRY: 0 CO2]",
-                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "black pepper -> [\u267e\ufe0f STAPLE: 0 CO2]"
-            ],
-            "unmatched_items": [
-                "all-purpose flour",
-                "smooth peanut butter"
-            ],
-            "_consumed_pantry_items": [
-                "water",
-                "butter",
-                "milk",
-                "salt",
-                "black pepper"
-            ]
-        },
-        "Dinner": {
-            "title": "linguine with mushroom and garlic sauce",
+            "title": "vegetable frittata  italian style omelet",
             "rating": 5.0,
             "is_predicted": false,
-            "total_co2": 0.0544,
+            "total_co2": 0.1188,
             "nutrition": {
-                "calories": 670.0,
-                "total_fat": 40.0,
-                "sugar": 20.0,
-                "sodium": 13.0,
-                "protein": 37.0,
-                "saturated_fat": 61.0,
-                "carbs": 30.0
-            },
-            "instructions": [
-                "cook the pasta in the water",
-                "drain",
-                "melt 2 t butter in a saucepan",
-                "add garlic and cook for a minute , then add mushrooms , basil and salt and cook until just tender",
-                "add remaining 4 t butter , pepper and oil",
-                "stir and remove from the heat",
-                "add the parsley to the sauce",
-                "toss with the pasta and serve topped with parmesan cheese"
-            ],
-            "match_ratio": 0.727,
-            "matched_items": [
-                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "butter -> [\ud83d\udea8 EXPIRING SOON: 0 CO2]",
-                "sliced mushrooms -> Mushroom (canned)",
-                "basil -> Basil (fresh)",
-                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "fresh black pepper -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "parsley -> Parsley (raw)"
-            ],
-            "unmatched_items": [
-                "garlic cloves",
-                "linguine",
-                "parmesan cheese"
-            ],
-            "_consumed_pantry_items": [
-                "water",
-                "butter",
-                "salt",
-                "black pepper",
-                "oil olive"
-            ]
-        }
-    },
-    {
-        "Breakfast": {
-            "title": "ayaou m semmen",
-            "rating": 4.5,
-            "is_predicted": false,
-            "total_co2": 0,
-            "nutrition": {
-                "calories": 182.0,
-                "total_fat": 0.0,
-                "sugar": 0.0,
-                "sodium": 14.0,
-                "protein": 10.0,
-                "saturated_fat": 0.0,
-                "carbs": 12.0
-            },
-            "instructions": [
-                "make a well in the center of the flour , place the salt in the well and add the water small amounts at a time",
-                "knead well to form a very smooth dough",
-                "using well oiled hands , make balls the size of a tangerine and place them on an oiled surface",
-                "counter top , table , marble block etc",
-                "spread out the balls one by one with the palm of your oiled hand stretching the dough gently in all directions until it is very thin",
-                "fold in the 4 sides to form a square approximately 3-4 inches in size",
-                "cook briefly in a well buttered skillet on both sides until lightly browned",
-                "served with honey or sugar these are a wonderful breakfast or snack",
-                "we also stuff them before folding with sweet mixtures such as ground almonds and sugar or with onions , parsley , and spices",
-                "meat can be added as well",
-                "we like to stuff them with my precooked kefta but always with onions , parsley and tomato , fresh thinly sliced then diced tomato , pounded tomato or a small bit of tomato concentrate",
-                "if stuffing , these are always stuffed thinly , not as bulging pockets",
-                "the number of servings is an approximation and has to be as no 2 people make them into the exact same sized pieces",
-                "cooking time is for cooking an entire batch"
-            ],
-            "match_ratio": 0.8,
-            "matched_items": [
-                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
-                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "butter -> [\ud83d\udea8 EXPIRING SOON: 0 CO2]"
-            ],
-            "unmatched_items": [
-                "vegetable oil"
-            ],
-            "_consumed_pantry_items": [
-                "flour",
-                "salt",
-                "water",
-                "butter"
-            ]
-        },
-        "Lunch": {
-            "title": "kale corn fritters",
-            "rating": 4.571428571428571,
-            "is_predicted": false,
-            "total_co2": 0.253,
-            "nutrition": {
-                "calories": 315.2,
+                "calories": 151.2,
                 "total_fat": 15.0,
-                "sugar": 7.0,
-                "sodium": 20.0,
-                "protein": 22.0,
-                "saturated_fat": 25.0,
-                "carbs": 15.0
-            },
-            "instructions": [
-                "in a large bowl , stir together the flour , cornmeal , salt , kale and corn",
-                "in a medium bowl , lightly beat the eggs",
-                "mix in the oil / butter , and milk",
-                "make a well in the center of the dry ingredients and pour in the wet ingredients",
-                "this makes mixing in easier and faster",
-                "if you are using the onion , sautee it , then add to your batter",
-                "also , if you are using the bacon , cook it and crumble it into the batter",
-                "reserve some of the bacon grease",
-                "for both of these , it is better if you can cook your fritters in the same pan- the fact that you already cooked flavorful foods in that pan will add to the flavor of the fritters",
-                "do not worry if the batter seems kind of thin",
-                "due to the eggs it should fry up fine",
-                "however , if you try one and feel it is still too thin , feel free to add more flour- about a tbs at a time",
-                "heat a frying pan with oil and / or bacon grease over medium heat",
-                "add dollops of the batter and fry",
-                "when the fritters are ready to be flipped they will begin to look firm and egg-like around the edges and begin to bubble slightly",
-                "flip and cook the other side",
-                "it is much like cooking pancakes , and is pretty easy to get the hang of",
-                "you may need to fiddle with your heat",
-                "be sure these are cooked through as they do contain raw eggs",
-                "serve warm",
-                "i like mine with sour cream , my boyfriend likes his with sour cream and cheddar",
-                "for vegetarian omit the bacon"
-            ],
-            "match_ratio": 0.7,
-            "matched_items": [
-                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
-                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "kale -> Kale (raw)",
-                "butter -> [\ud83d\udea8 EXPIRING SOON: 0 CO2]",
-                "milk -> [\ud83d\udfe2 PANTRY: 0 CO2]",
-                "onion -> Onions (chopped - frozen)",
-                "bacon -> Bacon (frying - raw)"
-            ],
-            "unmatched_items": [
-                "yellow cornmeal",
-                "fresh corn",
-                "eggs"
-            ],
-            "_consumed_pantry_items": [
-                "flour",
-                "salt",
-                "butter",
-                "milk"
-            ]
-        },
-        "Dinner": {
-            "title": "vegan pizza dough",
-            "rating": 4.444444444444445,
-            "is_predicted": false,
-            "total_co2": 0,
-            "nutrition": {
-                "calories": 229.2,
-                "total_fat": 6.0,
-                "sugar": 0.0,
+                "sugar": 6.0,
                 "sodium": 12.0,
-                "protein": 16.0,
-                "saturated_fat": 3.0,
-                "carbs": 13.0
-            },
-            "instructions": [
-                "preheat oven to 400 degrees f",
-                "in large bowl , combine flour , yeast , and salt",
-                "add warm water and olive oil , knead about 5 minutes or until mixture is well combined and forms a ball",
-                "let dough sit for 10 minutes in a warm place",
-                "roll out dough and fit to oiled cookie sheet or pizza pan",
-                "place in oven and bake for approximately 10 minutes or until very slightly browned",
-                "remove from oven and let cool",
-                "add pizza toppings of your choice",
-                "return pizza to oven and bake approximately 10-20 minutes or until cheese is melted",
-                "cool , slice , and serve"
-            ],
-            "match_ratio": 0.8,
-            "matched_items": [
-                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
-                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]"
-            ],
-            "unmatched_items": [
-                "fast rising yeast"
-            ],
-            "_consumed_pantry_items": [
-                "flour",
-                "salt",
-                "water",
-                "oil olive"
-            ]
-        }
-    },
-    {
-        "Breakfast": {
-            "title": "eggs and mushrooms as i like it",
-            "rating": 4.75,
-            "is_predicted": false,
-            "total_co2": 0.0784,
-            "nutrition": {
-                "calories": 373.1,
-                "total_fat": 45.0,
-                "sugar": 8.0,
-                "sodium": 58.0,
-                "protein": 42.0,
-                "saturated_fat": 36.0,
+                "protein": 20.0,
+                "saturated_fat": 17.0,
                 "carbs": 1.0
             },
             "instructions": [
-                "saut finely sliced onion on olive oil until translucent",
-                "slice mushrooms into tiny leaves and saut until soft",
-                "season mushrooms during this with salt and pepper",
-                "if water from mushrooms evaporates before they are done , add some water and continue to saut it until they are done",
-                "wisk eggs in separate bowl together with milk",
-                "add parsley leaves into mixture",
-                "when mushrooms are soft , add eggs and stir them in a pan",
-                "fry until eggs are done",
-                "serve hot"
+                "heat oven to 350 degrees f in a 9 inch oven proof skillet , warm oil on med",
+                "heat",
+                "add garlic and onion",
+                "saute' for 1 minute",
+                "add vegetables",
+                "saute' for 5 minutes",
+                "beat eggs with milk , add 1 / 2 cup cheese , salt , and pepper",
+                "add egg mixture to skillet with vegetable mixture",
+                "place in oven on upper rack",
+                "bake until golden brown , approximately 30 minutes",
+                "remove from oven and sprinkle on remaining 1 / 4 cup cheese",
+                "slice into wedges and serve",
+                "you may also use a 9-inch baking dish if you do not have an oven proof skillet"
             ],
-            "match_ratio": 0.75,
+            "match_ratio": 0.8,
             "matched_items": [
-                "mushrooms -> Mushroom (canned)",
-                "onions -> Onions (chopped - frozen)",
-                "milk -> [\ud83d\udfe2 PANTRY: 0 CO2]",
+                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "garlic -> Garlic (raw)",
+                "red onion -> Red onion",
+                "fresh mushrooms -> Mushroom (canned)",
+                "fresh broccoli -> [\ud83d\udfe2 PANTRY: 0 CO2]",
+                "milk -> [\ud83d\udea8 EXPIRING SOON: 0 CO2]",
                 "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "parsley -> Parsley (raw)",
-                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]"
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]"
             ],
             "unmatched_items": [
                 "eggs",
-                "pepper"
-            ],
-            "_consumed_pantry_items": [
-                "milk",
-                "salt",
-                "oil olive"
-            ]
-        },
-        "Lunch": {
-            "title": "white bean piccata",
-            "rating": 4.75,
-            "is_predicted": false,
-            "total_co2": 0.0403,
-            "nutrition": {
-                "calories": 326.2,
-                "total_fat": 15.0,
-                "sugar": 8.0,
-                "sodium": 40.0,
-                "protein": 25.0,
-                "saturated_fat": 7.0,
-                "carbs": 16.0
-            },
-            "instructions": [
-                "saute onions and garlic in olive oil in a medium saucepan until transparent- do not allow to brown",
-                "slowly stir in flour and cook and stir until combined and\"rawness\" is gone",
-                "combine hot broth and water",
-                "slowly whisk into flour mixture until smooth and slightly thickened",
-                "add lemon juice , salt , beans and capers",
-                "cook and stir until thickened a little more",
-                "serve with hot spaghetti noodles"
-            ],
-            "match_ratio": 0.7,
-            "matched_items": [
-                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "onion -> Onions (chopped - frozen)",
-                "garlic -> Garlic (raw)",
-                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
-                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "capers -> Caper"
-            ],
-            "unmatched_items": [
-                "vegetable broth",
-                "lemon juice",
-                "navy beans"
+                "mozzarella cheese"
             ],
             "_consumed_pantry_items": [
                 "oil olive",
-                "flour",
+                "broccoli",
+                "milk",
+                "salt",
+                "black pepper"
+            ]
+        },
+        "Lunch": {
+            "title": "american chowder",
+            "rating": 5.0,
+            "is_predicted": false,
+            "total_co2": 0.1914,
+            "nutrition": {
+                "calories": 361.1,
+                "total_fat": 36.0,
+                "sugar": 8.0,
+                "sodium": 56.0,
+                "protein": 29.0,
+                "saturated_fat": 58.0,
+                "carbs": 7.0
+            },
+            "instructions": [
+                "cook an stir onion in butter in 3-quart saucepan on medium-high heat until tender",
+                "add potatoes , water , celery and seasonings",
+                "bring to a boil",
+                "reduce heat",
+                "cover",
+                "simmer 15 minutes or until vegetables are tender",
+                "gradually add small amount of milk to flour , stirring until well blended",
+                "gradually add flour mixture to hot vegetables , stirring constantly",
+                "stir in remaining milk and sausage",
+                "cook , stirring constantly , until mixture boils and thickens",
+                "add american cheese",
+                "stir until melted"
+            ],
+            "match_ratio": 0.727,
+            "matched_items": [
+                "onion -> Onions (chopped - frozen)",
+                "potatoes -> Potato (canned)",
+                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "celery -> Celery (raw)",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "milk -> [\ud83d\udea8 EXPIRING SOON: 0 CO2]",
+                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]"
+            ],
+            "unmatched_items": [
+                "butter",
+                "little smokies sausages",
+                "american cheese"
+            ],
+            "_consumed_pantry_items": [
                 "water",
-                "salt"
+                "salt",
+                "black pepper",
+                "milk",
+                "flour"
             ]
         },
         "Dinner": {
-            "title": "super fast and easy pizza dough  crust",
-            "rating": 4.857142857142857,
+            "title": "salmon seafood and veggie chowder",
+            "rating": 5.0,
             "is_predicted": false,
-            "total_co2": 0.002,
+            "total_co2": 1.2402,
             "nutrition": {
-                "calories": 1626.7,
-                "total_fat": 48.0,
-                "sugar": 4.0,
-                "sodium": 73.0,
-                "protein": 83.0,
-                "saturated_fat": 21.0,
-                "carbs": 96.0
+                "calories": 643.6,
+                "total_fat": 32.0,
+                "sugar": 24.0,
+                "sodium": 76.0,
+                "protein": 104.0,
+                "saturated_fat": 56.0,
+                "carbs": 20.0
             },
             "instructions": [
-                "in a large bowl , combine 2 cups flour , yeast and salt",
-                "add any other spices / herbs that you like",
-                "stir in the very warm water and oil",
-                "mix well",
-                "add enough of the remaining flour to make a soft dough",
-                "knead on a lightly floured surface until smooth and elastic , about 5 minutes",
-                "cover and let rise about 10 minutes",
-                "lightly oil one 14\" or two 12\" round pizza pans",
-                "sprinkle with cornmeal",
-                "form dough into smooth ball",
-                "roll dough to fit the pan",
-                "top with your favorite sauce and toppings",
-                "bake at 400f for 20 to 30 minutes or until done"
+                "saute onion , celery and carrots in 4-6 tbs butter in a large pot",
+                "add potatoes , salmon , and water and bring to a boil",
+                "boil for 15 minutes",
+                "add in corn , milk , evaporated milk , garlic granules , salt , pepper , and parsley and bring to boil",
+                "boil for 5 minutes",
+                "add in crab and shrimp and boil for an additional 5 minutes , or until the shrimp is done",
+                "you can add the crab when you add the salmon if wanted",
+                "in a bowl put in milk and flour and mix well getting out all lumps , and pour into the chowder to thicken"
             ],
-            "match_ratio": 0.714,
+            "match_ratio": 0.706,
             "matched_items": [
-                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
-                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "onion -> Onions (chopped - frozen)",
+                "celery -> Celery (raw)",
+                "carrots -> Carrot (frozen)",
+                "potatoes -> Potato (canned)",
+                "shrimp -> Shrimp (canned)",
                 "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "basil -> Basil (fresh)"
+                "milk -> [\ud83d\udea8 EXPIRING SOON: 0 CO2]",
+                "evaporated milk -> [\ud83d\udd04 SWAP: Milk (\ud83d\udea8 EXPIRING SOON): 0 CO2]",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "parsley -> Parsley (raw)",
+                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]"
             ],
             "unmatched_items": [
-                "fast rising yeast",
-                "minced garlic clove"
+                "butter",
+                "salmon fillets",
+                "crab",
+                "creamed corn",
+                "garlic granules"
             ],
             "_consumed_pantry_items": [
-                "flour",
-                "salt",
                 "water",
-                "oil olive"
+                "milk",
+                "milk",
+                "salt",
+                "black pepper",
+                "flour"
             ]
         }
     },
     {
         "Breakfast": {
-            "title": "blueberry oat bran",
-            "rating": 4.666666666666667,
+            "title": "florentine crepes",
+            "rating": 5.0,
             "is_predicted": false,
-            "total_co2": 0.1413,
+            "total_co2": 0.2614,
             "nutrition": {
-                "calories": 350.0,
-                "total_fat": 8.0,
-                "sugar": 45.0,
-                "sodium": 0.0,
-                "protein": 26.0,
-                "saturated_fat": 4.0,
-                "carbs": 21.0
+                "calories": 284.6,
+                "total_fat": 32.0,
+                "sugar": 5.0,
+                "sodium": 24.0,
+                "protein": 23.0,
+                "saturated_fat": 38.0,
+                "carbs": 4.0
             },
             "instructions": [
-                "cook oats according to directions",
-                "thaw blueberries in microwave by heating for about 45 seconds-1 minute",
-                "pour blueberries and the resulting juice over the oatmeal and stir",
-                "add your favorite toppings - i like vanilla soymilk and a little brown sugar"
+                "combine 3 eggs , 2 / 3 c flour , 1 / 2 t salt , and 1 cup milk",
+                "beat until smooth",
+                "let stand 30 minutes",
+                "preheat oven to 350 degrees",
+                "combine remaining ingredients in another bowl",
+                "pour 2 t rested batter into hot , lightly greased 8-inch skillet",
+                "cook on one side only , until underside is lightly browned",
+                "fit crepes into greased muffin pan creating a ruffly edge",
+                "fill wth spinach stuffing",
+                "bake for 40 minutes or until filling is set and crepes nicely browned"
             ],
             "match_ratio": 0.8,
             "matched_items": [
-                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "frozen blueberries -> Blueberry (raw)",
-                "milk -> [\ud83d\udfe2 PANTRY: 0 CO2]",
-                "brown sugar -> Sugar (brown)"
+                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "milk -> [\ud83d\udea8 EXPIRING SOON: 0 CO2]",
+                "mayonnaise -> Mayonnaise (low fat)",
+                "frozen chopped spinach -> [\ud83d\udd04 SWAP: Broccoli (\ud83d\udfe2 PANTRY): 0 CO2]",
+                "mushrooms -> Mushroom (canned)",
+                "bacon -> Bacon (frying - raw)",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]"
             ],
             "unmatched_items": [
-                "oats"
+                "eggs",
+                "sharp cheddar cheese"
             ],
             "_consumed_pantry_items": [
-                "water",
-                "milk"
+                "flour",
+                "salt",
+                "milk",
+                "broccoli",
+                "black pepper"
             ]
         },
         "Lunch": {
-            "title": "cabbage and potato soup  caldo verde",
-            "rating": 4.0,
+            "title": "chicken salad spread",
+            "rating": 5.0,
             "is_predicted": false,
-            "total_co2": 0.1392,
+            "total_co2": 0.0906,
             "nutrition": {
-                "calories": 223.0,
-                "total_fat": 14.0,
-                "sugar": 8.0,
-                "sodium": 0.0,
-                "protein": 7.0,
-                "saturated_fat": 6.0,
-                "carbs": 10.0
+                "calories": 288.6,
+                "total_fat": 30.0,
+                "sugar": 25.0,
+                "sodium": 15.0,
+                "protein": 34.0,
+                "saturated_fat": 24.0,
+                "carbs": 3.0
             },
             "instructions": [
-                "peel and cut up potatoes , and boil in salted water , with garlic",
-                "when soft , mash and add olive oil and cabbage or kale",
-                "boil uncovered for about 3 minutes",
-                "season to taste",
-                "serve in bowls with a drop of olive oil in the bottom of each"
+                "mix all ingredients well and chill for at least 4 hours",
+                "serve on croissants for best results"
             ],
-            "match_ratio": 0.857,
+            "match_ratio": 0.778,
             "matched_items": [
-                "potatoes -> Potato (canned)",
-                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "garlic -> Garlic (raw)",
-                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "chicken -> [\ud83d\udfe0 PANTRY: 0 CO2]",
+                "celery -> Celery (raw)",
+                "onion -> Onions (chopped - frozen)",
+                "mayonnaise -> Mayonnaise (low fat)",
                 "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "black pepper -> [\u267e\ufe0f STAPLE: 0 CO2]"
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "vinegar -> Vinegar"
             ],
             "unmatched_items": [
-                "cabbage"
+                "sugar",
+                "celery salt"
             ],
             "_consumed_pantry_items": [
-                "water",
-                "oil olive",
+                "chicken",
                 "salt",
                 "black pepper"
             ]
         },
         "Dinner": {
-            "title": "aubergine lebanon  lebanese eggplant",
-            "rating": 4.0,
+            "title": "soya chinese chicken",
+            "rating": 5.0,
             "is_predicted": false,
-            "total_co2": 0.1883,
+            "total_co2": 0.0368,
             "nutrition": {
-                "calories": 198.2,
-                "total_fat": 21.0,
-                "sugar": 33.0,
-                "sodium": 21.0,
-                "protein": 5.0,
-                "saturated_fat": 9.0,
-                "carbs": 6.0
+                "calories": 558.5,
+                "total_fat": 32.0,
+                "sugar": 142.0,
+                "sodium": 74.0,
+                "protein": 59.0,
+                "saturated_fat": 30.0,
+                "carbs": 20.0
             },
             "instructions": [
-                "cook the eggplant in boiling salted water for about 10 minutes",
-                "drain well",
-                "saute the onion , garlic , and mushrooms in the olive oil",
-                "add flour and stir until smooth",
-                "add remaining ingredients and bring to a boil",
-                "once boiling , remove from heat",
-                "pour into a lightly greased casserole dish and bake at 375 f for 25 minutes",
-                "serve hot"
+                "prepare mix",
+                "coat chicken and brown and place in baking dish",
+                "prepare sauce and pour over chicken",
+                "baste and bake at 325f about 2 hours or until chicken is cooked",
+                "servings is approximate"
             ],
-            "match_ratio": 0.727,
+            "match_ratio": 0.7,
             "matched_items": [
-                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "diced tomatoes -> Tomato (peeled - canned)",
-                "brown sugar -> Sugar (brown)",
-                "black pepper -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "onion -> Onions (chopped - frozen)",
+                "chicken -> [\ud83d\udfe0 PANTRY: 0 CO2]",
                 "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
                 "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "dried basil -> Basil (dried)"
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "brown sugar -> Sugar (brown)",
+                "vinegar -> Vinegar",
+                "water -> [\u267e\ufe0f STAPLE: 0 CO2]"
             ],
             "unmatched_items": [
-                "eggplant",
-                "garlic cloves",
-                "mixed mushrooms"
+                "curry",
+                "soya sauce",
+                "lemon juice"
             ],
             "_consumed_pantry_items": [
-                "oil olive",
-                "black pepper",
+                "chicken",
                 "flour",
-                "salt"
+                "salt",
+                "black pepper",
+                "water"
             ]
         }
     },
     {
         "Breakfast": {
-            "title": "homemade hash browns potatoes",
-            "rating": 4.5,
-            "is_predicted": true,
-            "total_co2": 0.1636,
-            "nutrition": {
-                "calories": 1234.7,
-                "total_fat": 30.0,
-                "sugar": 53.0,
-                "sodium": 6.0,
-                "protein": 67.0,
-                "saturated_fat": 18.0,
-                "carbs": 78.0
-            },
-            "instructions": [
-                "put the potatoes and onion in a cloth and wring out the moisture",
-                "lightly mix in the rest of the ingredients",
-                "use a heavy bottomed frying pan for cooking the potato mix",
-                "when oil is hot put in tablespoons of mixture , pressing down a little for more contact with hot pan",
-                "these look better if a little lacy",
-                "when golden turn and cook the other side",
-                "keep cooked ones in a warm oven"
-            ],
-            "match_ratio": 0.714,
-            "matched_items": [
-                "potatoes -> Potato (canned)",
-                "onion -> Onions (chopped - frozen)",
-                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
-                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "parsley -> Parsley (raw)"
-            ],
-            "unmatched_items": [
-                "egg",
-                "salt and pepper"
-            ],
-            "_consumed_pantry_items": [
-                "flour",
-                "oil olive"
-            ]
-        },
-        "Lunch": {
-            "title": "italian pasta and beans  pasta faggioli",
-            "rating": 4.928571428571429,
+            "title": "greek omelet",
+            "rating": 5.0,
             "is_predicted": false,
-            "total_co2": 0.2529,
+            "total_co2": 0.1778,
             "nutrition": {
-                "calories": 202.9,
-                "total_fat": 8.0,
-                "sugar": 25.0,
-                "sodium": 26.0,
-                "protein": 14.0,
-                "saturated_fat": 8.0,
+                "calories": 551.1,
+                "total_fat": 59.0,
+                "sugar": 23.0,
+                "sodium": 30.0,
+                "protein": 45.0,
+                "saturated_fat": 57.0,
                 "carbs": 10.0
             },
             "instructions": [
-                "cook pasta as box instructs , in boiling salted water",
-                "while pasta is cooking , heat oil in a large saucepan over medium heat until hot",
-                "add onion , carrot and celery and cook for 15 minutes or until tender , stirring occasionally",
-                "add garlic and cook one minute more",
-                "add beans , tomatoes , salt , pepper , and water and heat to boiling over high heat",
-                "reduce heat to low-med heat and simmer , uncovered for 20 minutes",
-                "stir in drained pasta , cheese and parsley and cook until heated through"
+                "in a cast- iron skillet or a frying pan , saute the potatoes in the olive oil",
+                "cook for about 3 minutes in one layer , then turn once and cook for an additional 2 minutes",
+                "add the onion , garlic , salt and pepper",
+                "cook until the softens and the potatoes are done",
+                "add the spinach and the capers or olives",
+                "when the spinach is cooked , remove the pan from the heat",
+                "heat a cast-iron frying pan that is well-seasoned enough to handle a large omelet , or use a non-stick skillet",
+                "add the oil to the pre-heated pan and swirl it around the pan",
+                "immediately add the beaten egg mixture and move it around the pan until the egg coats the entire bottom",
+                "place the vegetables that you are using on top of the egg mixture",
+                "add the crumbled feta cheese",
+                "place under a medium or high broiler and broil until the cheese is meltedand the eggs are set",
+                "watch carefully , since this step takes only a few minutes",
+                "remove from the broiler and sprinkle with the chopped dill , if using",
+                "serve immediately",
+                "then place under the broiler to melt the cheese",
+                "then remove from under the broiler and then just fold the remaining half over the vegetable / cheese side",
+                "then just skide it out of the pan and onto a pre-heated plate or platter"
+            ],
+            "match_ratio": 0.818,
+            "matched_items": [
+                "potato -> Potato (canned)",
+                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "onion -> Onions (chopped - frozen)",
+                "garlic -> Garlic (raw)",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "spinach -> [\ud83d\udd04 SWAP: Broccoli (\ud83d\udfe2 PANTRY): 0 CO2]",
+                "capers -> Caper",
+                "fresh dill -> Dill (raw)"
+            ],
+            "unmatched_items": [
+                "eggs",
+                "feta cheese"
+            ],
+            "_consumed_pantry_items": [
+                "oil olive",
+                "salt",
+                "black pepper",
+                "broccoli"
+            ]
+        },
+        "Lunch": {
+            "title": "tomato topping",
+            "rating": 5.0,
+            "is_predicted": false,
+            "total_co2": 0.3985,
+            "nutrition": {
+                "calories": 307.6,
+                "total_fat": 47.0,
+                "sugar": 12.0,
+                "sodium": 17.0,
+                "protein": 2.0,
+                "saturated_fat": 21.0,
+                "carbs": 2.0
+            },
+            "instructions": [
+                "half the tomatoes and give them a gentle squeeze into a sieve to release the seeds",
+                "push a spoon to gently press out as much juice as possible",
+                "discard seeds",
+                "dice tomato into 1 / 4 inch pieces",
+                "add rest of ingredients , , mixing gently",
+                "measure out 6 tablespoons of tomato water",
+                "if you don't have enough , use canned tomato juice or v-8 so you will measure the right amount",
+                "put all ingredients for the \"water of the tomato\" together and mix to emulsify",
+                "serving time comes right now , carefully take a good scoop of tomato tartare mixture and place in the center of a china plate",
+                "or a plastic plate",
+                "whatever you have",
+                "but you will have enough for 4 good sized servings for each plate",
+                "spoon 1 / 4 of the tomato water on each serving",
+                "garnish with parsley",
+                "pretend you are dining with the \"king and queen\""
+            ],
+            "match_ratio": 0.917,
+            "matched_items": [
+                "tomatoes -> Tomato (peeled - canned)",
+                "onions -> Onions (chopped - frozen)",
+                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "kosher salt -> [\ud83d\udd04 SWAP: Salt (\u267e\ufe0f STAPLE): 0 CO2]",
+                "ground pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "tomato juice -> Tomato juice (canned)",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "chives -> Chive (raw)",
+                "parsley -> Parsley (raw)"
+            ],
+            "unmatched_items": [
+                "bread"
+            ],
+            "_consumed_pantry_items": [
+                "oil olive",
+                "salt",
+                "black pepper",
+                "water",
+                "salt",
+                "black pepper"
+            ]
+        },
+        "Dinner": {
+            "title": "greek chickpea stew",
+            "rating": 5.0,
+            "is_predicted": false,
+            "total_co2": 0.2938,
+            "nutrition": {
+                "calories": 241.2,
+                "total_fat": 8.0,
+                "sugar": 39.0,
+                "sodium": 47.0,
+                "protein": 17.0,
+                "saturated_fat": 3.0,
+                "carbs": 14.0
+            },
+            "instructions": [
+                "saute onion in hot oil in dutch oven for 5 min",
+                "add garlic for last minute",
+                "stir in tomatoes stock tomato paste chickpeas oregano salt and pepper",
+                "bring to a boil reduce heat to low and simmer for 15 min",
+                "stirring occasionally",
+                "stir in spinach and parsley , cook 5 min",
+                "serve topped with feta cheese"
             ],
             "match_ratio": 0.769,
             "matched_items": [
-                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
                 "onion -> Onions (chopped - frozen)",
-                "carrot -> Carrot (frozen)",
-                "celery -> Celery (raw)",
                 "garlic -> Garlic (raw)",
+                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
                 "diced tomatoes -> Tomato (peeled - canned)",
+                "chicken -> [\ud83d\udfe0 PANTRY: 0 CO2]",
+                "fresh parsley -> Parsley (raw)",
                 "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "black pepper -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "fresh parsley -> Parsley (raw)"
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "fresh spinach -> [\ud83d\udd04 SWAP: Broccoli (\ud83d\udfe2 PANTRY): 0 CO2]",
+                "chickpeas -> Chickpea (canned)"
             ],
             "unmatched_items": [
-                "ditalini",
-                "cannellini beans",
+                "tomato paste",
+                "dried oregano",
+                "feta cheese"
+            ],
+            "_consumed_pantry_items": [
+                "oil olive",
+                "chicken",
+                "salt",
+                "black pepper",
+                "broccoli"
+            ]
+        }
+    },
+    {
+        "Breakfast": {
+            "title": "mushroom  bacon  and potato frittata",
+            "rating": 5.0,
+            "is_predicted": false,
+            "total_co2": 0.4034,
+            "nutrition": {
+                "calories": 404.3,
+                "total_fat": 45.0,
+                "sugar": 11.0,
+                "sodium": 19.0,
+                "protein": 37.0,
+                "saturated_fat": 50.0,
+                "carbs": 5.0
+            },
+            "instructions": [
+                "preheat oven to 350 degrees",
+                "cut the bacon into small pieces and cook in an oven safe saute pan until crispy",
+                "remove to a paper towel lined plate to drain",
+                "in the bacon drippings , saute the mushrooms and onions until cooked through and softened",
+                "remove to plate",
+                "drizzle about a tablespoon of olive oil into saute pan and saute potatoes , turning often , until cooked through and lightly browned",
+                "while potatoes are cooking , beat eggs , salt , and pepper",
+                "return the mushrooms , onions , and bacon to the saute pan , spreading evenly",
+                "add beaten eggs , sprinkle with rosemary and cook on medium until just set around the edges",
+                "place saute pan in the preheated oven and cook for approximately 10 minutes , or until center is set",
+                "sprinkle with shredded cheese and place back in the oven until cheese is melted",
+                "slide out onto serving plate and cut into wedges"
+            ],
+            "match_ratio": 0.7,
+            "matched_items": [
+                "bacon -> Bacon (frying - raw)",
+                "sliced mushrooms -> Mushroom (canned)",
+                "onion -> Onions (chopped - frozen)",
+                "potatoes -> Potato (canned)",
+                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]"
+            ],
+            "unmatched_items": [
+                "eggs",
+                "fresh rosemary",
+                "cheddar cheese"
+            ],
+            "_consumed_pantry_items": [
+                "oil olive",
+                "salt",
+                "black pepper"
+            ]
+        },
+        "Lunch": {
+            "title": "greek lentils",
+            "rating": 5.0,
+            "is_predicted": false,
+            "total_co2": 0.1068,
+            "nutrition": {
+                "calories": 259.3,
+                "total_fat": 28.0,
+                "sugar": 21.0,
+                "sodium": 10.0,
+                "protein": 12.0,
+                "saturated_fat": 12.0,
+                "carbs": 6.0
+            },
+            "instructions": [
+                "in a large pot , combine the olive oil , finely chopped onion , and sauce",
+                "cook on medium-low heat until the onions are translucent",
+                "add salt and pepper , to taste",
+                "chop the carrots and celery into small pieces and add to the pot",
+                "cook an additional 20 minutes or until the carrots and celery seem halfway cooked",
+                "on a piece of parchment paper , slowly pour out about a handful of the lentils",
+                "look through them for rocks or undesirable pieces and throw them in the trash",
+                "then pour the cleaned lentils into a bowl of water",
+                "continue this process until all of the lentils are cleaned and soaking",
+                "drain the lentils and rinse them with water once or twice before adding them to the pot",
+                "add the lentils to the pot along with enough water to cover all of the ingredients in the pot",
+                "if you add too much don't worry - the lentils will absorb the water as they cook",
+                "turn the heat to medium or medium-high , so that the lentils bubble but do not boil",
+                "they will cook for about 40 minutes to an hour",
+                "continue checking the pot and stirring it every 5 to 10 minutes , checking if you need to add water",
+                "the lentils are done when they are a light to medium brown and seem to not be soaking up water anymore",
+                "at the end they should be more solid that soupy - but it is a happy medium",
+                "serve and enjoy !"
+            ],
+            "match_ratio": 0.7,
+            "matched_items": [
+                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "onion -> Onions (chopped - frozen)",
+                "carrots -> Carrot (frozen)",
+                "celery -> Celery (raw)",
+                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]"
+            ],
+            "unmatched_items": [
+                "hunts tomato sauce",
+                "lentils",
                 "parmesan cheese"
             ],
             "_consumed_pantry_items": [
                 "oil olive",
+                "water",
+                "salt",
+                "black pepper"
+            ]
+        },
+        "Dinner": {
+            "title": "pollo alla cacciatora",
+            "rating": 5.0,
+            "is_predicted": false,
+            "total_co2": 0.5117,
+            "nutrition": {
+                "calories": 1201.6,
+                "total_fat": 112.0,
+                "sugar": 72.0,
+                "sodium": 59.0,
+                "protein": 144.0,
+                "saturated_fat": 93.0,
+                "carbs": 18.0
+            },
+            "instructions": [
+                "wash and drain chicken pieces",
+                "heat olive oil in deep skillet",
+                "roll and coat each chicken piece in the flour and brown each piece on all sides to a golden brown",
+                "transfer chicken to paper towels to drain",
+                "saute the onion , mushrooms , carrot , green pepper , and garlic in the same skillet for 10 minutes",
+                "add the tomatoes and saute for another 5 minutes",
+                "stir in the tomato paste , wine , herbs , salt and pepper and cook over medium heat for another 5 minutes",
+                "add all the chicken pieces and mix well",
+                "turn down the heat very low and simmer , covered , for 1-2 hours",
+                "adjust the salt and pepper to your taste",
+                "serve with some freshly grated romano cheese and a warm loaf of bread"
+            ],
+            "match_ratio": 0.8,
+            "matched_items": [
+                "whole chickens -> [\ud83d\udfe0 PANTRY: 0 CO2]",
+                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
+                "onion -> Onions (chopped - frozen)",
+                "mushroom -> Mushroom (canned)",
+                "carrot -> Carrot (frozen)",
+                "garlic -> Garlic (raw)",
+                "tomatoes -> Tomato (peeled - canned)",
+                "red wine -> Wine (red)",
+                "dried basil -> Basil (dried)",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]"
+            ],
+            "unmatched_items": [
+                "green pepper",
+                "tomato paste",
+                "dried oregano"
+            ],
+            "_consumed_pantry_items": [
+                "chicken",
+                "oil olive",
+                "flour",
+                "salt",
+                "black pepper"
+            ]
+        }
+    },
+    {
+        "Breakfast": {
+            "title": "eggs in green sauce  eier in gruner sosse",
+            "rating": 5.0,
+            "is_predicted": false,
+            "total_co2": 0.0638,
+            "nutrition": {
+                "calories": 310.1,
+                "total_fat": 37.0,
+                "sugar": 13.0,
+                "sodium": 23.0,
+                "protein": 32.0,
+                "saturated_fat": 52.0,
+                "carbs": 2.0
+            },
+            "instructions": [
+                "mix mayonnaise , sour cream , and lemon juice",
+                "add salt , pepper , and dill",
+                "mince one of the eggs very fine",
+                "mix into the mayonnaise mixture",
+                "blend the chives and parsley into the mayonnaise",
+                "mix well",
+                "cut hard boiled eggs in half",
+                "cover with herb mixture"
+            ],
+            "match_ratio": 0.778,
+            "matched_items": [
+                "mayonnaise -> Mayonnaise (low fat)",
+                "lemon -> Lemon (raw)",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "dill -> Dill (raw)",
+                "chives -> Chive (raw)",
+                "parsley -> Parsley (raw)"
+            ],
+            "unmatched_items": [
+                "sour cream",
+                "eggs"
+            ],
+            "_consumed_pantry_items": [
+                "salt",
+                "black pepper"
+            ]
+        },
+        "Lunch": {
+            "title": "my mum s greek spinach pie   spanakopita",
+            "rating": 5.0,
+            "is_predicted": false,
+            "total_co2": 0.2351,
+            "nutrition": {
+                "calories": 195.2,
+                "total_fat": 8.0,
+                "sugar": 4.0,
+                "sodium": 12.0,
+                "protein": 13.0,
+                "saturated_fat": 10.0,
+                "carbs": 9.0
+            },
+            "instructions": [
+                "for the filo: put in a big bowl the flour , the salt and start adding the water until you have a hard dough that doesn't stick to the fingers",
+                "knead for 2-3 minutes",
+                "divide the dough in 5 pieces for 5 filos",
+                "place one ball on a dusted-with-flour counter and roll into a big circle , a little bigger than the pan you are using",
+                "it's hard work , i know ! start using each filo in the pan and then work with the other piece of dough",
+                "filling: mix the spinach , the sping onions , the leek , the dill and the parsley",
+                "add one teaspoon of salt and start rubbing by hand for 3 - 4 minutes",
+                "the greens start getting softer and their liquids start running",
+                "drain them and then add the feta cheese , the pepper and the rice or couscous",
+                "rice helps to absorb the extra liquid",
+                "lighty oil a 14 inch in diameter , round baking pan",
+                "layer one filo in the pan , allowing the edges to hang over the sides of the pan",
+                "brush the filo with olive oil and repeat with another filo",
+                "put the spinach mixture in and add the olive oil of the filling",
+                "tuck in the pastry draping over the edges",
+                "repeat layering with the remaining 3 filos , oiling each one gernerously",
+                "using a knife , score the pie into the size pieces you prefer , but avoid cuting through the bottom",
+                "brush the pie with some more olive oil",
+                "bake at 375f for 1 hour"
+            ],
+            "match_ratio": 0.769,
+            "matched_items": [
+                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
+                "vinegar -> Vinegar",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "spinach -> Spinach (chopped - frozen)",
+                "spring onions -> Onions (spring - raw)",
+                "leek -> Leek (raw)",
+                "dill -> Dill (raw)",
+                "parsley -> Parsley (raw)",
+                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]"
+            ],
+            "unmatched_items": [
+                "warm water",
+                "feta cheese",
+                "couscous"
+            ],
+            "_consumed_pantry_items": [
+                "flour",
+                "salt",
+                "oil olive",
+                "black pepper"
+            ]
+        },
+        "Dinner": {
+            "title": "scotch stew",
+            "rating": 5.0,
+            "is_predicted": false,
+            "total_co2": 0.0747,
+            "nutrition": {
+                "calories": 464.2,
+                "total_fat": 52.0,
+                "sugar": 15.0,
+                "sodium": 39.0,
+                "protein": 54.0,
+                "saturated_fat": 70.0,
+                "carbs": 3.0
+            },
+            "instructions": [
+                "melt butter in heavy skillet",
+                "when pan is quite hot , add meat and brown about 15 minutes , turning until good and brown",
+                "then pour in 2 cups boiling water and stir",
+                "add garlic , onion , salt , and pepper",
+                "cover , turn heat to low and simmer for 1 hour",
+                "then remove garlic , add carrots , and cook 45 minutes longer",
+                "make a paste of flour and cold water and add to meat and stir",
+                "simmer for 15 minutes longer",
+                "serve on 6 portions of mashed potatoes"
+            ],
+            "match_ratio": 0.7,
+            "matched_items": [
+                "boiling water -> [\ud83d\udd04 SWAP: Water (\u267e\ufe0f STAPLE): 0 CO2]",
+                "onion -> Onions (chopped - frozen)",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "carrots -> Carrot (frozen)",
+                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
+                "cold water -> [\ud83d\udd04 SWAP: Water (\u267e\ufe0f STAPLE): 0 CO2]"
+            ],
+            "unmatched_items": [
+                "ground round",
+                "butter",
+                "garlic clove"
+            ],
+            "_consumed_pantry_items": [
+                "water",
+                "salt",
+                "black pepper",
+                "flour",
+                "water"
+            ]
+        }
+    },
+    {
+        "Breakfast": {
+            "title": "tomatoes stuffed with scrambled eggs and smoked salmon",
+            "rating": 5.0,
+            "is_predicted": false,
+            "total_co2": 0.2152,
+            "nutrition": {
+                "calories": 118.1,
+                "total_fat": 1.0,
+                "sugar": 36.0,
+                "sodium": 22.0,
+                "protein": 32.0,
+                "saturated_fat": 0.0,
+                "carbs": 4.0
+            },
+            "instructions": [
+                "preheat broiler",
+                "slice the top off of each tomato",
+                "hollow out each tomato , leaving a firm shell",
+                "reserve",
+                "whisk the liquid eggs with the dill , onion , salt and pepper until well combined",
+                "melt the margarine in a large , non-stick skillet and set over medium heat",
+                "pour the egg mixture into the skillet",
+                "cook , without stirring , for 1 minute",
+                "cook , stirring frequently , for 2-3 minutes or until eggs are fluffy and almost set",
+                "remove from heat",
+                "gently stir in the salmon and capers",
+                "scoop an equal portion of the egg mixture evenly into each hollowed tomato",
+                "place on a rimmed baking sheet",
+                "sprinkle each tomato evenly with goat cheese",
+                "broil for 2 to 3 minutes or until cheese is browned",
+                "garnish with additional smoked salmon and dill"
+            ],
+            "match_ratio": 0.7,
+            "matched_items": [
+                "tomatoes -> Tomato (peeled - canned)",
+                "fresh dill -> Dill (raw)",
+                "red onions -> Red onion",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "black pepper -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "capers -> Caper",
+                "goat cheese -> Goat cheese"
+            ],
+            "unmatched_items": [
+                "liquid egg substitute",
+                "non-hydrogenated margarine",
+                "smoked salmon"
+            ],
+            "_consumed_pantry_items": [
+                "salt",
+                "black pepper"
+            ]
+        },
+        "Lunch": {
+            "title": "hot german noodles",
+            "rating": 5.0,
+            "is_predicted": false,
+            "total_co2": 0.4234,
+            "nutrition": {
+                "calories": 366.9,
+                "total_fat": 17.0,
+                "sugar": 50.0,
+                "sodium": 11.0,
+                "protein": 21.0,
+                "saturated_fat": 17.0,
+                "carbs": 18.0
+            },
+            "instructions": [
+                "rinse noodles with hot water and drain well",
+                "in large skillet , fry bacon until crisp",
+                "drain and crumble",
+                "remove all except 1 tablespoon of bacon drippings",
+                "add onion to skillet and cook until tender",
+                "stir in sugar , flour , celery or cabbage , salt and pepper",
+                "add water and vinegar",
+                "cook until mixture boils and thickens , stirring frequently",
+                "add cooked noodles and parsley",
+                "cook over low heat until thoroughly heated"
+            ],
+            "match_ratio": 0.909,
+            "matched_items": [
+                "bacon -> Bacon (frying - raw)",
+                "egg noodles -> Noodles (eggs)",
+                "onion -> Onions (chopped - frozen)",
+                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
+                "celery -> Celery (raw)",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "vinegar -> Vinegar",
+                "fresh parsley -> Parsley (raw)"
+            ],
+            "unmatched_items": [
+                "sugar"
+            ],
+            "_consumed_pantry_items": [
+                "flour",
                 "salt",
                 "black pepper",
                 "water"
             ]
         },
         "Dinner": {
-            "title": "arroz brazilian style rice",
-            "rating": 4.599999904632568,
-            "is_predicted": true,
-            "total_co2": 0.0261,
+            "title": "warm german  and vegan   potato salad",
+            "rating": 5.0,
+            "is_predicted": false,
+            "total_co2": 0.1914,
             "nutrition": {
-                "calories": 258.8,
-                "total_fat": 5.0,
-                "sugar": 1.0,
-                "sodium": 0.0,
-                "protein": 8.0,
-                "saturated_fat": 2.0,
-                "carbs": 16.0
+                "calories": 308.7,
+                "total_fat": 10.0,
+                "sugar": 38.0,
+                "sodium": 1.0,
+                "protein": 11.0,
+                "saturated_fat": 5.0,
+                "carbs": 18.0
             },
             "instructions": [
-                "heat the olive oil in a large heavy saucepan over medium heat",
-                "add the chopped onion and cook until limp",
-                "do not let it brown !",
-                "add the rice and saut until the grains become shiny",
-                "add the water , cover the pan , and cook over low heat until all the water is absorbed and the grains are tender"
+                "bake the potatoes",
+                "while the potatoes are cooling , heat the oil in a skillet over medium",
+                "add the vinegar and water , and increase the heat till this mixture is boiling",
+                "stir in the sugar and flour , and stir constantly until it's thickened",
+                "peel and chop the potatoes , and place in a serving bowl",
+                "gently stir in the celery , onion , salt and pepper",
+                "pour warm dressing over potato mixture",
+                "sprinkle liberally with vegan bacon bits , if desired",
+                "taste , adjust seasonings , and serve warm"
             ],
-            "match_ratio": 0.8,
+            "match_ratio": 0.727,
             "matched_items": [
-                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "onion -> Onions (chopped - frozen)",
+                "potatoes -> Potato (canned)",
                 "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]"
+                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]",
+                "onion -> Onions (chopped - frozen)",
+                "celery -> Celery (raw)",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]"
             ],
             "unmatched_items": [
-                "long grain rice"
+                "apple cider vinegar",
+                "sugar",
+                "bacon bits"
             ],
             "_consumed_pantry_items": [
-                "water",
                 "oil olive",
-                "salt"
+                "water",
+                "flour",
+                "salt",
+                "black pepper"
             ]
         }
     },
     {
         "Breakfast": {
-            "title": "veggie breakfast casserole",
-            "rating": 4.285714285714286,
+            "title": "break the fast beans",
+            "rating": 5.0,
             "is_predicted": false,
-            "total_co2": 0.1883,
+            "total_co2": 0.3815,
             "nutrition": {
-                "calories": 142.8,
-                "total_fat": 10.0,
-                "sugar": 6.0,
-                "sodium": 11.0,
-                "protein": 17.0,
-                "saturated_fat": 6.0,
-                "carbs": 4.0
+                "calories": 448.4,
+                "total_fat": 23.0,
+                "sugar": 49.0,
+                "sodium": 27.0,
+                "protein": 43.0,
+                "saturated_fat": 22.0,
+                "carbs": 19.0
             },
             "instructions": [
-                "mix together the potatoes , tofu , and soy sauce",
-                "saute the onion and garlic in the oil until translucent",
-                "preheat the oven to 325 degrees f",
-                "mix the onion and garlic into the potato mixture , and add the parsley , basil , and black pepper",
-                "spread into an oiled 8 x 8 x 2-inch baking dish",
-                "sprinkle with paprika and bake for 35 minutes"
+                "heat the olive oil in a fry pan over medium heat and add the onions and bacon and cook for 5 minutes or until soft and golden and then add the capsicum and cook for 3 minutes or until soft",
+                "stir in the beans , tomatoes and sugar and bring to the boil and cook for 10 minutes or until the sauce has thickened",
+                "stir in the basil and season with cracked black pepper and serve with toasted wholegrain bread - also good stuffed into a baked potatoe for a light meal"
             ],
             "match_ratio": 0.7,
             "matched_items": [
-                "potatoes -> Potato (canned)",
-                "soy sauce -> Soy sauce",
-                "onion -> Onions (chopped - frozen)",
                 "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "parsley -> Parsley (raw)",
+                "onion -> Onions (chopped - frozen)",
+                "bacon -> Bacon (frying - raw)",
+                "tomatoes -> Tomato (peeled - canned)",
+                "brown sugar -> Sugar (brown)",
                 "basil -> Basil (fresh)",
                 "black pepper -> [\u267e\ufe0f STAPLE: 0 CO2]"
             ],
             "unmatched_items": [
-                "firm tofu",
-                "garlic cloves",
-                "paprika"
+                "capsicum",
+                "red kidney beans",
+                "cannellini beans"
             ],
             "_consumed_pantry_items": [
                 "oil olive",
@@ -728,219 +966,106 @@
             ]
         },
         "Lunch": {
-            "title": "puerto rican plantain tostones",
-            "rating": 4.7,
+            "title": "mussels vinaigrette",
+            "rating": 5.0,
             "is_predicted": false,
-            "total_co2": 0.006,
+            "total_co2": 0.0964,
             "nutrition": {
-                "calories": 58.5,
-                "total_fat": 5.0,
-                "sugar": 12.0,
-                "sodium": 12.0,
-                "protein": 0.0,
-                "saturated_fat": 2.0,
-                "carbs": 2.0
+                "calories": 54.4,
+                "total_fat": 7.0,
+                "sugar": 0.0,
+                "sodium": 2.0,
+                "protein": 3.0,
+                "saturated_fat": 3.0,
+                "carbs": 0.0
             },
             "instructions": [
-                "peel plantains and slice into 1 inch thick sections",
-                "place water , salt and garlic in a large baking pan",
-                "soak the plantain slices in the garlic mixture for 20 minutes",
-                "pour oil in a pan set at 365 degrees",
-                "fry plantains until they are golden brown on all sides",
-                "flatten each plantain between sheets of wax paper with a plate or the palm of your hand",
-                "dip flattened plantains into garlic mixture and place on a paper towl",
-                "place plantains into the oil once again and fry until crispy and golden brown",
-                "sprinkle with salt to taste",
-                "serve promptly after frying for best taste"
+                "scrub mussels well and remove the beards",
+                "discard any that do not close tightly , set aside",
+                "whisk the oil and vinegar together in a bowl , then add capers , onion , pimiento , parsley , salt and pepper to taste",
+                "place one cup water in a frypan with the lemon slice",
+                "add the mussels and bring to a boil",
+                "remove the mussels as they open",
+                "cool",
+                "remove the mussel meat from the shells , reserving half the shells , and mix it into the vinaigrette",
+                "cover and refrigerate overnight",
+                "clean the reserved mussel shells well and place them in a plastic bag in the refrigerator",
+                "before serving , replace the mussels in the shells and spoon a small amount of the vinaigrette over"
             ],
             "match_ratio": 0.8,
             "matched_items": [
-                "fresh garlic -> Garlic (raw)",
-                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]"
-            ],
-            "unmatched_items": [
-                "green plantains"
-            ],
-            "_consumed_pantry_items": [
-                "salt",
-                "water",
-                "oil olive"
-            ]
-        },
-        "Dinner": {
-            "title": "pasta with caramelized onions   blue cheese  moosewood",
-            "rating": 4.333333333333333,
-            "is_predicted": false,
-            "total_co2": 0.0281,
-            "nutrition": {
-                "calories": 692.4,
-                "total_fat": 23.0,
-                "sugar": 54.0,
-                "sodium": 44.0,
-                "protein": 49.0,
-                "saturated_fat": 35.0,
-                "carbs": 36.0
-            },
-            "instructions": [
-                "cook pasta until al dente",
-                "heat oil in a 12-14 inch skillet at medium heat",
-                "add onions , salt and pepper",
-                "cook until lightly caramelized",
-                "add wine , broth or water",
-                "cook on low heat , stirring occasionally",
-                "remove from heat when pasta is done",
-                "dip out a cup of the pasta cooking water , then drain pasta",
-                "place pasta in your serving dish",
-                "toss in onion mixture and blue cheese , until the pasta is coated",
-                "use a bit of the cooking water that you saved to \"wash\" the remaining onion mixture from your pan",
-                "add the mixture to the pasta",
-                "add more cooking water to the pasta if it seems dry",
-                "serve hot"
-            ],
-            "match_ratio": 0.714,
-            "matched_items": [
+                "mussels -> Mussel (raw)",
                 "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "onions -> Onions (chopped - frozen)",
+                "capers -> Caper",
+                "onion -> Onions (chopped - frozen)",
+                "parsley -> Parsley (raw)",
                 "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "black pepper -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "blue cheese -> Blue cheese"
+                "fresh ground pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "lemon -> Lemon (raw)"
             ],
             "unmatched_items": [
-                "pasta shells",
-                "dry white wine"
+                "red wine vinegar",
+                "pimiento"
             ],
             "_consumed_pantry_items": [
                 "oil olive",
                 "salt",
                 "black pepper"
             ]
-        }
-    },
-    {
-        "Breakfast": {
-            "title": "peanut butter   banana oatmeal cookies  egg free  milk free",
-            "rating": 4.111111111111111,
+        },
+        "Dinner": {
+            "title": "pot roast by diner",
+            "rating": 5.0,
             "is_predicted": false,
-            "total_co2": 0.2329,
+            "total_co2": 0.208,
             "nutrition": {
-                "calories": 101.6,
-                "total_fat": 4.0,
-                "sugar": 29.0,
-                "sodium": 1.0,
-                "protein": 5.0,
-                "saturated_fat": 3.0,
-                "carbs": 5.0
+                "calories": 568.1,
+                "total_fat": 37.0,
+                "sugar": 23.0,
+                "sodium": 9.0,
+                "protein": 104.0,
+                "saturated_fat": 38.0,
+                "carbs": 12.0
             },
             "instructions": [
-                "preheat oven to 350f",
-                "in a medium bowl , mash bananas with the back of a fork",
-                "stir in peanut butter and brown sugar",
-                "then stir in oats and flour until thoroughly combined",
-                "onto a greased cookie sheet , drop cookie dough by heaping teaspoonfuls",
-                "gently flatten cookie mounds to 1 / 2 inch thickness",
-                "bake for 12-15 minutes or until cookie bottoms are light brown , and tops are no longer shiny"
+                "preheat oven to 350 degrees",
+                "add oil to a dutch oven or large covered dish that can go from stovetop to oven and heat to medium high heat",
+                "season roast with salt , pepper and garlic salt",
+                "brown roast on both sides in oil",
+                "then add water or beef broth , onions and carrots",
+                "bring to a boil",
+                "turn off heat and put cover on and place in oven",
+                "let roast cook for 2 1 / 2 hours",
+                "check at this point and make sure there still is enough liquid , if not add more water",
+                "this type of meat needs to cook for a long time but needs the liquid to make it tender",
+                "now add the the potatoes",
+                "cook for another hour or until potatoes are tender and cooked through",
+                "remove meat and vegetable to a serving plate / bowl and keep warm",
+                "add water or beef broth to pan and stir to get all the browned pieces",
+                "mix flour with one cup water , add salt and pepper to taste , and shake until very well blended",
+                "add this mixture to pan until thickened and to your taste"
             ],
             "match_ratio": 0.8,
             "matched_items": [
-                "bananas -> Banana (raw)",
-                "peanut butter -> Peanut butter",
-                "brown sugar -> Sugar (brown)",
+                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "pepper -> [\ud83d\udd04 SWAP: Black Pepper (\u267e\ufe0f STAPLE): 0 CO2]",
+                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
+                "onions -> Onions (chopped - frozen)",
+                "carrots -> Carrot (frozen)",
+                "potato -> Potato (canned)",
                 "flour -> [\ud83d\udfe2 PANTRY: 0 CO2]"
             ],
             "unmatched_items": [
-                "quick-cooking oats"
+                "chuck roast",
+                "garlic salt"
             ],
             "_consumed_pantry_items": [
-                "flour"
-            ]
-        },
-        "Lunch": {
-            "title": "quick homemade tomato soup",
-            "rating": 4.25,
-            "is_predicted": false,
-            "total_co2": 0.1835,
-            "nutrition": {
-                "calories": 79.1,
-                "total_fat": 2.0,
-                "sugar": 39.0,
-                "sodium": 41.0,
-                "protein": 3.0,
-                "saturated_fat": 1.0,
-                "carbs": 5.0
-            },
-            "instructions": [
-                "heat oil in soup pot over medium heat",
-                "add onion and allow to sweat for 5-6 minutes",
-                "add can of tomatoes , water , brown sugar , salt and pepper",
-                "check for personal taste on salt and pepper and add more if you wish",
-                "bring to boil and turn down",
-                "at this time i use my immersion blender to puree the soup a bit",
-                "if you don't have one , you can pop it in your regular blender , of if you like it chunky , do not do this step",
-                "allow to simmer for 5 minutes",
-                "garnish with sour cream , chives or croutons"
-            ],
-            "match_ratio": 0.857,
-            "matched_items": [
-                "diced onion -> Onions (chopped - frozen)",
-                "diced tomatoes -> Tomato (peeled - canned)",
-                "water -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "brown sugar -> Sugar (brown)",
-                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "black pepper -> [\u267e\ufe0f STAPLE: 0 CO2]"
-            ],
-            "unmatched_items": [
-                "corn oil"
-            ],
-            "_consumed_pantry_items": [
-                "water",
-                "salt",
-                "black pepper"
-            ]
-        },
-        "Dinner": {
-            "title": "momma s artichoke hearts and mushroom bake",
-            "rating": 4.333333333333333,
-            "is_predicted": false,
-            "total_co2": 0.1189,
-            "nutrition": {
-                "calories": 211.3,
-                "total_fat": 23.0,
-                "sugar": 10.0,
-                "sodium": 12.0,
-                "protein": 13.0,
-                "saturated_fat": 13.0,
-                "carbs": 4.0
-            },
-            "instructions": [
-                "drain artichoke liquid and slice hearts in quarters",
-                "clean and slice mushrooms",
-                "place 1 tablespoon of olive oil at the bottom of a covered casserole dish",
-                "arrange the artichoke hearts on the bottom and top with a layer of sliced mushrooms",
-                "sprinkle with salt & pepper",
-                "top with 1 / 4 of the breadcrumbs",
-                "drizzle 1 tablespoon of olive oil onto the breadcrumbs and repeat the layers again",
-                "finish the top layer of breadcrumbs with the remaining oil and top with parmesan cheese",
-                "cover and bake in a 350 degree oven for 30 minutes",
-                "remove the cover and brown the top until golden in color and serve"
-            ],
-            "match_ratio": 0.714,
-            "matched_items": [
-                "fresh mushrooms -> Mushroom (canned)",
-                "salt -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "black pepper -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "olive oil -> [\u267e\ufe0f STAPLE: 0 CO2]",
-                "breadcrumbs -> Breadcrumbs"
-            ],
-            "unmatched_items": [
-                "artichoke hearts",
-                "parmesan cheese"
-            ],
-            "_consumed_pantry_items": [
+                "oil olive",
                 "salt",
                 "black pepper",
-                "oil olive"
+                "water",
+                "flour"
             ]
         }
     }
